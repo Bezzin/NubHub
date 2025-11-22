@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import Stripe from 'stripe';
-import { getTimedOutSubmissions, markAsRefunded } from '../../db/client';
-import { sendRefundApology } from '../../services/emailService';
+import { getTimedOutSubmissions, markAsRefunded } from '../db/client';
+import { sendRefundApology } from '../services/emailService';
 
 let stripe: Stripe | null = null;
 
