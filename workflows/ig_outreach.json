@@ -1,0 +1,235 @@
+{
+  "name": "IG Outreach & Onboarding",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours"
+            }
+          ]
+        }
+      },
+      "name": "Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.apify.com/v2/acts/apify~instagram-scraper/run-sync-get-dataset-items",
+        "method": "POST",
+        "authentication": "headerAuth",
+        "jsonParameters": true,
+        "options": {},
+        "bodyParametersJson": "{\n  \"search\": \"#sonographer #midwife #12weekscan\",\n  \"resultsType\": \"posts\",\n  \"searchLimit\": 20\n}"
+      },
+      "name": "Find IG Influencers (Apify)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        450,
+        300
+      ],
+      "notes": "Replace with your actual Scraper API endpoint and credentials"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "number": [
+            {
+              "value1": "={{ $json.followersCount }}",
+              "operation": "largerEqual",
+              "value2": 5000
+            },
+            {
+              "value1": "={{ $json.followersCount }}",
+              "operation": "smallerEqual",
+              "value2": 50000
+            }
+          ]
+        }
+      },
+      "name": "Filter Followers",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        650,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "prompt": "={{ 'Analyze this Instagram profile: ' + $json.biography + '. Write a short, personalized DM inviting them to join our affiliate program for NubHub (baby gender reveal AI). Mention something specific from their bio.' }}"
+      },
+      "name": "Gemini AI Research",
+      "type": "n8n-nodes-base.googleGeminiChat",
+      "typeVersion": 1,
+      "position": [
+        850,
+        300
+      ],
+      "credentials": {
+        "googlePaLMApi": {
+          "id": "YOUR_GEMINI_CREDENTIAL_ID",
+          "name": "Google Gemini Account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "https://your-dm-service.com/send",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "={{ {\n  \"username\": $node[\"Filter Followers\"].json[\"username\"],\n  \"message\": $json.output\n} }}"
+      },
+      "name": "Send DM",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        1050,
+        300
+      ],
+      "notes": "Placeholder for DM sending service"
+    },
+    {
+      "parameters": {
+        "resource": "coupon",
+        "name": "={{ $node[\"Filter Followers\"].json[\"username\"] + '50' }}",
+        "percent_off": 50,
+        "duration": "forever"
+      },
+      "name": "Create Stripe Coupon",
+      "type": "n8n-nodes-base.stripe",
+      "typeVersion": 1,
+      "position": [
+        1250,
+        300
+      ],
+      "credentials": {
+        "stripeApi": {
+          "id": "YOUR_STRIPE_CREDENTIAL_ID",
+          "name": "Stripe Account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "promotionCode",
+        "coupon": "={{ $json.id }}",
+        "code": "={{ $node[\"Filter Followers\"].json[\"username\"] + '50' }}"
+      },
+      "name": "Create Promotion Code",
+      "type": "n8n-nodes-base.stripe",
+      "typeVersion": 1,
+      "position": [
+        1450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "sheetId": "YOUR_GOOGLE_SHEET_ID",
+        "range": "A:G",
+        "options": {}
+      },
+      "name": "Log to Google Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 3,
+      "position": [
+        1650,
+        300
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "YOUR_SHEETS_CREDENTIAL_ID",
+          "name": "Google Sheets Account"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Schedule": {
+      "main": [
+        [
+          {
+            "node": "Find IG Influencers (Apify)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Find IG Influencers (Apify)": {
+      "main": [
+        [
+          {
+            "node": "Filter Followers",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter Followers": {
+      "main": [
+        [
+          {
+            "node": "Gemini AI Research",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gemini AI Research": {
+      "main": [
+        [
+          {
+            "node": "Send DM",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send DM": {
+      "main": [
+        [
+          {
+            "node": "Create Stripe Coupon",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Stripe Coupon": {
+      "main": [
+        [
+          {
+            "node": "Create Promotion Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Promotion Code": {
+      "main": [
+        [
+          {
+            "node": "Log to Google Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

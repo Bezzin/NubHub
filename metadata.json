@@ -1,0 +1,7 @@
+{
+  "name": "NubHub - Early Gender Prediction",
+  "description": "AI-powered baby gender prediction using 12-week ultrasound scan images and the Nub Theory.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

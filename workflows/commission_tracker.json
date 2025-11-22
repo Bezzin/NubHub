@@ -1,0 +1,189 @@
+{
+  "name": "Commission Tracker",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "stripe-webhook",
+        "options": {}
+      },
+      "name": "Stripe Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ],
+      "webhookId": "YOUR_WEBHOOK_ID"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            {
+              "value1": "={{ $json.body.data.object.total_details.breakdown.discounts.length > 0 }}",
+              "value2": true
+            }
+          ]
+        }
+      },
+      "name": "Has Discount?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "resource": "promotionCode",
+        "id": "={{ $json.body.data.object.total_details.breakdown.discounts[0].promotion_code }}"
+      },
+      "name": "Get Promo Code",
+      "type": "n8n-nodes-base.stripe",
+      "typeVersion": 1,
+      "position": [
+        650,
+        300
+      ],
+      "credentials": {
+        "stripeApi": {
+          "id": "YOUR_STRIPE_CREDENTIAL_ID",
+          "name": "Stripe Account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "values": {
+          "number": [
+            {
+              "name": "commissionAmount",
+              "value": "={{ $node[\"Stripe Trigger\"].json[\"body\"][\"data\"][\"object\"][\"amount_total\"] * 0.5 / 100 }}"
+            }
+          ],
+          "string": [
+            {
+              "name": "promoCode",
+              "value": "={{ $json.code }}"
+            }
+          ]
+        }
+      },
+      "name": "Calculate Commission",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 1,
+      "position": [
+        850,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "lookup",
+        "sheetId": "YOUR_GOOGLE_SHEET_ID",
+        "range": "A:G",
+        "lookupColumn": "Promo Code",
+        "lookupValue": "={{ $json.promoCode }}",
+        "options": {}
+      },
+      "name": "Find Influencer",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 3,
+      "position": [
+        1050,
+        300
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "YOUR_SHEETS_CREDENTIAL_ID",
+          "name": "Google Sheets Account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "sheetId": "YOUR_GOOGLE_SHEET_ID",
+        "range": "A:G",
+        "row": "={{ $json.row }}",
+        "columns": {
+          "Total Sales": "={{ $json[\"Total Sales\"] + 1 }}",
+          "Unpaid Commission": "={{ $json[\"Unpaid Commission\"] + $node[\"Calculate Commission\"].json[\"commissionAmount\"] }}"
+        },
+        "options": {}
+      },
+      "name": "Update Commission",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 3,
+      "position": [
+        1250,
+        300
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "YOUR_SHEETS_CREDENTIAL_ID",
+          "name": "Google Sheets Account"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Stripe Trigger": {
+      "main": [
+        [
+          {
+            "node": "Has Discount?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Has Discount?": {
+      "main": [
+        [
+          {
+            "node": "Get Promo Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Promo Code": {
+      "main": [
+        [
+          {
+            "node": "Calculate Commission",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Calculate Commission": {
+      "main": [
+        [
+          {
+            "node": "Find Influencer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Find Influencer": {
+      "main": [
+        [
+          {
+            "node": "Update Commission",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}
