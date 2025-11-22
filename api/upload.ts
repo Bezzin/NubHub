@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import Stripe from 'stripe';
-import { createSubmission, updateStripeSession } from './db/client';
-import { uploadImage, generateUniqueFileName, validateImage } from './services/r2Service';
+import { createSubmission, updateStripeSession } from './db/client.js';
+import { uploadImage, generateUniqueFileName, validateImage } from './services/r2Service.js';
 
 let stripe: Stripe | null = null;
 
