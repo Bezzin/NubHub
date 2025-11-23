@@ -18,6 +18,7 @@ export enum AppState {
   LANDING = 'LANDING',
   UPLOADING = 'UPLOADING',
   PAYMENT = 'PAYMENT',
+  PROCESSING = 'PROCESSING', // Post-payment, waiting for AI analysis
   ANALYZING = 'ANALYZING',
   RESULT = 'RESULT',
   UNDER_REVIEW = 'UNDER_REVIEW',

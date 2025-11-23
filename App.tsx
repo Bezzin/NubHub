@@ -19,10 +19,69 @@ const App: React.FC = () => {
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const code = params.get('code');
+    const sessionId = params.get('session_id');
+
     if (code) {
       setPromoCode(code);
     }
+
+    // Handle return from Stripe checkout
+    if (sessionId) {
+      handleSuccessReturn(sessionId);
+    }
   }, []);
+
+  const handleSuccessReturn = async (sessionId: string) => {
+    setState(AppState.PROCESSING);
+
+    // Poll for submission status
+    const pollInterval = setInterval(async () => {
+      try {
+        const response = await fetch(`/api/check-status?session_id=${sessionId}`);
+
+        if (!response.ok) {
+          clearInterval(pollInterval);
+          setUploadError('Failed to retrieve submission status');
+          setState(AppState.ERROR);
+          return;
+        }
+
+        const data = await response.json();
+
+        // Check if AI analysis is complete
+        if (data.ai_result) {
+          clearInterval(pollInterval);
+
+          if (data.ai_result === 'Unclear') {
+            // Show under review state
+            setState(AppState.UNDER_REVIEW);
+          } else {
+            // Show results
+            setResult({
+              gender: data.ai_result,
+              confidence: data.ai_confidence || 0,
+              reasoning: data.ai_reasoning || 'Analysis complete',
+              tips: data.ai_tips || [],
+            });
+            setState(AppState.RESULT);
+          }
+        }
+        // If no result yet, keep polling
+
+      } catch (error) {
+        console.error('Status check error:', error);
+        // Continue polling on error
+      }
+    }, 3000); // Poll every 3 seconds
+
+    // Stop polling after 2 minutes (safety timeout)
+    setTimeout(() => {
+      clearInterval(pollInterval);
+      if (state === AppState.PROCESSING) {
+        setState(AppState.UNDER_REVIEW);
+      }
+    }, 120000);
+  };
 
   const handleFileChange = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
@@ -219,6 +278,54 @@ const App: React.FC = () => {
             </div>
             <h2 className="text-4xl font-serif italic text-gray-800 mb-3 drop-shadow-sm">Uploading Scan...</h2>
             <p className="text-rose-500/80 font-medium tracking-widest text-xs uppercase">Preparing your analysis</p>
+          </div>
+        )}
+
+        {/* Processing State (post-payment, waiting for AI) */}
+        {state === AppState.PROCESSING && (
+          <div className="max-w-3xl mx-auto animate-fade-in">
+            <div className="bg-white/70 backdrop-blur-2xl rounded-[3rem] shadow-[0_20px_60px_-15px_rgba(0,0,0,0.1)] overflow-hidden border border-white/60 ring-1 ring-white/80 p-16 text-center">
+              <div className="mb-8">
+                <div className="relative w-32 h-32 mx-auto mb-8">
+                  <div className="absolute inset-0 rounded-full border border-white/50"></div>
+                  <div className="absolute inset-0 rounded-full border-[3px] border-transparent border-t-rose-500 animate-spin duration-[3s]"></div>
+                  <div className="absolute inset-4 rounded-full border-[3px] border-transparent border-b-purple-400 animate-spin duration-[2s] direction-reverse"></div>
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <div className="bg-white/80 backdrop-blur-sm p-6 rounded-full shadow-xl shadow-purple-100/50">
+                      <SparklesIcon className="w-10 h-10 text-purple-500 animate-pulse" />
+                    </div>
+                  </div>
+                </div>
+                <h2 className="text-5xl font-serif italic text-purple-600 mb-4">Payment Successful!</h2>
+                <div className="w-32 h-1 bg-gradient-to-r from-transparent via-purple-400 to-transparent mx-auto mb-8"></div>
+              </div>
+
+              <p className="text-xl text-gray-700 mb-6 leading-relaxed">
+                Thank you! We're now analyzing your ultrasound scan with our advanced AI.
+              </p>
+
+              <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-3xl p-8 mb-8">
+                <h3 className="text-lg font-bold text-gray-800 mb-4">What's happening now?</h3>
+                <ul className="text-left space-y-3 text-gray-600">
+                  <li className="flex items-start gap-3">
+                    <span className="text-purple-500 mt-1 animate-pulse">⚡</span>
+                    <span>AI is analyzing your ultrasound image</span>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <span className="text-purple-500 mt-1">✓</span>
+                    <span>Results will appear automatically on this page</span>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <span className="text-purple-500 mt-1">✓</span>
+                    <span>You'll also receive results via email</span>
+                  </li>
+                </ul>
+              </div>
+
+              <p className="text-sm text-gray-500">
+                This usually takes less than 30 seconds...
+              </p>
+            </div>
           </div>
         )}
 
