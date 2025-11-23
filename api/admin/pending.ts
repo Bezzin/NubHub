@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { getPendingReviews } from '../db/client';
-import { getSignedImageUrl } from '../services/r2Service';
-import { verifyAdminAuth } from '../services/authService';
+import { getPendingReviews } from '../../lib/db/client';
+import { getSignedImageUrl } from '../../lib/services/r2Service';
+import { verifyAdminAuth } from '../../lib/services/authService';
 
 /**
  * GET /api/admin/pending

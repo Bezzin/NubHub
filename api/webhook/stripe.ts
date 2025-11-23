@@ -4,10 +4,10 @@ import {
   getSubmissionByStripeSession,
   updatePaymentConfirmed,
   updateAIResult,
-} from '../db/client';
-import { getSignedImageUrl } from '../services/r2Service';
-import { analyzeUltrasound, extractBase64FromDataUrl } from '../services/geminiService.backend';
-import { sendImmediateResult, sendUnderReview } from '../services/emailService';
+} from '../../lib/db/client';
+import { getSignedImageUrl } from '../../lib/services/r2Service';
+import { analyzeUltrasound, extractBase64FromDataUrl } from '../../lib/services/geminiService.backend';
+import { sendImmediateResult, sendUnderReview } from '../../lib/services/emailService';
 
 let stripe: Stripe | null = null;
 

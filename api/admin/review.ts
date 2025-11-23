@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { updateManualReview, getSubmissionById } from '../db/client';
-import { sendReviewedResult } from '../services/emailService';
-import { verifyAdminAuth } from '../services/authService';
+import { updateManualReview, getSubmissionById } from '../../lib/db/client';
+import { sendReviewedResult } from '../../lib/services/emailService';
+import { verifyAdminAuth } from '../../lib/services/authService';
 
 /**
  * POST /api/admin/review

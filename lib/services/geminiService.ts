@@ -1,5 +1,5 @@
 import { GoogleGenAI, Type } from "@google/genai";
-import { PredictionResult, NubTheoryInfo } from '../types';
+import { PredictionResult, NubTheoryInfo } from '../../types';
 
 // Initialize Gemini client
 // Ensure process.env.API_KEY is available

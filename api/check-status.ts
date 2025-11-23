@@ -1,5 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { getSubmissionByStripeSession } from './db/client';
+import { getSubmissionByStripeSession } from '../lib/db/client';
 
 /**
  * GET /api/check-status?session_id=xxx
