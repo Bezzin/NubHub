@@ -1,7 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { Resend } from 'resend';
 
 export async function POST(request: NextRequest) {
   try {
+    const resend = new Resend(process.env.RESEND_API_KEY);
     const { email } = await request.json();
 
     const subject = 'Refund Issued - Image Quality Issue';
@@ -74,9 +76,21 @@ Thanks for trying us out!
 
 The Nub Prediction Team`;
 
-    console.log('Sending unclear email via Resend MCP:', { to: email, subject, text, html });
+    const { error: sendError } = await resend.emails.send({
+      from: 'NubHub <results@nubhub.baby>',
+      to: email,
+      subject,
+      html,
+      text,
+    });
 
-    // TODO: Implement actual Resend MCP call here
+    if (sendError) {
+      return NextResponse.json(
+        { error: sendError.message },
+        { status: 500 }
+      );
+    }
+
     return NextResponse.json({ success: true });
   } catch (error) {
     console.error('Email sending error:', error);

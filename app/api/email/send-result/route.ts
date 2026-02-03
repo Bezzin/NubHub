@@ -1,7 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { Resend } from 'resend';
 
 export async function POST(request: NextRequest) {
   try {
+    const resend = new Resend(process.env.RESEND_API_KEY);
     const { email, result, confidence, prediction_id } = await request.json();
 
     const subject = 'Your Baby Gender Prediction Results 👶';
@@ -99,13 +101,21 @@ The Nub Prediction Team
 ---
 For entertainment purposes only. Not medical advice.`;
 
-    // Use Resend MCP via server-side call
-    // Note: In production, you would call the Resend MCP directly
-    // For now, we'll use a placeholder that logs the email
-    console.log('Sending email via Resend MCP:', { to: email, subject, text, html });
+    const { error: sendError } = await resend.emails.send({
+      from: 'NubHub <results@nubhub.baby>',
+      to: email,
+      subject,
+      html,
+      text,
+    });
 
-    // TODO: Implement actual Resend MCP call here
-    // For now, return success
+    if (sendError) {
+      return NextResponse.json(
+        { error: sendError.message },
+        { status: 500 }
+      );
+    }
+
     return NextResponse.json({ success: true });
   } catch (error) {
     console.error('Email sending error:', error);

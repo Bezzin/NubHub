@@ -153,7 +153,7 @@ export default function AdminDashboard() {
     pending: predictions.filter((p) => p.status === 'pending').length,
     sent: predictions.filter((p) => p.status === 'sent').length,
     refunded: predictions.filter((p) => p.status === 'refunded').length,
-    revenue: predictions.reduce((sum, p) => sum + (p.amount_paid || 0), 0),
+    revenue: predictions.reduce((sum, p) => sum + (Number(p.amount_paid) || 0), 0),
   };
 
   return (
@@ -215,7 +215,7 @@ export default function AdminDashboard() {
               <CardDescription>Total Revenue</CardDescription>
             </CardHeader>
             <CardContent>
-              <p className="text-3xl font-bold">£{stats.revenue.toFixed(2)}</p>
+              <p className="text-3xl font-bold">£{(stats.revenue || 0).toFixed(2)}</p>
             </CardContent>
           </Card>
         </div>

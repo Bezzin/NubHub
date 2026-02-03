@@ -3,10 +3,10 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { getPredictionById, updatePredictionAI } from '@/lib/db';
 import { getSignedImageUrl } from '@/lib/r2';
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
-
 export async function POST(request: NextRequest) {
   try {
+    const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
+
     const { prediction_id } = await request.json();
 
     if (!prediction_id) {
@@ -64,7 +64,7 @@ BOY
 The nub is clearly visible and angled approximately 40 degrees upward from the spine, indicating male development.`;
 
     // Call Gemini API - Using Gemini 1.5 Pro (stable and reliable)
-    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-pro' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-3.0-flash' });
 
     const result = await model.generateContent([
       prompt,
@@ -91,6 +91,20 @@ The nub is clearly visible and angled approximately 40 degrees upward from the s
       ai_confidence: aiConfidence,
       ai_raw_response: text,
     });
+
+    // Auto-send email with results
+    if (aiPrediction === 'BOY' || aiPrediction === 'GIRL') {
+      fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/email/send-result`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: prediction.customer_email,
+          result: aiPrediction,
+          confidence: aiConfidence,
+          prediction_id,
+        }),
+      }).catch(() => {});
+    }
 
     return NextResponse.json({
       success: true,

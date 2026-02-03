@@ -4,12 +4,12 @@ import { createPrediction, getActiveReferralCode, updateReferralCodeUsage } from
 import { uploadImage, generateUniqueFileName } from '@/lib/r2';
 import { sendTelegramNotification } from '@/lib/telegram';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-  apiVersion: '2025-02-24.acacia',
-});
-
 export async function POST(request: NextRequest) {
   try {
+    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
+      apiVersion: '2025-02-24.acacia',
+    });
+
     const formData = await request.formData();
     const image = formData.get('image') as File;
     const sessionId = formData.get('session_id') as string;
