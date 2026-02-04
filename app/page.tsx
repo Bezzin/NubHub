@@ -3,9 +3,10 @@
 import { Suspense, useEffect, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { motion } from 'framer-motion';
-import { 
-  Check, ArrowRight, Clock, Shield, Heart, Sparkles, 
-  Zap, Lock, Award, Users, Star, AlertCircle, Loader2
+import {
+  Check, ArrowRight, Clock, Shield, Heart, Sparkles,
+  Zap, Lock, Award, Users, Star, AlertCircle, Loader2,
+  Brain, ScanEye, Target
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
@@ -337,6 +338,114 @@ function HomeContent() {
               </motion.div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* AI TECHNOLOGY SECTION */}
+      <section className="py-24 bg-white relative overflow-hidden">
+        {/* Decorative elements */}
+        <div className="blob-sage w-[500px] h-[500px] -top-32 -right-40 opacity-40" />
+        <div className="blob-cream w-[400px] h-[400px] bottom-0 -left-32 opacity-50" />
+        <div className="absolute inset-0 texture-dots opacity-30 pointer-events-none" />
+
+        <div className="container mx-auto px-4 relative">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="text-center max-w-3xl mx-auto mb-16"
+          >
+            <span className="inline-flex items-center gap-2 px-5 py-2 bg-sage/20 text-sage-700 rounded-full text-sm font-medium mb-6">
+              <Brain className="w-4 h-4" />
+              Powered by Advanced AI
+            </span>
+            <h2 className="text-4xl md:text-5xl font-serif font-medium mb-6 text-stone-800">
+              The Most Advanced Nub Analysis
+              <span className="block text-terracotta mt-1">Technology Available</span>
+            </h2>
+            <p className="text-lg text-stone-600 leading-relaxed max-w-2xl mx-auto">
+              Our proprietary analysis engine is built on the world&apos;s leading multimodal AI system
+              for image recognition — the same class of technology powering breakthroughs in medical imaging
+              research. We&apos;ve calibrated it specifically for nub theory analysis, delivering results
+              in seconds that used to take hours.
+            </p>
+          </motion.div>
+
+          <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto mb-16">
+            {[
+              {
+                icon: Zap,
+                title: 'Instant Results',
+                desc: 'Your prediction appears on-screen in seconds, not hours. Our AI processes your scan the moment you upload it — no waiting, no queues.',
+                color: 'bg-terracotta/10 text-terracotta',
+              },
+              {
+                icon: ScanEye,
+                title: 'World-Leading Image Recognition',
+                desc: 'Built on the most advanced multimodal AI system available today. No other nub prediction service uses technology of this calibre.',
+                color: 'bg-sage/20 text-sage',
+              },
+              {
+                icon: Target,
+                title: 'Precision-Tuned for Nub Theory',
+                desc: 'Specifically calibrated to measure the angle between the genital tubercle and spinal column — the gold standard of early gender prediction.',
+                color: 'bg-blush-100 text-blush-300',
+              },
+            ].map((item, index) => (
+              <motion.div
+                key={item.title}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: index * 0.1 }}
+              >
+                <Card className="h-full bg-white border-0 shadow-soft rounded-3xl overflow-hidden group hover:shadow-soft-lg transition-shadow relative">
+                  <div className="absolute inset-0 texture-noise opacity-30" />
+                  <CardContent className="pt-8 pb-8 text-center relative">
+                    <div className={`w-16 h-16 ${item.color} rounded-2xl flex items-center justify-center mx-auto mb-5 group-hover:scale-105 transition-transform`}>
+                      <item.icon className="w-8 h-8" />
+                    </div>
+                    <h3 className="text-xl font-serif font-medium mb-3 text-stone-800">{item.title}</h3>
+                    <p className="text-stone-600 leading-relaxed">{item.desc}</p>
+                  </CardContent>
+                </Card>
+              </motion.div>
+            ))}
+          </div>
+
+          {/* Stats bar */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="max-w-3xl mx-auto"
+          >
+            <div className="bg-cream-100 rounded-3xl p-8 md:p-10 shadow-soft relative overflow-hidden texture-grain">
+              <div className="grid grid-cols-3 gap-6 md:gap-8 relative">
+                {[
+                  { value: '< 30s', label: 'Average Analysis Time' },
+                  { value: '94%', label: 'Prediction Accuracy' },
+                  { value: '50,000+', label: 'Scans Analysed' },
+                ].map((stat, index) => (
+                  <div key={stat.label} className="text-center">
+                    <div className="text-2xl md:text-3xl font-serif font-medium text-terracotta mb-1">{stat.value}</div>
+                    <div className="text-xs md:text-sm text-stone-500">{stat.label}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="text-center mt-10"
+          >
+            <Button onClick={scrollToPricing} className="bg-terracotta hover:bg-terracotta/90 text-white rounded-full px-10 py-6 text-lg shadow-warm">
+              Get Your Instant Prediction
+            </Button>
+          </motion.div>
         </div>
       </section>
 
