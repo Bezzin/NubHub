@@ -63,8 +63,8 @@ BOY
 85
 The nub is clearly visible and angled approximately 40 degrees upward from the spine, indicating male development.`;
 
-    // Call Gemini API - Using Gemini 1.5 Pro (stable and reliable)
-    const model = genAI.getGenerativeModel({ model: 'gemini-3.0-flash' });
+    // Call Gemini API — Gemini 3 Flash (latest multimodal model)
+    const model = genAI.getGenerativeModel({ model: 'gemini-3-flash-preview' });
 
     const result = await model.generateContent([
       prompt,
@@ -112,9 +112,11 @@ The nub is clearly visible and angled approximately 40 degrees upward from the s
       confidence: aiConfidence,
       explanation: aiExplanation,
     });
-  } catch {
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.error('Analyze error:', message);
     return NextResponse.json(
-      { error: 'Failed to analyze image' },
+      { error: 'Failed to analyze image', details: message },
       { status: 500 }
     );
   }

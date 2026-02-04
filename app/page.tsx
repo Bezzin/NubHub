@@ -413,6 +413,25 @@ function HomeContent() {
             ))}
           </div>
 
+          {/* Comparison chart */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="max-w-3xl mx-auto mb-16"
+          >
+            <div className="bg-cream-100 rounded-3xl p-6 md:p-10 shadow-soft relative overflow-hidden texture-grain">
+              <h3 className="text-2xl font-serif font-medium text-stone-800 text-center mb-6">
+                How We Compare
+              </h3>
+              <img
+                src="/chart.jpg"
+                alt="NubHub AI comparison chart showing superior precision over ChatGPT and other models"
+                className="w-full rounded-2xl"
+              />
+            </div>
+          </motion.div>
+
           {/* Stats bar */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
