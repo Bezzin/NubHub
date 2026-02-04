@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 33% 97%;
+    --foreground: 20 14% 15%;
+    --card: 40 33% 98%;
+    --card-foreground: 20 14% 15%;
+    --popover: 40 33% 98%;
+    --popover-foreground: 20 14% 15%;
+    --primary: 20 40% 55%;
+    --primary-foreground: 40 33% 97%;
+    --secondary: 120 10% 60%;
+    --secondary-foreground: 20 14% 15%;
+    --muted: 40 20% 94%;
+    --muted-foreground: 20 6% 45%;
+    --accent: 20 40% 55%;
+    --accent-foreground: 40 33% 97%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 40 20% 90%;
+    --input: 40 20% 90%;
+    --ring: 20 40% 55%;
+    --chart-1: 20 40% 55%;
+    --chart-2: 120 10% 60%;
+    --chart-3: 0 30% 85%;
+    --chart-4: 35 40% 70%;
+    --chart-5: 340 30% 65%;
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-cream-100 text-stone-800 antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-medium tracking-tight;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  /* Warm gradient backgrounds */
+  .bg-gradient-warm {
+    background: linear-gradient(135deg, #FAF7F2 0%, #F5EFE6 100%);
+  }
+  
+  .bg-gradient-terracotta {
+    background: linear-gradient(135deg, #C17A59 0%, #A65D3C 100%);
+  }
+  
+  /* Noise texture overlay */
+  .texture-noise {
+    position: relative;
+  }
+  
+  .texture-noise::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.03;
+    pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  }
+  
+  /* Subtle dot pattern */
+  .texture-dots {
+    background-image: radial-gradient(circle, #C17A59 1px, transparent 1px);
+    background-size: 24px 24px;
+    opacity: 0.06;
+  }
+  
+  /* Organic blob shapes */
+  .blob-terracotta {
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(135deg, rgba(193, 122, 89, 0.08) 0%, rgba(193, 122, 89, 0.02) 100%);
+    filter: blur(60px);
+    pointer-events: none;
+  }
+  
+  .blob-sage {
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(135deg, rgba(143, 166, 142, 0.1) 0%, rgba(143, 166, 142, 0.03) 100%);
+    filter: blur(80px);
+    pointer-events: none;
+  }
+  
+  .blob-cream {
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(135deg, rgba(250, 247, 242, 0.8) 0%, rgba(250, 247, 242, 0.3) 100%);
+    filter: blur(40px);
+    pointer-events: none;
+  }
+  
+  /* Watercolor wash effect */
+  .texture-wash {
+    position: relative;
+  }
+  
+  .texture-wash::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.4;
+    pointer-events: none;
+    background: 
+      radial-gradient(ellipse 80% 50% at 20% 40%, rgba(193, 122, 89, 0.08) 0%, transparent 50%),
+      radial-gradient(ellipse 60% 40% at 80% 60%, rgba(143, 166, 142, 0.06) 0%, transparent 50%);
+  }
+  
+  /* Grid pattern */
+  .texture-grid {
+    background-image: 
+      linear-gradient(rgba(193, 122, 89, 0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(193, 122, 89, 0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+  
+  /* Soft waves pattern */
+  .texture-waves {
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox='0 0 100 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q 25 20, 50 10 T 100 10' stroke='%23C17A59' stroke-width='0.5' fill='none' opacity='0.08'/%3E%3C/svg%3E");
+    background-size: 100px 20px;
+  }
+  
+  /* Subtle grain */
+  .texture-grain {
+    position: relative;
+  }
+  
+  .texture-grain::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.025;
+    pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  }
+  
+  /* Section with image overlay */
+  .bg-image-overlay {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .bg-image-overlay::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(250, 247, 242, 0.92) 0%, rgba(250, 247, 242, 0.85) 100%);
+    pointer-events: none;
+  }
+  
+  /* Floating shapes */
+  .shape-float {
+    animation: float 6s ease-in-out infinite;
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+  }
+  
+  /* Gentle pulse for organic feel */
+  .pulse-soft {
+    animation: pulseSoft 4s ease-in-out infinite;
+  }
+  
+  @keyframes pulseSoft {
+    0%, 100% { opacity: 0.6; }
+    50% { opacity: 0.8; }
+  }
+}
