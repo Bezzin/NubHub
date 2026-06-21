@@ -1,2 +1,17 @@
 .claude/
 .mcp.json
+
+# NubHub content pipeline — secrets and generated artifacts
+content-pipeline/config.json
+content-pipeline/outputs/
+content-pipeline/logs/
+
+# Local agent state & scratch artifacts (not part of the site)
+.omc/
+.codex/
+.playwright-mcp/
+*.bak
+app/screenshots/
+/_gen/
+/*.jpeg
+/*.jpg
