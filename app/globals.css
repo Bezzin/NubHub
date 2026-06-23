@@ -634,14 +634,13 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke: 0.58rem #ffffff;
+    -webkit-text-stroke: 0.44rem #ffffff;
     paint-order: stroke fill;
     filter:
       drop-shadow(0 2px 0 #f4ecff)
       drop-shadow(0 4px 0 #e9dafb)
       drop-shadow(0 6px 0 #ddc9f5)
-      drop-shadow(0 8px 0 #d3bdf0)
-      drop-shadow(0 20px 20px rgba(118, 86, 178, 0.42));
+      drop-shadow(0 10px 9px rgba(118, 86, 178, 0.18));
   }
 
   .clay-bubble span {
@@ -1266,11 +1265,11 @@
     .clay-stats { grid-template-columns: repeat(2, 1fr); }
     .clay-steps { grid-template-columns: 1fr; }
     .clay-bubble {
-      -webkit-text-stroke-width: 0.42rem;
+      -webkit-text-stroke-width: 0.34rem;
       filter:
         drop-shadow(0 2px 0 #f4ecff)
         drop-shadow(0 4px 0 #ddc9f5)
-        drop-shadow(0 10px 13px rgba(88, 58, 150, 0.5));
+        drop-shadow(0 8px 9px rgba(88, 58, 150, 0.22));
     }
     .clay-hero__lead { font-size: 1.05rem; }
     .clay-stage { min-height: 27rem; }
