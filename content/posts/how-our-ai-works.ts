@@ -32,7 +32,7 @@ export const howOurAiWorks: Post = {
     'This is an <strong>early, for-entertainment estimate</strong>, not a medical or diagnostic test.',
   ],
   intro:
-    '<p><strong>AI predicts baby gender by analysing the genital tubercle — the “nub” — on a clear 12–13 week ultrasound. A model trained on thousands of nub images measures the nub’s angle, shape, stacking and image clarity together, then produces a confidence score. At NubHub a nub theory specialist reviews and confirms that result before it reaches you.</strong></p>',
+    '<p><strong>AI predicts baby gender by analysing the genital tubercle — the “nub” — on a clear 12–13 week ultrasound. A model trained on thousands of nub images measures the nub’s angle, shape, stacking and image clarity together, then produces a confidence score. At NubHub an obstetric and maternity professional with 20+ years of experience reviews and confirms that result before it reaches you.</strong></p>',
   sections: [
     {
       id: 'how-ai-predicts-gender',
@@ -62,7 +62,7 @@ export const howOurAiWorks: Post = {
         '<li><strong>Upload your 12-week scan.</strong> A clear mid-sagittal (side-profile) image works best — see our <a href="/blog/how-to-read-12-week-scan">guide to reading a 12-week scan</a> for what that looks like.</li>' +
         '<li><strong>The AI analyses it.</strong> The model assesses the nub’s angle, shape, stacking and overall image clarity <em>together</em>, rather than one factor in isolation.</li>' +
         '<li><strong>It produces a confidence score.</strong> A crisp, well-angled nub scores high; a blurry or awkwardly positioned one scores lower and is flagged.</li>' +
-        '<li><strong>A specialist reviews and confirms.</strong> A nub theory specialist checks the AI’s reading, catches edge cases, and confirms the call.</li>' +
+        '<li><strong>A maternity professional reviews and confirms.</strong> An obstetric and maternity professional with 20+ years of experience checks the AI’s reading, catches edge cases, and confirms the call.</li>' +
         '<li><strong>You get your result in ~2 hours.</strong> Backed by our money-back guarantee.</li>' +
         '</ol>' +
         '<p>Because the model gives a confidence score rather than a flat yes/no, you also learn <em>how sure</em> the reading is — which a single human glance rarely tells you.</p>',

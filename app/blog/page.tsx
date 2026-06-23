@@ -20,10 +20,15 @@ const order = [
   'nub-theory',
   'nub-theory-accuracy',
   'nub-theory-boy-vs-girl',
+  'nub-theory-stacking-sign-explained',
   'how-to-read-12-week-scan',
+  'best-week-for-nub-theory',
   'can-you-tell-gender-at-12-weeks',
   'nub-theory-vs-ramzi-vs-skull',
+  'nipt-vs-nub-theory',
+  'nub-theory-twins',
   'how-our-ai-works',
+  'gender-reveal-ideas-after-your-prediction',
   'faq',
 ];
 

@@ -129,7 +129,7 @@ export function articleSchema(opts: {
   image?: string;
   authorName: string;
   authorUrl?: string;
-  reviewerName?: string;
+  reviewer?: { name: string; role?: string; url?: string; image?: string };
 }): Json {
   return {
     '@context': 'https://schema.org',
@@ -144,8 +144,16 @@ export function articleSchema(opts: {
       name: opts.authorName,
       url: opts.authorUrl ?? SITE_URL,
     },
-    ...(opts.reviewerName
-      ? { reviewedBy: { '@type': 'Organization', name: opts.reviewerName } }
+    ...(opts.reviewer
+      ? {
+          reviewedBy: {
+            '@type': 'Person',
+            name: opts.reviewer.name,
+            ...(opts.reviewer.role ? { jobTitle: opts.reviewer.role } : {}),
+            ...(opts.reviewer.url ? { url: opts.reviewer.url } : {}),
+            ...(opts.reviewer.image ? { image: opts.reviewer.image } : {}),
+          },
+        }
       : {}),
     publisher: { '@id': ORG_ID },
     isPartOf: { '@id': WEBSITE_ID },
