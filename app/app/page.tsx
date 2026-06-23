@@ -7,10 +7,10 @@ import { productSchema } from '@/lib/schema';
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/site';
 
 const stats = [
-  { value: '94%', label: 'accuracy' },
+  { value: 'Up to 94%', label: 'accuracy' },
   { value: '2 hours', label: 'result' },
   { value: 'Refund', label: 'if wrong' },
-  { value: '15k+', label: 'parents' },
+  { value: 'Private', label: '& secure' },
 ];
 
 const processSteps: {
@@ -37,7 +37,7 @@ const processSteps: {
     step: '03',
     title: 'Expert review',
     icon: '/clay/review.png',
-    copy: 'A nub theory specialist reviews the prediction before delivery.',
+    copy: 'Ivy, our obstetric & maternity professional with 20 years of experience, reviews every prediction before delivery.',
   },
   {
     step: '04',
@@ -68,7 +68,7 @@ const methodCards = [
   {
     icon: '/clay/m-human.png',
     title: 'Human review',
-    copy: 'A specialist checks the analysis before your result is sent.',
+    copy: 'An obstetric & maternity professional (20+ years) checks the analysis before your result is sent.',
   },
 ];
 
@@ -114,9 +114,10 @@ export default function Page() {
 
         <nav className="clay-nav__links">
           <a href="#how-it-works">How it works</a>
+          <Link href="/nub-theory">Nub theory</Link>
+          <Link href="/blog">Guides</Link>
           <a href="#accuracy">Accuracy</a>
-          <a href="#method">Method</a>
-          <a href="#faq">FAQ</a>
+          <Link href="/faq">FAQ</Link>
         </nav>
 
         <div className="clay-nav__action">
@@ -250,12 +251,12 @@ export default function Page() {
           <div className="clay-accuracy__copy">
             <span className="clay-kicker">Accuracy you can trust</span>
             <h2>
-              Right 94% of the time.
+              Right up to 94% of the time.
             </h2>
             <p className="clay-section__head" style={{ marginTop: '0.9rem' }}>
-              NubHub blends image analysis with a specialist review — your scan is
-              checked for angle, visibility, and baby position before the prediction
-              reaches you.
+              NubHub blends AI image analysis with review by Ivy, an obstetric &amp; maternity
+              professional with 20 years of experience — your scan is checked for angle,
+              visibility, and baby position before the prediction reaches you.
             </p>
 
             <div className="clay-proof">
@@ -275,14 +276,14 @@ export default function Page() {
               style={{ width: '2.4rem', top: '1.2rem', right: '1.4rem' }}
             />
             <div className="clay-statcard__big">94%</div>
-            <div className="clay-statcard__label">accuracy rate</div>
+            <div className="clay-statcard__label">peak accuracy</div>
             <div className="clay-bars">
               <span style={{ height: '46%' }} />
               <span style={{ height: '66%' }} />
               <span style={{ height: '80%' }} />
               <span style={{ height: '94%' }} />
             </div>
-            <p className="clay-statcard__note">Based on 15,000+ expert-reviewed scans</p>
+            <p className="clay-statcard__note">Nub theory is ~85–90% accurate at 12–13 weeks; our AI + professional review lifts that toward 94%.</p>
           </div>
 
           <figure className="clay-review">
@@ -290,14 +291,12 @@ export default function Page() {
               <img src="/clay/mascot.png" alt="" />
             </div>
             <div>
-              <div className="clay-review__stars" aria-label="5 out of 5 stars">
-                ★★★★★
-              </div>
               <blockquote>
-                “The prediction came through in under 2 hours and was spot on. The whole
-                process felt easy and reassuring.”
+                Every prediction is reviewed by Ivy — an obstetric &amp; maternity professional
+                with 20 years&apos; experience — who checks each scan&apos;s nub angle, clarity,
+                and the baby&apos;s position before your result is sent.
               </blockquote>
-              <figcaption>Emma R. · Verified result · Girl · 12w0d · delivered in 1h 42m</figcaption>
+              <figcaption>How every NubHub result is checked · usually within 2 hours</figcaption>
             </div>
           </figure>
         </div>
@@ -356,7 +355,7 @@ export default function Page() {
             <div className="clay-ticket__price">£9.97</div>
             <ul>
               <li><Check className="h-4 w-4" />AI-powered nub analysis</li>
-              <li><Check className="h-4 w-4" />Expert review before delivery</li>
+              <li><Check className="h-4 w-4" />Reviewed by a maternity pro (20+ yrs)</li>
               <li><Check className="h-4 w-4" />Private result within 2 hours</li>
               <li><Check className="h-4 w-4" />Money-back guarantee</li>
             </ul>
@@ -384,6 +383,17 @@ export default function Page() {
 
       {/* ---------- Footer ---------- */}
       <footer className="clay-footer">
+        <nav className="clay-footer__links" aria-label="Site links">
+          <Link href="/nub-theory">Nub theory</Link>
+          <Link href="/blog">Guides</Link>
+          <Link href="/how-our-ai-works">How our AI works</Link>
+          <Link href="/faq">FAQ</Link>
+          <Link href="/about">About</Link>
+          <Link href="/contact">Contact</Link>
+          <Link href="/privacy">Privacy</Link>
+          <Link href="/terms">Terms</Link>
+          <Link href="/refund">Refunds</Link>
+        </nav>
         <div className="clay-footer__inner">
           <Link href="/" className="clay-logo" aria-label="NubHub home">
             <HeartMascot className="clay-logo__mark" />
@@ -392,7 +402,7 @@ export default function Page() {
           <div className="clay-footer__trust">
             <span><Shield className="h-4 w-4" />Secure upload</span>
             <span><Clock className="h-4 w-4" />2 hour result</span>
-            <span><Users className="h-4 w-4" />15k+ parents</span>
+            <span><Users className="h-4 w-4" />Expert reviewed</span>
           </div>
         </div>
         <p className="clay-footer__note">For entertainment purposes only. Not medical advice.</p>

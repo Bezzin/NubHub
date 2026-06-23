@@ -7,6 +7,11 @@ import { nubTheoryVsRamziVsSkull } from './posts/nub-theory-vs-ramzi-vs-skull';
 import { canYouTellGenderAt12Weeks } from './posts/can-you-tell-gender-at-12-weeks';
 import { howOurAiWorks } from './posts/how-our-ai-works';
 import { faqPage } from './posts/faq';
+import { nubTheoryStackingSign } from './posts/nub-theory-stacking-sign-explained';
+import { niptVsNubTheory } from './posts/nipt-vs-nub-theory';
+import { nubTheoryTwins } from './posts/nub-theory-twins';
+import { genderRevealIdeas } from './posts/gender-reveal-ideas-after-your-prediction';
+import { bestWeekForNubTheory } from './posts/best-week-for-nub-theory';
 
 /**
  * Central content registry. Add a post's import here and it automatically flows
@@ -16,10 +21,15 @@ export const allPosts: Post[] = [
   nubTheory,
   nubTheoryAccuracy,
   nubTheoryBoyVsGirl,
+  nubTheoryStackingSign,
   howToRead12WeekScan,
-  nubTheoryVsRamziVsSkull,
+  bestWeekForNubTheory,
   canYouTellGenderAt12Weeks,
+  nubTheoryVsRamziVsSkull,
+  niptVsNubTheory,
+  nubTheoryTwins,
   howOurAiWorks,
+  genderRevealIdeas,
   faqPage,
 ];
 

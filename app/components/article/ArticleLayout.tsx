@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import type { Post } from '@/content/types';
 import { getPostBySlug } from '@/content';
-import { EDITORIAL, SITE_URL, PRICE } from '@/lib/site';
+import { EDITORIAL, SITE_URL, PRICE, ABSOLUTE } from '@/lib/site';
 import {
   articleSchema,
   breadcrumbSchema,
@@ -43,7 +43,12 @@ export default function ArticleLayout({ post }: { post: Post }) {
       dateModified: post.dateModified,
       authorName: EDITORIAL.author.name,
       authorUrl: EDITORIAL.author.url,
-      reviewerName: EDITORIAL.reviewer.name,
+      reviewer: {
+        name: EDITORIAL.reviewer.name,
+        role: `${EDITORIAL.reviewer.role}, ${EDITORIAL.reviewer.experience}`,
+        url: EDITORIAL.reviewer.url,
+        image: ABSOLUTE(EDITORIAL.reviewer.image),
+      },
     }),
     breadcrumbSchema(
       crumbs.map((c) => ({ name: c.name, url: `${SITE_URL}${c.path}` })),
@@ -53,7 +58,7 @@ export default function ArticleLayout({ post }: { post: Post }) {
 
   const cta = post.cta ?? {
     heading: "Don't guess — let our AI read your nub",
-    body: `Upload your 12-week scan and our AI, checked by a nub theory specialist, sends your prediction within ${'2 hours'}. ${PRICE.symbol}${PRICE.amount}, with a money-back guarantee if we're wrong.`,
+    body: `Upload your 12-week scan: our AI reads the nub, then an obstetric & maternity professional with 20+ years' experience reviews it before your prediction lands — usually within 2 hours. ${PRICE.symbol}${PRICE.amount}, with a money-back guarantee if we're wrong.`,
   };
 
   return (
@@ -90,7 +95,7 @@ export default function ArticleLayout({ post }: { post: Post }) {
                 By <b>{EDITORIAL.author.name}</b>
               </span>
               <span>
-                Reviewed by <b>{EDITORIAL.reviewer.name}</b>
+                Reviewed by <b>{EDITORIAL.reviewer.name}</b> · {EDITORIAL.reviewer.role} ({EDITORIAL.reviewer.experience})
               </span>
               <span>
                 Updated <b>{formatDate(post.dateModified)}</b>
@@ -159,7 +164,10 @@ export default function ArticleLayout({ post }: { post: Post }) {
             <Link href="/#pricing" className="article-cta__btn">
               Get your prediction · {PRICE.symbol}{PRICE.amount}
             </Link>
-            <small>94% accurate · Results in 2 hours · Money-back guarantee</small>
+            <small>
+              Every scan reviewed by an obstetric &amp; maternity professional (20+ years)
+              · Results in 2 hours · Money-back guarantee
+            </small>
           </section>
 
           {/* References */}
@@ -192,6 +200,25 @@ export default function ArticleLayout({ post }: { post: Post }) {
               </div>
             </section>
           )}
+
+          {/* About the reviewer */}
+          <aside className="article-reviewer" aria-label="About the reviewer">
+            <img
+              className="article-reviewer__photo"
+              src={EDITORIAL.reviewer.image}
+              alt={`${EDITORIAL.reviewer.name}, ${EDITORIAL.reviewer.role}`}
+              width={76}
+              height={76}
+            />
+            <div>
+              <span className="article-reviewer__label">Reviewed by</span>
+              <h3>{EDITORIAL.reviewer.name}</h3>
+              <p className="article-reviewer__role">
+                {EDITORIAL.reviewer.role} · {EDITORIAL.reviewer.experience}
+              </p>
+              <p>{EDITORIAL.reviewer.bio}</p>
+            </div>
+          </aside>
 
           {/* YMYL disclaimer */}
           <p className="article-disclaimer">

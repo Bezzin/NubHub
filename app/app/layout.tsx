@@ -8,13 +8,20 @@ import JsonLd from '@/components/seo/JsonLd';
 
 const inter = Inter({ subsets: ['latin'] });
 
-/** Set NEXT_PUBLIC_GA_ID to your real GA4 measurement id (e.g. G-XXXXXXX). */
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
+/**
+ * GA4 measurement id for the NubHub property. Override via NEXT_PUBLIC_GA_ID
+ * (e.g. a Vercel env var); otherwise defaults to the live property in production
+ * builds only, so local dev doesn't pollute analytics. A GA4 id is public — it
+ * ships in client JS — so keeping it in source is safe.
+ */
+const GA_ID =
+  process.env.NEXT_PUBLIC_GA_ID ??
+  (process.env.NODE_ENV === 'production' ? 'G-WG6Q5WGS4Q' : undefined);
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: 'NubHub | Baby Gender Prediction at 12 Weeks | 94% Accuracy',
-  description: 'Know your baby\'s gender at 12 weeks with AI-powered nub theory prediction. Results in 2 hours. 100% money-back guarantee if wrong. Trusted by 15,000+ parents.',
+  title: 'NubHub | Baby Gender Prediction at 12 Weeks | Up to 94%',
+  description: 'Know your baby\'s gender at 12 weeks with AI-powered, expert-reviewed nub theory prediction. Results in 2 hours, with a 100% money-back guarantee if wrong.',
   keywords: 'nub theory, gender prediction, 12 week scan, baby gender, ultrasound prediction, nub theory accuracy',
   openGraph: {
     title: 'Know Your Baby\'s Gender at 12 Weeks | NubHub',

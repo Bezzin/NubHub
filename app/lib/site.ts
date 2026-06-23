@@ -16,9 +16,9 @@ export const SITE_DESCRIPTION =
 
 /** Public-facing brand stats. Keep these consistent across the whole site. */
 export const BRAND = {
-  accuracy: '94%',
+  accuracy: 'up to 94%',
   turnaround: '2 hours',
-  parents: '15,000+',
+  reviewer: "obstetric & maternity professional, 20 years' experience",
   guarantee: '100% money-back guarantee',
 } as const;
 
@@ -35,8 +35,10 @@ export const SUPPORT_EMAIL = 'support@nubpredictor.com';
 /**
  * Content attribution. Articles are attributed to the editorial team rather
  * than individual personas to avoid asserting unverified credentials in
- * structured data. To strengthen YMYL E-E-A-T, replace `reviewer` with a real,
- * named, credentialed sonographer/OB-GYN and link to verifiable credentials.
+ * structured data. The reviewer is a real obstetric & maternity professional
+ * shown by first name + photo only, at her request — she works with us
+ * independently, so her full registration is withheld to avoid a conflict of
+ * interest with her primary role.
  */
 export const EDITORIAL = {
   author: {
@@ -44,7 +46,11 @@ export const EDITORIAL = {
     url: `${SITE_URL}/about`,
   },
   reviewer: {
-    name: "NubHub's nub theory specialists",
+    name: 'Ivy',
+    role: 'obstetric & maternity professional',
+    experience: "20 years' experience",
+    image: '/team/ivy.jpg',
+    bio: "Ivy is an obstetric and maternity professional with 20 years' experience who reviews every NubHub prediction before it reaches you.",
     url: `${SITE_URL}/about`,
   },
 } as const;
