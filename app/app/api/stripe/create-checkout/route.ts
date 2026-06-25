@@ -21,7 +21,12 @@ export async function POST(request: NextRequest) {
       .json()
       .catch(() => ({ referral_code: '' }));
 
-    const appUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://www.nubhub.baby';
+    // Normalise the base URL so a misconfigured NEXT_PUBLIC_APP_URL (missing
+    // scheme, trailing slash, or blank) can't produce an invalid Stripe
+    // return_url — which hard-fails checkout with `url_invalid`.
+    let appUrl = (process.env.NEXT_PUBLIC_APP_URL || '').trim().replace(/\/+$/, '');
+    if (!appUrl) appUrl = 'https://www.nubhub.baby';
+    else if (!/^https?:\/\//i.test(appUrl)) appUrl = `https://${appUrl}`;
     const priceId = process.env.STRIPE_PRICE_ID;
     const descriptorSuffix = process.env.STRIPE_STATEMENT_DESCRIPTOR_SUFFIX;
 
