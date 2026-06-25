@@ -14,9 +14,11 @@ export async function POST(request: NextRequest) {
     // Retrieve the session from Stripe
     const session = await stripe.checkout.sessions.retrieve(session_id);
 
-    // Check if payment was successful
+    // Check if payment was successful. Return ONLY the boolean — never the
+    // full session object, which contains customer PII (email, address) and
+    // payment details that the client doesn't need and shouldn't receive.
     if (session.payment_status === 'paid') {
-      return NextResponse.json({ valid: true, session });
+      return NextResponse.json({ valid: true });
     } else {
       return NextResponse.json({ valid: false, error: 'Payment not completed' }, { status: 400 });
     }
