@@ -1,38 +1,63 @@
 import { NextRequest, NextResponse } from 'next/server';
-import Stripe from 'stripe';
+import { getStripe } from '@/lib/stripe';
 
+const UNIT_AMOUNT = 997; // £9.97 in pence
+const CURRENCY = 'gbp';
+
+/**
+ * Creates an EMBEDDED Stripe Checkout Session (ui_mode: 'embedded').
+ *
+ * The payment form renders inline on /checkout (no redirect, no popup). On
+ * success Stripe sends the customer to return_url (/upload?session_id=...),
+ * which the upload page verifies via /api/upload/verify-session, and the
+ * webhook confirms via checkout.session.completed — same downstream flow as
+ * before, just without leaving the site to pay.
+ */
 export async function POST(request: NextRequest) {
   try {
-    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-      apiVersion: '2025-02-24.acacia',
-    });
+    const stripe = getStripe();
 
-    const { referral_code } = await request.json();
+    const { referral_code } = await request
+      .json()
+      .catch(() => ({ referral_code: '' }));
+
+    const appUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://www.nubhub.baby';
+    const priceId = process.env.STRIPE_PRICE_ID;
+    const descriptorSuffix = process.env.STRIPE_STATEMENT_DESCRIPTOR_SUFFIX;
 
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card'],
-      line_items: [
-        {
-          price_data: {
-            currency: 'gbp',
-            product_data: {
-              name: 'Nub Theory Gender Prediction',
-              description: 'Get your baby gender prediction from your 12-week ultrasound scan',
-            },
-            unit_amount: 997, // £9.97 in pence
-          },
-          quantity: 1,
-        },
-      ],
+      ui_mode: 'embedded',
       mode: 'payment',
-      success_url: `${process.env.NEXT_PUBLIC_APP_URL}/upload?session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${process.env.NEXT_PUBLIC_APP_URL}/`,
-      metadata: {
-        referral_code: referral_code || '',
-      },
+      // Prefer a real Price object when configured; fall back to inline price
+      // data so the route works before the live Price has been created.
+      line_items: [
+        priceId
+          ? { price: priceId, quantity: 1 }
+          : {
+              price_data: {
+                currency: CURRENCY,
+                product_data: {
+                  name: 'Nub Theory Gender Prediction',
+                  description:
+                    'AI + expert-reviewed baby gender prediction from your 12-week ultrasound scan',
+                },
+                unit_amount: UNIT_AMOUNT,
+              },
+              quantity: 1,
+            },
+      ],
+      // Stripe replaces the {CHECKOUT_SESSION_ID} template at redirect time.
+      return_url: `${appUrl}/upload?session_id={CHECKOUT_SESSION_ID}`,
+      metadata: { referral_code: referral_code || '' },
+      // Optional: a recognisable suffix on the customer's bank statement.
+      // Only sent when explicitly configured (set once the live account /
+      // descriptor is decided) to avoid surprising account-level errors.
+      ...(descriptorSuffix
+        ? { payment_intent_data: { statement_descriptor_suffix: descriptorSuffix } }
+        : {}),
     });
 
-    return NextResponse.json({ sessionUrl: session.url });
+    return NextResponse.json({ clientSecret: session.client_secret });
   } catch (error) {
     console.error('Error creating checkout session:', error);
     return NextResponse.json(
