@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
@@ -13,46 +13,35 @@ interface CheckoutButtonProps {
 
 export default function CheckoutButton({ label, size = 'default', className = '' }: CheckoutButtonProps) {
   const searchParams = useSearchParams();
-  const [referralCode, setReferralCode] = useState<string | null>(null);
-  const [isCreatingCheckout, setIsCreatingCheckout] = useState(false);
+  const router = useRouter();
+  const [isNavigating, setIsNavigating] = useState(false);
 
+  // Persist any referral code so it survives the trip to the checkout page.
   useEffect(() => {
     const ref = searchParams.get('ref');
     if (ref) {
-      setReferralCode(ref);
-      localStorage.setItem('referral_code', ref);
-    } else {
-      const stored = localStorage.getItem('referral_code');
-      if (stored) setReferralCode(stored);
+      try {
+        localStorage.setItem('referral_code', ref);
+      } catch {
+        // ignore unavailable localStorage
+      }
     }
   }, [searchParams]);
 
-  const handleCheckout = async () => {
-    setIsCreatingCheckout(true);
-    try {
-      const response = await fetch('/api/stripe/create-checkout', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ referral_code: referralCode }),
-      });
-      const data = await response.json();
-      if (data.sessionUrl) window.location.href = data.sessionUrl;
-    } catch (error) {
-      console.error('Error creating checkout:', error);
-      alert('Something went wrong. Please try again.');
-    } finally {
-      setIsCreatingCheckout(false);
-    }
+  const handleCheckout = () => {
+    setIsNavigating(true);
+    // Inline, on-site checkout — no redirect to Stripe, no popup.
+    router.push('/checkout');
   };
 
   return (
     <Button
       onClick={handleCheckout}
-      disabled={isCreatingCheckout}
+      disabled={isNavigating}
       size={size}
       className={`bg-terracotta hover:bg-terracotta/90 text-white ${className}`}
     >
-      {isCreatingCheckout ? (
+      {isNavigating ? (
         <>
           <Loader2 className="w-5 h-5 animate-spin mr-2" />
           Loading...
