@@ -141,7 +141,13 @@ export default function Page() {
             <span className="sr-only">
               Baby gender prediction at 12 weeks. Just upload, that&apos;s it.
             </span>
-            <img src="/clay/headline.png" alt="" className="clay-headline__img" />
+            <img
+              src="/hero-headline.webp"
+              alt=""
+              width={1200}
+              height={621}
+              className="clay-headline__img"
+            />
           </h1>
 
           <p className="clay-hero__lead">
