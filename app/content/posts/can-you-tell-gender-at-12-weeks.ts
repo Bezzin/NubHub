@@ -82,8 +82,8 @@ export const canYouTellGenderAt12Weeks: Post = {
       id: 'ai-reads-your-scan',
       heading: 'How nub theory and AI can read your existing 12-week scan',
       html:
-        '<p>You don’t need a new appointment. If your dating scan gave you a clear side-on profile photo, <strong>NubHub can read the nub on the 12-week scan you already have.</strong> We pair an AI model, trained on thousands of nub images, with a nub theory specialist who confirms the result — which makes the reading more consistent than a one-off human guess.</p>' +
-        '<p>You upload your scan, our AI checks the nub’s angle, shape, and image clarity, and a specialist reviews it before it reaches you — typically within <strong>2 hours</strong>. Our verified service accuracy is <strong>94%</strong>, the cost is <strong>£9.97</strong>, and it’s backed by a <strong>money-back guarantee</strong>. Learn more about <a href="/how-our-ai-works">how our AI works</a>, or check the <a href="/faq">FAQ</a> for what makes a good scan photo.</p>',
+        '<p>You don’t need a new appointment. If your dating scan gave you a clear side-on profile photo, <strong>NubHub can read the nub on the 12-week scan you already have.</strong> We pair an AI model, trained on thousands of nub images, with an obstetric & maternity professional who confirms the result — which makes the reading more consistent than a one-off human guess.</p>' +
+        '<p>You upload your scan, our AI checks the nub’s angle, shape, and image clarity, and a specialist reviews it before it reaches you — typically within <strong>2 hours</strong>. Our service reaches <strong>up to 94%</strong> verified accuracy, the cost is <strong>£9.97</strong>, and it’s backed by a <strong>money-back guarantee</strong>. Learn more about <a href="/how-our-ai-works">how our AI works</a>, or check the <a href="/faq">FAQ</a> for what makes a good scan photo.</p>',
     },
     {
       id: 'when-confirmed',

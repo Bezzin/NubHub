@@ -95,7 +95,7 @@ export const nubTheory: Post = {
       heading: 'How NubHub uses AI to read your nub',
       html:
         '<p>The biggest source of error in nub theory is <strong>inconsistent human reading</strong> — two people can look at the same scan and disagree. NubHub pairs an AI model, trained on thousands of nub images, with a specialist review to make the reading more consistent.</p>' +
-        '<p>Peer-reviewed research supports the approach: deep-learning models have classified fetal sex from ultrasound images with accuracy in the <strong>89–98% range</strong> on research datasets (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423030105" target="_blank" rel="noopener nofollow">Expert Systems with Applications, 2024</a>). Our AI checks angle, shape, stacking, and image clarity together, then a nub theory specialist confirms the result before it reaches you — typically within 2 hours. Read more about <a href="/how-our-ai-works">how our AI works</a>.</p>',
+        '<p>Peer-reviewed research supports the approach: deep-learning models have classified fetal sex from ultrasound images with accuracy in the <strong>89–98% range</strong> on research datasets (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423030105" target="_blank" rel="noopener nofollow">Expert Systems with Applications, 2024</a>). Our AI checks angle, shape, stacking, and image clarity together, then an obstetric & maternity professional confirms the result before it reaches you — typically within 2 hours. Read more about <a href="/how-our-ai-works">how our AI works</a>.</p>',
     },
     {
       id: 'vs-other-methods',

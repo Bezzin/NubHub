@@ -28,7 +28,7 @@ export const howOurAiWorks: Post = {
     'Human-only nub reading is <strong>subjective and inconsistent</strong>: two readers can disagree on the same scan. AI is consistent and never fatigues.',
     'The honest answer to “human eyes beat AI” is <strong>neither alone — it is AI plus a human specialist</strong>, who catches the edge cases a model can miss.',
     'Peer-reviewed deep-learning models have classified fetal sex from ultrasound with up to <strong>96–98% accuracy on research datasets</strong> — emerging research, not regulated medicine.',
-    'NubHub reports <strong>94% verified service accuracy</strong> via AI plus a specialist review, delivered in about <strong>2 hours</strong>.',
+    'NubHub reports <strong>up to 94% verified accuracy</strong> via AI plus an obstetric &amp; maternity professional review, delivered in about <strong>2 hours</strong>.',
     'This is an <strong>early, for-entertainment estimate</strong>, not a medical or diagnostic test.',
   ],
   intro:
@@ -73,13 +73,13 @@ export const howOurAiWorks: Post = {
       html:
         '<p>The common objection is “human eyes beat AI.” Treated fairly, the honest answer is: <strong>it is not AI versus humans — it is AI <em>and</em> a human specialist, which is more reliable than either alone.</strong></p>' +
         '<p>Each side covers the other’s weakness. AI is <strong>consistent and never fatigues</strong> — it applies the same measurement to every scan, all day, without drift. A human specialist brings <strong>judgement on edge cases</strong> the model hasn’t seen cleanly — an unusual fetal position, a cord mistaken for a nub, a borderline angle. Pairing a tireless, consistent measurer with an experienced reviewer is simply more dependable than relying on either by itself.</p>' +
-        '<p>That is why NubHub reports a <strong>94% verified service accuracy</strong> for the combined AI-plus-specialist review — above the ~85–90% typical of human-only reading.</p>',
+        '<p>That is why NubHub reports <strong>up to 94% verified accuracy</strong> for the combined AI-plus-specialist review — above the ~85–90% typical of human-only reading.</p>',
     },
     {
       id: 'what-research-says',
       heading: 'What does the research say about AI in fetal ultrasound?',
       html:
-        '<p>AI for fetal-sex classification is a genuine and <strong>emerging</strong> research area, not yet a regulated clinical tool. The strongest published result so far comes from a 2024 study in <em>Expert Systems with Applications</em>: a DenseNet201 deep-learning model reached <strong>96.27% accuracy</strong> classifying fetal sex from ultrasound images, rising to <strong>97.82%</strong> when combined with a linear SVM, on a dataset of <strong>4,400 expert-labelled images</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423030105" target="_blank" rel="noopener nofollow">Expert Systems with Applications, 2024</a>). A separate, smaller model reported <strong>89.1% accuracy on 501 images</strong>.</p>' +
+        '<p>AI for fetal-sex classification is a genuine and <strong>emerging</strong> research area, not yet a regulated clinical tool. The strongest published result so far comes from a 2024 study in <em>Expert Systems with Applications</em>: a DenseNet201 deep-learning model reached <strong>96.27% accuracy</strong> classifying fetal sex from ultrasound images, rising to <strong>97.82%</strong> when combined with a linear SVM, on a dataset of <strong>4,400 expert-labelled images</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423030105" target="_blank" rel="noopener nofollow">Expert Systems with Applications, 2024</a>).</p>' +
         '<p>Two honest caveats matter here. First, these are <strong>research datasets</strong>, not regulated medical devices — promising signals, not proven medicine. Second, real-world scans vary far more than a curated dataset, which is precisely why NubHub keeps a human specialist in the loop. We frame AI as a powerful, improving tool — never as a diagnostic one.</p>',
     },
     {
@@ -91,7 +91,7 @@ export const howOurAiWorks: Post = {
         '<tr><td>Consistency</td><td>None</td><td>Varies</td><td>High (same model every scan)</td></tr>' +
         '<tr><td>Expert check</td><td>No</td><td>No</td><td>Yes — specialist review</td></tr>' +
         '<tr><td>Confidence score</td><td>No</td><td>Rarely</td><td>Yes</td></tr>' +
-        '<tr><td>Typical accuracy</td><td>Low / chance</td><td>Unverified</td><td>94% verified service accuracy</td></tr>' +
+        '<tr><td>Typical accuracy</td><td>Low / chance</td><td>Unverified</td><td>Up to 94% verified accuracy</td></tr>' +
         '<tr><td>Turnaround</td><td>Instant but unreliable</td><td>Instant</td><td>~2 hours</td></tr>' +
         '<tr><td>Guarantee</td><td>No</td><td>No</td><td>Money-back guarantee</td></tr>' +
         '</tbody></table>' +
@@ -121,7 +121,7 @@ export const howOurAiWorks: Post = {
     {
       question: 'How accurate is AI gender prediction?',
       answer:
-        'Peer-reviewed models have reached up to 96–98% on research datasets, but those are curated images, not real-world conditions. NubHub reports 94% verified service accuracy by combining AI with a human specialist review of every scan.',
+        'Peer-reviewed models have reached up to 96–98% on research datasets, but those are curated images, not real-world conditions. NubHub reports up to 94% verified accuracy by combining AI with an obstetric & maternity professional review of every scan.',
     },
     {
       question: 'Is AI better than nub theory?',
@@ -141,12 +141,12 @@ export const howOurAiWorks: Post = {
     {
       question: 'How long does an AI gender prediction take?',
       answer:
-        'About 2 hours. You upload your 12-week scan, the AI analyses the nub and produces a confidence score, a nub theory specialist reviews and confirms it, and your result is delivered to you.',
+        'About 2 hours. You upload your 12-week scan, the AI analyses the nub and produces a confidence score, an obstetric and maternity professional reviews and confirms it, and your result is delivered to you.',
     },
     {
       question: 'What does the research say about AI in fetal ultrasound?',
       answer:
-        'A 2024 study reported 96.27% accuracy (97.82% with an added SVM) classifying fetal sex from 4,400 expert-labelled ultrasound images; a smaller model reported 89.1% on 501 images. These are emerging research datasets, not regulated clinical tools.',
+        'A 2024 study reported 96.27% accuracy (97.82% with an added SVM) classifying fetal sex from a labelled ultrasound image dataset. These are emerging research datasets, not regulated clinical tools.',
     },
     {
       question: 'Is AI gender prediction a medical diagnosis?',
