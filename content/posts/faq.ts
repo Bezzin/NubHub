@@ -30,7 +30,7 @@ export const faqPage: Post = {
     'Realistic accuracy is about <strong>85–90% at 12–13 weeks</strong> with a clear image — not the “99%” some sites claim.',
     'It needs a <strong>12-week-plus</strong> scan; at 11 weeks accuracy falls to around 70%.',
     'Nub theory beats <strong>Ramzi and skull theory</strong> (neither is scientifically supported), but NIPT and the 20-week scan are the medically validated methods.',
-    'NubHub pairs an <strong>AI model with a nub theory specialist</strong>, returns your result in about 2 hours, and refunds you if we get it wrong.',
+    'NubHub pairs an <strong>AI model with a obstetric & maternity professional</strong>, returns your result in about 2 hours, and refunds you if we get it wrong.',
   ],
   intro:
     '<p><strong>Nub theory is a way to estimate your baby’s sex early, by reading the angle of the “nub” (the genital tubercle) on a mid-sagittal 12-week ultrasound — a nub angled above 30° suggests a boy, while a flat, parallel nub suggests a girl.</strong> This page answers the questions people ask most about how nub theory works, when it’s reliable, and how NubHub’s AI reads your scan.</p>',
@@ -147,12 +147,12 @@ export const faqPage: Post = {
     {
       question: 'How does NubHub’s AI read my scan?',
       answer:
-        'The biggest source of error in nub theory is inconsistent human reading — two people can look at the same scan and disagree. NubHub pairs an AI model, trained on thousands of nub images, with a nub theory specialist review to make the reading more consistent. The AI assesses the genital tubercle’s angle, shape, stacking, and overall image clarity together, then a specialist confirms the result before it reaches you. This combination is designed to reduce the guesswork of reading a nub at home. Learn more about <a href="/how-our-ai-works">how our AI works</a>.',
+        'The biggest source of error in nub theory is inconsistent human reading — two people can look at the same scan and disagree. NubHub pairs an AI model, trained on thousands of nub images, with a obstetric & maternity professional review to make the reading more consistent. The AI assesses the genital tubercle’s angle, shape, stacking, and overall image clarity together, then a specialist confirms the result before it reaches you. This combination is designed to reduce the guesswork of reading a nub at home. Learn more about <a href="/how-our-ai-works">how our AI works</a>.',
     },
     {
       question: 'How long does a NubHub result take?',
       answer:
-        'Your result is typically ready within about 2 hours of uploading a clear 12-week scan. After you submit your image, our AI analyses the nub and a nub theory specialist reviews and confirms the prediction before it’s sent to you, so you get a checked result rather than an instant automated guess. Two hours is the typical turnaround; an unclear or poorly angled image may take a little longer if we need to ask for a better photo. You’ll receive your prediction and a confidence level.',
+        'Your result is typically ready within about 2 hours of uploading a clear 12-week scan. After you submit your image, our AI analyses the nub and a obstetric & maternity professional reviews and confirms the prediction before it’s sent to you, so you get a checked result rather than an instant automated guess. Two hours is the typical turnaround; an unclear or poorly angled image may take a little longer if we need to ask for a better photo. You’ll receive your prediction and a confidence level.',
     },
     {
       question: 'What’s included in a NubHub prediction?',
@@ -177,12 +177,12 @@ export const faqPage: Post = {
     {
       question: 'Does NubHub use humans or just AI?',
       answer:
-        'Both. NubHub isn’t a purely automated tool — every prediction combines an AI model trained on thousands of nub images with a review by a nub theory specialist. The AI does the first-pass analysis of angle, shape, stacking and image clarity, and a human specialist confirms the result before it’s sent to you. This pairing is designed to reduce the inconsistency of a single human reading while keeping expert judgement in the loop. You can read more about the process on our <a href="/how-our-ai-works">how our AI works</a> page.',
+        'Both. NubHub isn’t a purely automated tool — every prediction combines an AI model trained on thousands of nub images with a review by a obstetric & maternity professional. The AI does the first-pass analysis of angle, shape, stacking and image clarity, and a human specialist confirms the result before it’s sent to you. This pairing is designed to reduce the inconsistency of a single human reading while keeping expert judgement in the loop. You can read more about the process on our <a href="/how-our-ai-works">how our AI works</a> page.',
     },
     {
       question: 'How is NubHub different from other gender prediction services?',
       answer:
-        'NubHub focuses specifically on nub theory and combines AI with a specialist review, rather than relying on a single person’s guess or a fully automated tool. Our service has a 94% verified accuracy rate, returns results in about 2 hours, costs £9.97, and is backed by a money-back guarantee if we’re wrong. Your scan is kept private and never shared without permission. We’re also upfront about the science — nub theory is around 85–90% accurate at 12–13 weeks, and we don’t make inflated 99–100% promises that the research doesn’t support.',
+        'NubHub focuses specifically on nub theory and combines AI with a specialist review, rather than relying on a single person’s guess or a fully automated tool. Our service has up to 94% verified accuracy, returns results in about 2 hours, costs £9.97, and is backed by a money-back guarantee if we’re wrong. Your scan is kept private and never shared without permission. We’re also upfront about the science — nub theory is around 85–90% accurate at 12–13 weeks, and we don’t make inflated 99–100% promises that the research doesn’t support.',
     },
   ],
   citations: [

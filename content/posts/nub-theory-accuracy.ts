@@ -28,7 +28,7 @@ export const nubTheoryAccuracy: Post = {
     'The widely quoted <strong>“98–100%”</strong> figures are genuine but come from a small expert-operator study — a best case, not the typical result.',
     'Accuracy depends most on <strong>gestational age and crown-rump length (CRL)</strong>: below ~51&nbsp;mm it falls under 80%; above ~65&nbsp;mm it exceeds 95%.',
     'A trained or AI-assisted reading beats <strong>guessing at home</strong>, where the nub is easily confused with the umbilical cord.',
-    'NubHub reports <strong>94% verified service accuracy</strong> (AI plus specialist review) and backs every reading with a <strong>money-back guarantee</strong>.',
+    'NubHub reports <strong>up to 94% verified accuracy</strong> (AI plus specialist review) and backs every reading with a <strong>money-back guarantee</strong>.',
   ],
   intro:
     '<p><strong>Nub theory is roughly 85–90% accurate at 12–13 weeks when the scan is clear, rising above 95% as the baby grows. The often-quoted “98–100%” figures come from a small expert-operator study and are a best case, not the norm. Accuracy depends heavily on gestational age, image quality, fetal position, and the skill of whoever reads the nub.</strong></p>',
@@ -60,7 +60,7 @@ export const nubTheoryAccuracy: Post = {
         '<table><thead><tr><th>Study</th><th>Sample size</th><th>Reported accuracy</th></tr></thead><tbody>' +
         '<tr><td>Efrat 1999 (expert unit)</td><td>172</td><td>70.3% at 11w → 98.7% at 12w → 100% at 13w</td></tr>' +
         '<tr><td>Efrat 2006</td><td>656</td><td>Males 99–100%; females 91.5% (12w) → 99–100% (13w)</td></tr>' +
-        '<tr><td>Chelli 2009 (Tunisia)</td><td>656</td><td>~85.7% overall (males 87.9%, females 83.3%)</td></tr>' +
+        '<tr><td>Chelli 2009 (Tunisia)</td><td>312</td><td>~85.7% overall accuracy</td></tr>' +
         '<tr><td>Manzanares 2016</td><td>672</td><td>Sex assignable in 90.5%; correct in 87.5% of those</td></tr>' +
         '<tr><td>First-trimester review</td><td>2,314</td><td>90.1% success; &gt;95% once CRL &gt; 65&nbsp;mm</td></tr>' +
         '</tbody></table>' +
@@ -85,13 +85,13 @@ export const nubTheoryAccuracy: Post = {
       html:
         '<p><strong>Yes — by a meaningful margin.</strong> The accuracy figures above all come from trained sonographers reading proper mid-sagittal images. Guessing from a printout at home is a different exercise: the nub is only a few pixels wide and is easily confused with the umbilical cord, a limb, or a fold of skin.</p>' +
         '<p>This is also where we head off a fair objection: “surely human eyes beat AI.” We don’t over-claim that AI replaces expertise. The biggest source of error in nub theory is <strong>inconsistent reading</strong> — two people can look at the same scan and disagree. NubHub pairs an AI model with a specialist review so the two cross-check each other.</p>' +
-        '<p>The research is encouraging but should be read carefully. Deep-learning models have classified fetal sex from ultrasound images at <strong>96.27% (97.82% with an added SVM stage) on a 4,400-image dataset, and 89.1% in another model</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423030105" target="_blank" rel="noopener nofollow">Expert Systems with Applications, 2024</a>). Those are research datasets, not clinical tools — which is precisely why we keep a human specialist in the loop. More on that in <a href="/how-our-ai-works">how our AI works</a>.</p>',
+        '<p>The research is encouraging but should be read carefully. Deep-learning models have classified fetal sex from ultrasound images at <strong>96.27% (97.82% with an added SVM stage) on a labelled image dataset</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423030105" target="_blank" rel="noopener nofollow">Expert Systems with Applications, 2024</a>). Those are research datasets, not clinical tools — which is precisely why we keep a human specialist in the loop. More on that in <a href="/how-our-ai-works">how our AI works</a>.</p>',
     },
     {
       id: 'what-if-wrong',
       heading: 'What happens if the prediction is wrong?',
       html:
-        '<p>Because no early prediction is 100%, an honest service has to plan for being wrong. NubHub reports <strong>94% verified accuracy</strong> across its readings (AI plus specialist review), with results returned in about <strong>2 hours</strong> — and every reading is backed by a <strong>money-back guarantee</strong>.</p>' +
+        '<p>Because no early prediction is 100%, an honest service has to plan for being wrong. NubHub reports <strong>up to 94% verified accuracy</strong> across its readings (AI plus specialist review), with results returned in about <strong>2 hours</strong> — and every reading is backed by a <strong>money-back guarantee</strong>.</p>' +
         '<p>In practice that means three things. First, if your image is too unclear to call confidently, a good reader will tell you it is indeterminate rather than guess. Second, if a confident prediction turns out wrong at a later scan, the guarantee applies. Third, nub theory remains an <strong>early, for-fun estimate</strong> — the medically validated confirmations are NIPT/cfDNA from about 10 weeks (~96–99%; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526182/" target="_blank" rel="noopener nofollow">JAMA meta-analysis</a>) and the 20-week anatomy scan (~95–99%). Details on guarantees and turnaround are on our <a href="/faq">FAQ</a>.</p>',
     },
     {
@@ -111,7 +111,7 @@ export const nubTheoryAccuracy: Post = {
     {
       question: 'How accurate is nub theory at 13 weeks?',
       answer:
-        'Accuracy is highest at 13 weeks — one expert study reported up to 100%, and another found female accuracy reaching 99–100%. In everyday practice, expect well above 90% with a clear mid-sagittal image, because the genital tubercle has clearly differentiated by then.',
+        'Accuracy is highest at 13 weeks — in everyday practice, expect well above 90% with a clear mid-sagittal image, because the genital tubercle has clearly differentiated by then. A small expert-operator study reported up to ~100% at 13 weeks, but that is a best case, not the norm.',
     },
     {
       question: 'Has nub theory ever been wrong?',
@@ -141,7 +141,7 @@ export const nubTheoryAccuracy: Post = {
     {
       question: 'What is NubHub’s accuracy and how fast are results?',
       answer:
-        'NubHub reports 94% verified accuracy across its readings using AI plus a nub theory specialist, with results returned in about 2 hours. Every reading is backed by a money-back guarantee, so if a confident prediction is wrong, you are covered.',
+        'NubHub reports up to 94% verified accuracy across its readings using AI plus an obstetric & maternity professional review, with results returned in about 2 hours. Every reading is backed by a money-back guarantee, so if a confident prediction is wrong, you are covered.',
     },
   ],
   citations: [
@@ -159,6 +159,11 @@ export const nubTheoryAccuracy: Post = {
       label:
         'Manzanares S, et al. Accuracy of fetal sex determination on ultrasound in the first trimester. J Clin Ultrasound. 2016;44(5):272–277.',
       url: 'https://pubmed.ncbi.nlm.nih.gov/26663411/',
+    },
+    {
+      label:
+        'Chelli D, et al. Fetal sex assignment by first trimester ultrasound: a Tunisian experience. Prenat Diagn. 2009;29(12):1145–1148.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/19813214/',
     },
     {
       label:

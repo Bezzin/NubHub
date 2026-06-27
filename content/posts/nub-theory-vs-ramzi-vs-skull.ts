@@ -39,7 +39,7 @@ export const nubTheoryVsRamziVsSkull: Post = {
       html:
         '<p><strong>Nub theory is the most accurate of the three internet “theories,” and the only one supported by published medical research.</strong> Ramzi and skull theory are popular online but fail when tested independently. Here is how all the common methods compare side by side, with the two clinically validated tests (NIPT and the 20-week scan) included for honest context.</p>' +
         '<table><thead><tr><th>Method</th><th>Earliest week</th><th>Accuracy</th><th>Scientific evidence</th><th>What it analyzes</th></tr></thead><tbody>' +
-        '<tr><td><strong>Nub theory</strong></td><td>~12 weeks</td><td>~85–90% (up to 98–100% best-case)</td><td>Multiple peer-reviewed studies</td><td>Genital tubercle angle</td></tr>' +
+        '<tr><td><strong>Nub theory</strong></td><td>~12 weeks</td><td>~85–90%</td><td>Multiple peer-reviewed studies</td><td>Genital tubercle angle</td></tr>' +
         '<tr><td><strong>Ramzi theory</strong></td><td>~6 weeks</td><td>~chance (~50%)</td><td>Never replicated; not recognised by ACOG</td><td>Placenta / chorionic-villi side</td></tr>' +
         '<tr><td><strong>Skull theory</strong></td><td>~12 weeks</td><td>Unverified</td><td>No peer-reviewed support</td><td>Skull, jaw and brow shape</td></tr>' +
         '<tr><td>NIPT (cfDNA blood test)</td><td>~10 weeks</td><td>~96–99%</td><td>Validated (JAMA meta-analysis)</td><td>Fetal DNA in mother’s blood</td></tr>' +

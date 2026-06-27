@@ -92,7 +92,7 @@ export const nubTheoryBoyVsGirl: Post = {
       heading: 'Why does a trained or AI reading beat squinting at home?',
       html:
         '<p>The hardest part of boy-vs-girl isn’t knowing the rules — it’s applying them consistently to a tiny, noisy image. Two people can look at the same nub and disagree, and the angle is easy to misread when the baby is curled or the view isn’t perfectly side-on. Realistic accuracy is about <strong>85–90% with a clear 12–13 week image</strong> even for experienced readers (<a href="https://pubmed.ncbi.nlm.nih.gov/26663411/" target="_blank" rel="noopener nofollow">Manzanares et al., 2016</a>; 87.5% correct of assignable cases, n=672) — so anyone promising 99–100% certainty is overselling it.</p>' +
-        '<p>That is the gap NubHub is built to close. Our AI checks <strong>angle, shape, stacking, and image clarity together</strong> instead of fixating on one cue, then a nub theory specialist confirms the result before it reaches you — giving a <strong>94% verified service accuracy</strong>, typically within <strong>2 hours</strong>. For privacy and consent reasons we don’t publish real labelled scans, so the most reliable way to read <em>your</em> nub is to <a href="/how-our-ai-works">let our AI analyse it</a> rather than squint at it alone.</p>' +
+        '<p>That is the gap NubHub is built to close. Our AI checks <strong>angle, shape, stacking, and image clarity together</strong> instead of fixating on one cue, then an obstetric & maternity professional confirms the result before it reaches you — giving <strong>up to 94%</strong> verified accuracy, typically within <strong>2 hours</strong>. For privacy and consent reasons we don’t publish real labelled scans, so the most reliable way to read <em>your</em> nub is to <a href="/how-our-ai-works">let our AI analyse it</a> rather than squint at it alone.</p>' +
         '<p>Want to know more before you upload? Compare confidence levels in our <a href="/blog/nub-theory-accuracy">nub theory accuracy guide</a>, or browse common questions on the <a href="/faq">FAQ</a>.</p>',
     },
   ],
@@ -135,7 +135,7 @@ export const nubTheoryBoyVsGirl: Post = {
     {
       question: 'How accurate is reading the nub for boy vs girl?',
       answer:
-        'With a clear 12–13 week image, accuracy is roughly 85–90% (Manzanares 2016: 87.5% correct of assignable cases). Claims of 99–100% certainty are overstated. NubHub combines AI and a specialist review for 94% verified service accuracy.',
+        'With a clear 12–13 week image, accuracy is roughly 85–90% (Manzanares 2016: 87.5% correct of assignable cases). Claims of 99–100% certainty are overstated. NubHub combines AI and an obstetric & maternity professional review for up to 94% verified accuracy.',
     },
   ],
   citations: [

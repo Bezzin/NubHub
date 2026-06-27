@@ -7,7 +7,7 @@ export const nubTheoryTwins: Post = {
   title: 'Does Nub Theory Work for Twins? A Realistic Guide',
   metaTitle: 'Does Nub Theory Work for Twins? Honest Guide',
   description:
-    'Nub theory can predict twin sexes from a 12–13 week scan, but each baby needs its own clear side-on view. Here is how it works, why twins are harder, and when to try.',
+    'Nub theory can predict twin sexes from a 12–13 week scan, but each baby needs its own clear side-on view. Here\'s how it works and when it\'s worth trying.',
   excerpt:
     'Nub theory applies the same 30° rule to each twin — but crowding and position make twins harder to read. What a good twin scan looks like, and what to do if only one baby can be called.',
   category: 'Guide',

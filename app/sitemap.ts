@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/site';
 import { allPosts } from '@/content';
+import { getIndexableLibraryPages } from '@/content/library/loader';
 
 /**
  * Dynamic sitemap. Core static routes + every registered content page, so new
@@ -26,5 +27,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: p.collection === 'pillar' ? 0.9 : 0.7,
   }));
 
-  return [...staticEntries, ...postEntries];
+  // Additive markdown library — only indexable pages (non-thin, non-duplicate).
+  const libraryEntries: MetadataRoute.Sitemap = getIndexableLibraryPages().map((p) => ({
+    url: `${SITE_URL}${p.path}`,
+    lastModified: p.dateModified || lastModified,
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }));
+
+  return [...staticEntries, ...postEntries, ...libraryEntries];
 }

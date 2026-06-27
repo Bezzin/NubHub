@@ -116,8 +116,8 @@ export const howToRead12WeekScan: Post = {
         '<ol>' +
         '<li><strong>Pick your clearest side-profile image.</strong> Choose the sharpest mid-sagittal shot where the nub and lower body are visible.</li>' +
         '<li><strong>Upload it for analysis.</strong> NubHub’s AI checks the angle, shape, stacking, and image clarity together — more consistently than eyeballing it yourself.</li>' +
-        '<li><strong>Get a specialist-confirmed result.</strong> A nub theory specialist confirms the AI reading before it reaches you, typically within <strong>2 hours</strong>.</li>' +
-        '<li><strong>Read with confidence.</strong> Backed by a <strong>94% verified service accuracy</strong> and a money-back guarantee, you get a clear answer without second-guessing the pixels.</li>' +
+        '<li><strong>Get a specialist-confirmed result.</strong> An obstetric & maternity professional confirms the AI reading before it reaches you, typically within <strong>2 hours</strong>.</li>' +
+        '<li><strong>Read with confidence.</strong> Backed by <strong>up to 94% verified accuracy</strong> and a money-back guarantee, you get a clear answer without second-guessing the pixels.</li>' +
         '</ol>' +
         '<p>Curious how the model actually works? See <a href="/how-our-ai-works">how our AI reads the nub</a>, or browse common questions on our <a href="/faq">FAQ page</a>.</p>',
     },
