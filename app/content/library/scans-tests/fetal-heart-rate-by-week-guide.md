@@ -13,45 +13,73 @@ faq_schema: true
 breadcrumb_schema: true
 ---
 
-# Fetal Heart Rate by Week What Is Normal
+# Fetal Heart Rate by Week: What Is Normal
 
-Pregnancy brings countless questions, and understanding what each scan and sign means can help you feel more prepared. This guide breaks down the essentials in plain language so you know what to expect and what to ask your care team.
+Hearing your baby's heartbeat for the first time is a moment most parents remember clearly. But once you have heard it, it is natural to wonder whether the rate sounds right — especially if you catch a number on the monitor or the sonographer mentions beats per minute. This guide explains what is considered a typical fetal heart rate at different stages of pregnancy, and when it is worth raising something with your care team.
 
 ## Table of Contents
 
 1. [Typical Heart Rates Through Pregnancy](#typical-rates)
 2. [What Counts as Normal and When to Ask](#normal-and-ask)
-3. [FAQ](#faq)
+3. [Home Dopplers and Listening Devices](#home-dopplers)
+4. [FAQ](#faq)
 
 ## Typical Heart Rates Through Pregnancy {#typical-rates}
 
-Fetal heart rate changes as pregnancy progresses. From around 6 to 7 weeks it often starts at roughly 90 to 110 beats per minute, then rises through the first trimester to a peak of about 140 to 170 bpm around 9 to 10 weeks. After that it gradually settles, and by the second and third trimesters a typical range is about 110 to 160 bpm.
+Fetal heart rate is not fixed — it changes significantly as your baby develops. In the very early weeks, the embryonic heart begins beating and the rate climbs quickly before gradually settling into a more stable range for the second and third trimesters.
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+**Early first trimester (around 6 to 7 weeks)**
+When cardiac activity is first visible on an early ultrasound, the rate is often in the range of 90 to 110 beats per minute. This is normal for such an early stage. A rate at the lower end of this range is not automatically a cause for concern, but your sonographer will note it and may recommend a follow-up scan if the number is very low.
+
+**Mid first trimester (around 8 to 10 weeks)**
+The heart rate tends to rise during this period, often reaching between 140 and 170 beats per minute around 9 to 10 weeks. This is one of the faster periods in fetal cardiac development.
+
+**Second and third trimesters**
+As the pregnancy progresses, the heart rate generally settles into a range of roughly 110 to 160 beats per minute. Within this range, variation is normal — the rate naturally rises when the baby moves and may drop briefly during rest or sleep cycles.
+
+These figures are general guidance based on established obstetric knowledge. Your midwife or sonographer will always interpret the heart rate in the context of your individual scan and pregnancy, not against a fixed table.
 
 ## What Counts as Normal and When to Ask {#normal-and-ask}
 
-A heart rate between roughly 110 and 160 bpm in later pregnancy is generally considered normal. Brief dips or rises can happen as the baby moves. If your midwife or sonographer notes a rate outside the typical range, they will explain whether any follow up is needed. Home heart rate monitors are not a substitute for professional checks.
+A heart rate between roughly 110 and 160 beats per minute in the second and third trimesters is generally within the expected range. Brief dips or rises around movement or rest are entirely normal and do not indicate a problem.
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+There are situations where your care team may want to look more closely at the heart rate:
 
-## FAQ {#faq}
+- A rate that stays persistently below 100 bpm in the first trimester, particularly at an early scan, may prompt a follow-up
+- Rates significantly outside the typical range, noted on a cardiotocograph (CTG) monitor in later pregnancy, will be assessed by your midwife in the context of your overall wellbeing and the baby's movements
+- Irregular rhythm detected on scan — your sonographer will advise whether further assessment is needed
 
-### Is a faster heart rate a sign of a girl?
+If you are ever concerned about what you heard or read at an appointment, ask your midwife or the sonographer to explain. They will not mind being asked to clarify a number or what it means.
 
-No. The idea that girls have faster heartbeats is an old wives tale with no scientific basis.
+## Home Dopplers and Listening Devices {#home-dopplers}
 
-### What is a dangerously low heart rate?
+Home fetal dopplers — handheld devices that allow you to listen to the baby's heartbeat yourself — are widely available to buy, but UK midwifery organisations and the NHS advise caution about using them. The main concern is not that they are harmful, but that they can be very difficult to use correctly without training.
 
-A rate well below the typical range may need investigation, but only your care team can judge this in context.
+Common problems with home dopplers include:
 
-### Can I check the heart rate at home?
+- **Mistaking your own pulse for the baby's heartbeat**, which can falsely reassure you when the baby's heartbeat is actually absent or different
+- **Providing false reassurance** when a baby who is actually unwell still has a detectable heartbeat in the short term
+- **Causing unnecessary anxiety** when you cannot find the heartbeat, even though the baby is fine and the device is simply not positioned correctly
 
-Dopplers exist but are hard to use correctly and can cause worry. Professional checks are more reliable.
+If you are worried about your baby's movements or heartbeat at any point, contact your midwife unit directly rather than reaching for a home doppler. In the UK, maternity units and day assessment units are equipped to check fetal wellbeing properly, and you should never feel that calling is an overreaction.
+
+## Frequently Asked Questions {#faq}
+
+### Is a faster fetal heart rate a sign the baby is a girl?
+
+No. The idea that girls have faster heartbeats and boys have slower ones is a long-standing old wives' tale with no reliable scientific basis. Fetal heart rate varies with gestational age and movement, not with sex. It is not a useful predictor of gender.
+
+### What is considered a dangerously low fetal heart rate?
+
+A rate well below the typical range — particularly in early pregnancy — may indicate that development is not progressing normally and will usually prompt a follow-up scan. In later pregnancy, persistent bradycardia (slow heart rate) on a CTG monitor is something your midwife will assess carefully. Only your care team can judge this in the context of your full clinical picture.
+
+### Can I check the baby's heart rate at home?
+
+Home dopplers are available but are not recommended by UK midwifery organisations as a substitute for professional checks. They can be difficult to use accurately, and finding (or not finding) a heartbeat at home does not give you the same reassurance as a check performed by a trained clinician. If you have concerns, contact your midwife unit.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*Speak to your midwife or GP for personal advice about your pregnancy.*
 
 **Related articles:**
 - [Early Pregnancy Ultrasound Guide](/scans-tests/early-pregnancy-ultrasound-guide)

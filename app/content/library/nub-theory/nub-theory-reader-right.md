@@ -15,43 +15,53 @@ breadcrumb_schema: true
 
 # Nub Theory Reader Nub Theory Was 100 Right for Me
 
-Pregnancy brings countless questions, and understanding what each scan and sign means can help you feel more prepared. This guide breaks down the essentials in plain language so you know what to expect and what to ask your care team.
-
-## Table of Contents
-
-1. [The Prediction](#the-prediction)
-2. [Why One Right Call Is Not Proof](#not-proof)
-3. [FAQ](#faq)
+It is a brilliant feeling when an early gender prediction turns out to be correct. Plenty of parents share stories of nub theory readings that matched their baby's sex at the 20-week scan, and those stories are genuinely exciting to read. But understanding why one correct call is not the same as proof of accuracy helps you enjoy early predictions without putting too much weight on them.
 
 ## The Prediction {#the-prediction}
 
-Another mum reported that her nub theory reader predicted a girl from a clear 13 week side profile, citing a flat angle and stacked appearance. At her 20 week scan the sonographer confirmed a girl. She felt the reading had been spot on and shared her story as proof that nub theory works.
+Another mum reported that her nub theory reader predicted a girl from a clear 13-week side profile, citing a flat angle and stacked appearance. At her 20-week scan the sonographer confirmed a girl. She felt the reading had been spot on and shared her story as proof that nub theory works.
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+Her experience is not unusual. Nub theory readers — both community volunteers and paid services — do sometimes get it right, and when the scan image is high quality, taken at a clear side profile, and the baby is past 12 weeks, readings tend to be more confident. A well-angled nub sitting notably above or below the spine can genuinely point in one direction. That confidence can feel very satisfying when confirmed.
 
 ## Why One Right Call Is Not Proof {#not-proof}
 
-A single correct prediction is exciting but it is not evidence. With a roughly 50 percent baseline chance, some predictions will be right by luck. Nub theory can be a fun early clue, but one matching result does not make it reliable for everyone. Always wait for a confirmed scan before treating sex as fact.
+A single correct prediction is exciting but it is not evidence that nub theory is reliable for everyone. The fundamental issue is the baseline probability: sex is determined at conception, and there are only two possible outcomes. Even a completely random guess will be right around half the time. This means that out of a large group of predictions, you would expect roughly half to be correct through chance alone, regardless of any real skill or science involved.
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+What actually matters is whether the accuracy rate across a large, unbiased group of scans consistently exceeds that baseline. The published research on nub theory suggests it can be more accurate than chance under ideal conditions — specifically when the scan is taken after 12 weeks, the image is a true side profile, the nub is clearly visible, and the assessment is made by someone trained in sonography. Under those conditions the method has merit. But informal readers working from photos taken in varied conditions, with varying image quality, and at different gestations cannot guarantee the same results.
 
-## FAQ {#faq}
+There is also a well-known reporting bias in shared stories. People whose predictions were correct are far more likely to share them enthusiastically. People whose predictions were wrong are less likely to post a follow-up. This means the stories you read online skew heavily toward correct outcomes, giving an inflated impression of how often nub theory works.
+
+None of this means you should not enjoy early predictions. Nub theory is a genuinely fun part of pregnancy for many people. Just hold the result lightly until a confirmed scan.
+
+## How to Get the Most from a Reading {#getting-reading}
+
+If you would like a nub theory reading, a few things will improve the quality of any prediction you receive:
+
+- Use a scan taken between 12 and 14 weeks — earlier images are less reliable because the nub is still developing
+- A true side profile (sagittal view) is essential; oblique angles make assessment very difficult
+- Choose a scan image where the nub is clearly visible and not obscured by the umbilical cord or leg position
+- A private early pregnancy scan often produces cleaner images than a hospital printout
+- Be sceptical of any reader who claims to be highly accurate from low-quality images
+
+Even with the best images, treat any result as an educated early guess rather than a confirmed outcome.
+
+## Frequently Asked Questions {#faq}
 
 ### Does a correct prediction mean nub theory is reliable?
 
-No. Individual correct guesses happen by chance. Reliability is only shown across large groups.
+Not on its own. Individual correct guesses happen by chance roughly half the time. Reliability is only demonstrated across large, independently reviewed groups of predictions. One story, however convincing, cannot tell us the overall accuracy rate.
 
 ### Should I share my correct result as proof?
 
-Sharing your story is fine, but frame it as personal experience, not scientific proof.
+Sharing your story is lovely and many parents enjoy hearing it. Just frame it as a personal experience rather than evidence the method always works, so others can calibrate their own expectations fairly.
 
-### Is nub theory still fun if it is not certain?
+### Is nub theory still worth doing if it is not certain?
 
-Absolutely. Many parents enjoy it as early speculation as long as they know its limits.
+Absolutely. Many parents genuinely enjoy it as a piece of early speculation, a way to engage with the pregnancy and bond with their baby before a confirmed scan. As long as you know the limits, there is no harm in having fun with it.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*Always speak to your midwife or GP if you have any questions about your individual pregnancy and scans.*
 
 **Related articles:**
 - [Nub Theory Reader Wrong Prediction](/nub-theory/nub-theory-reader-wrong-prediction)

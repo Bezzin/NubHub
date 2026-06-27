@@ -15,43 +15,74 @@ breadcrumb_schema: true
 
 # Early Pregnancy Ultrasound What to Expect
 
-Pregnancy brings countless questions, and understanding what each scan and sign means can help you feel more prepared. This guide breaks down the essentials in plain language so you know what to expect and what to ask your care team.
-
-## Table of Contents
-
-1. [What Counts as an Early Ultrasound](#what-counts)
-2. [What Happens During the Scan](#during-scan)
-3. [FAQ](#faq)
+An early pregnancy ultrasound can feel both exciting and nerve-wracking. Whether you are having one for reassurance, because of bleeding or pain, or simply because you booked a private scan, knowing what to expect beforehand can make the whole experience feel much calmer. This guide covers when early scans happen, what the sonographer looks for, and how to make sense of what you are told.
 
 ## What Counts as an Early Ultrasound {#what-counts}
 
-An early pregnancy ultrasound is any scan done before the routine 12 week dating scan. In the UK these are usually private, though the NHS may offer one if there are concerns such as bleeding or pain. Early scans can happen from around 6 weeks onward and are used to confirm the pregnancy, check the heartbeat, and rule out ectopic pregnancy.
+An early pregnancy ultrasound is any scan done before the routine NHS dating scan at around 12 weeks. In the UK, the NHS does not routinely offer ultrasounds before this point unless there is a clinical reason — such as bleeding, pain, a history of ectopic pregnancy, or recurrent miscarriage.
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+Early scans are available privately from around six weeks of pregnancy. Many parents choose one for reassurance, particularly after a previous loss or a long journey to conceive. Private clinics offering early scans are widely available across the UK, and appointments typically cost between £50 and £150 depending on the clinic and what is included.
+
+If you are experiencing pain or heavy bleeding before your dating scan, contact your GP, midwife, or the Early Pregnancy Unit (EPU) at your local hospital. They can arrange an NHS scan to rule out ectopic pregnancy or other concerns — you do not need to wait or go privately in this situation.
 
 ## What Happens During the Scan {#during-scan}
 
-Early scans are often transvaginal for a clearer view, since the baby is still very small. The sonographer will check for the gestational sac, yolk sac, fetal pole, and heartbeat where visible. The appointment usually lasts about 10 to 15 minutes, and you may be asked to attend with a full bladder for an abdominal scan.
+**Transvaginal or abdominal?** Early scans — particularly those at six or seven weeks — are often performed transvaginally. A slim probe is gently inserted into the vagina, giving a much clearer view of the uterus and embryo than an abdominal probe can at this stage. The baby is still extremely small, and the transvaginal approach gets the probe closer to where it needs to be. You can decline a transvaginal scan, but the abdominal image may be less clear.
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+From around eight to ten weeks onward, an abdominal scan — with gel applied to your tummy and a probe moved across the surface — usually gives a good image, especially if your bladder is reasonably full.
 
-## FAQ {#faq}
+**What the sonographer looks for:**
+
+- **Gestational sac** — the fluid-filled sac that surrounds the embryo; visible from around five weeks
+- **Yolk sac** — a small round structure that nourishes the embryo before the placenta is functional; visible from around five to six weeks
+- **Fetal pole** — the early embryo, visible from around six weeks
+- **Heartbeat** — flickering cardiac activity is usually detectable from six to seven weeks, though timing varies
+- **Location** — confirming the pregnancy is inside the uterus (not ectopic)
+- **Number** — whether there is more than one embryo
+
+The appointment usually takes around 10 to 15 minutes. The sonographer will explain what they can see and give you measurements where relevant.
+
+## What You Might Be Told
+
+Early scans sometimes produce uncertain results, particularly at five or six weeks when development is right on the edge of what ultrasound can detect. Common outcomes include:
+
+- **Everything looks as expected** — a gestational sac, yolk sac, fetal pole, and heartbeat visible and appropriate for your dates
+- **Too early to see clearly** — a sac is visible but no heartbeat yet; a repeat scan in one to two weeks is usually recommended
+- **Dates do not match** — the embryo measures smaller than your dates suggest, which may simply mean ovulation was later than you thought
+- **Uncertain findings** — if there is no heartbeat or the sac looks abnormal, your sonographer will explain next steps carefully; a single scan is rarely enough to reach a definitive conclusion
+
+If you leave with questions or worries, write them down and contact your midwife or GP. It is always reasonable to ask for clarification.
+
+## What an Early Scan Cannot Tell You
+
+An early scan is reassuring but not comprehensive. It cannot:
+
+- Guarantee the pregnancy will continue normally
+- Rule out chromosomal conditions
+- Reliably confirm your baby's sex (the genitals are not developed enough to see clearly until around 20 weeks)
+- Replace your routine 12-week dating scan and combined screening
+
+## Frequently Asked Questions
 
 ### When can I have an early scan?
 
-Private early scans are available from around 6 to 7 weeks. NHS early scans are only offered if there is a medical concern.
+Private early scans are available from around six weeks. NHS early scans are only arranged when there is a clinical concern — contact your GP, midwife, or EPU if you are worried about pain or bleeding.
 
-### Will I see the heartbeat?
+### Will I see a heartbeat?
 
-From about 6 to 7 weeks a heartbeat may be visible, though timing varies by pregnancy.
+Cardiac activity is usually visible from around six to seven weeks, but this depends on exactly how far along you are and the type of scan performed. If your scan is at five to six weeks, it is common not to see a heartbeat yet, and a repeat scan will typically be offered.
 
 ### Is an early scan necessary?
 
-Not usually for a straightforward pregnancy. Many parents choose one privately for reassurance.
+For a straightforward pregnancy with no previous complications, an early scan is not medically necessary — your first routine scan will be the NHS dating scan at around 12 weeks. Many parents choose a private early scan for peace of mind, and this is a perfectly valid choice.
+
+### Do I need a full bladder?
+
+For a transvaginal scan, a full bladder is not required. For an abdominal scan, being comfortably full rather than bursting usually gives the best image. Your clinic will advise you when you book.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*
 
 **Related articles:**
 - [6 Week Ultrasound What To Expect](/scans-tests/6-week-ultrasound-what-to-expect)

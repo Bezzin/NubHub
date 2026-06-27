@@ -15,447 +15,67 @@ breadcrumb_schema: true
 
 # Cramping After Sex Early Pregnancy
 
-Here's what you need to know.
+Noticing cramps after sex in early pregnancy can feel alarming, but in most cases it is a normal and harmless response. Understanding what causes it — and knowing which signs are worth taking seriously — can help you feel more confident about what your body is doing.
 
-## Overview
+## Why Cramping After Sex Happens in Early Pregnancy
 
-Cramping after sex in early pregnancy — what causes it and when to worry.
+The uterus is a muscular organ, and during orgasm it contracts rhythmically. In early pregnancy those contractions can feel more noticeable than usual because the uterus is already enlarged, more sensitive, and better supplied with blood. The cramping is typically mild and brief — similar in character to period-like twinges — and usually settles within minutes to an hour.
 
-## FAQ
+Prostaglandins found in semen can also cause mild uterine cramping. This is the same mechanism by which some people experience cramps after sex outside of pregnancy, and it is not harmful to the pregnancy.
 
-### Common question
+Additionally, the cervix becomes more vascular (better supplied with blood) in early pregnancy, meaning it can be more easily irritated by penetration. This can contribute to a cramping sensation, and sometimes a small amount of spotting, immediately after sex.
 
-M
+## Is It Safe to Have Sex in Early Pregnancy?
 
-### Common question
+For the vast majority of pregnancies, sex is entirely safe throughout the first trimester and beyond. The baby is protected by the amniotic fluid, the uterine walls, and a well-sealed cervix. Penetration cannot reach the baby, and orgasm does not cause miscarriage in a healthy pregnancy.
 
-i
+Your midwife or GP may advise you to avoid sex if you have a low-lying placenta, unexplained bleeding, a history of preterm labour, or certain cervical conditions. If you have any of these, follow the specific guidance you have been given. If you are unsure whether sex is safe for your particular situation, ask at your next midwife appointment.
 
-### Common question
+## What Normal Post-Sex Cramping Feels Like
 
-l
+Cramping that is normal and expected tends to have these characteristics:
 
-### Common question
+- Mild to moderate in intensity — uncomfortable rather than severe
+- Felt in the lower abdomen or pelvis, sometimes described as a dull ache
+- Settles within a few minutes to an hour
+- Not accompanied by heavy bleeding, fever, or pain on one side only
 
-d
+Lying down for a short while, resting, and drinking water are usually all that is needed.
 
-### Common question
+## When to Seek Medical Advice
 
- 
+While post-sex cramping is usually harmless, some symptoms alongside it warrant prompt attention. Contact your GP, midwife, or Early Pregnancy Unit (EPU) if you experience:
 
-### Common question
+- **Heavy bleeding** (soaking a pad) rather than light spotting
+- **Severe or worsening pain**, especially pain that does not settle within an hour
+- **One-sided pain** in the lower abdomen, particularly if accompanied by shoulder tip pain, dizziness, or feeling faint — these can be signs of an ectopic pregnancy, which requires urgent assessment
+- **Fever or chills** alongside cramping, which could indicate infection
 
-c
+If you have any concerns about one-sided pain or feel very unwell, call 999 or go to your nearest A&E rather than waiting.
 
-### Common question
+## Light Spotting After Sex: What Is Normal?
 
-r
+A small amount of light pink or brown spotting after sex is common in early pregnancy and is usually caused by minor irritation to the cervix. Cervical ectropion — where the inner lining of the cervix extends slightly outward — is very common in pregnancy and makes the cervix bleed easily on contact. It is harmless.
 
-### Common question
+If you notice spotting, note the colour, quantity, and whether it stops within a day. Light spotting that settles quickly is rarely a cause for concern. However, if you experience bright red bleeding that is heavier than light spotting, or if bleeding and cramping occur together, contact your midwife or EPU for advice.
 
-a
+## Frequently Asked Questions
 
-### Common question
+### Is cramping after sex in early pregnancy normal?
 
-m
+Yes, in most cases it is. Mild uterine cramping after sex or orgasm is a common and harmless response driven by uterine contractions and increased blood flow to the pelvic area in pregnancy.
 
-### Common question
+### Can sex cause a miscarriage?
 
-p
+No. Sex does not cause miscarriage in a healthy pregnancy. If a miscarriage happens around the same time as sex, it is coincidental. The risk of miscarriage in early pregnancy is real, but sex is not a cause.
 
-### Common question
+### Should I stop having sex if I cramp afterwards?
 
-i
-
-### Common question
-
-n
-
-### Common question
-
-g
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-f
-
-### Common question
-
-t
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-e
-
-### Common question
-
-x
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-e
-
-### Common question
-
-a
-
-### Common question
-
-r
-
-### Common question
-
-l
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-n
-
-### Common question
-
-o
-
-### Common question
-
-r
-
-### Common question
-
-m
-
-### Common question
-
-a
-
-### Common question
-
-l
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-a
-
-### Common question
-
-u
-
-### Common question
-
-s
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-o
-
-### Common question
-
-r
-
-### Common question
-
-g
-
-### Common question
-
-a
-
-### Common question
-
-s
-
-### Common question
-
-m
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-r
-
-### Common question
-
-i
-
-### Common question
-
-g
-
-### Common question
-
-g
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-g
-
-### Common question
-
- 
-
-### Common question
-
-u
-
-### Common question
-
-t
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-o
-
-### Common question
-
-n
-
-### Common question
-
-t
-
-### Common question
-
-r
-
-### Common question
-
-a
-
-### Common question
-
-c
-
-### Common question
-
-t
-
-### Common question
-
-i
-
-### Common question
-
-o
-
-### Common question
-
-n
-
-### Common question
-
-s
-
-### Common question
-
-.
-
-
+Not necessarily. If cramping is mild and brief, there is no medical reason to stop. If you feel anxious or uncomfortable, it is absolutely fine to take a break from sex until you feel more settled. If cramping is severe or accompanied by bleeding, speak to your midwife before resuming.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
 **Related articles:**
 - [First Trimester Guide](/week-by-week/first-trimester-guide)

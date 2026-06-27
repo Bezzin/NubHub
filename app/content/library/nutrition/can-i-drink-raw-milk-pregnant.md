@@ -15,487 +15,56 @@ breadcrumb_schema: true
 
 # Can I Drink Raw Milk Pregnant?
 
-Can I eat/drink can i drink raw milk pregnant when pregnant? Here's the NHS guidance.
+No. Raw (unpasteurised) milk should be avoided during pregnancy. This is clear NHS guidance, and it applies to all raw dairy — milk, cream, and soft cheeses made from unpasteurised milk. This page explains why, what the risks are, and what you can safely drink instead.
 
-## Overview
+## What Is Raw Milk and Why Is It a Risk in Pregnancy?
 
-Can you drink raw (unpasteurised) milk when pregnant? NHS safety guidance.
+Raw milk is milk that has not been pasteurised — that is, it has not been heat-treated to kill harmful bacteria. Pasteurisation is the standard process used for virtually all milk sold in UK supermarkets. Raw milk can be sold directly from farms in England, Wales, and Northern Ireland (it is banned for retail sale in Scotland), but it is not routinely available in shops.
 
-## FAQ
+The concern in pregnancy is that raw milk can carry bacteria including Listeria, E. coli, Salmonella, and Campylobacter. In healthy adults, infection from these bacteria may cause a short illness. In pregnancy, the risks are more serious. Listeria infection in particular, though uncommon, can cause severe illness in pregnant women and can affect the baby, leading to miscarriage, premature birth, or serious illness in the newborn. Because your immune system is naturally suppressed during pregnancy to protect the baby, you are more vulnerable to foodborne infections than usual.
 
-### Common question
+The NHS advises pregnant women to avoid raw milk and any products made from it throughout pregnancy.
 
-N
+## Which Milks Are Safe to Drink in Pregnancy?
 
-### Common question
+All pasteurised milk — whether full fat, semi-skimmed, or skimmed — is safe to drink in pregnancy. This includes:
 
-o
+- **Cow's milk** (pasteurised): a good source of calcium, protein, and iodine, all of which are important in pregnancy
+- **Pasteurised goat's milk and sheep's milk**: safe when pasteurised, but check the label
+- **Plant-based milks** (oat, almond, soy, coconut): generally safe, though check that they are fortified with calcium and iodine, as these nutrients are important during pregnancy and not always present in unfortified versions
+- **UHT (ultra-heat-treated) milk**: safe — the high-temperature process effectively eliminates bacteria
 
-### Common question
+If you are buying milk from a farm shop or market stall, check the label carefully. If it is labelled as raw, unpasteurised, or green-top milk, do not drink it during pregnancy.
 
-.
+## What About Cheese and Other Dairy?
 
-### Common question
+The same principle applies to cheese. Soft cheeses made from unpasteurised milk — including some imported brie, camembert, and certain artisan cheeses — should be avoided. Hard cheeses (like Cheddar, Red Leicester, or Parmesan) are safe even if made from unpasteurised milk, because the low moisture environment is inhospitable to Listeria. Pasteurised soft cheeses, including pasteurised brie and soft goat's cheese, are safe to eat.
 
- 
+If you are unsure about a specific cheese, check the packaging or ask the producer. When eating out, it is reasonable to ask the restaurant whether soft cheeses are pasteurised.
 
-### Common question
+## Staying Well Nourished Without Raw Dairy
 
-R
+Avoiding raw milk does not mean you need to reduce your calcium or dairy intake. Pasteurised milk and dairy products provide the same nutritional benefits without the food safety risk. If you are dairy-free, ensure you are getting calcium from other sources such as fortified plant milks, leafy green vegetables, tofu, and nuts.
 
-### Common question
+Milk and dairy products are an easy way to meet your calcium needs in pregnancy, which increase to support your baby's developing bones and teeth. If you have concerns about meeting your nutritional needs, a midwife or GP can refer you to a dietitian.
 
-a
+## Frequently Asked Questions
 
-### Common question
+### Is it safe to drink pasteurised milk every day during pregnancy?
 
-w
+Yes. Pasteurised milk is safe to drink throughout pregnancy and is a good source of calcium, protein, and iodine. There is no upper limit on how much pasteurised milk you can drink, though a balanced diet is always advisable.
 
-### Common question
+### What should I do if I accidentally drank raw milk while pregnant?
 
- 
+Try not to panic — one small exposure is unlikely to cause harm, but it is worth monitoring how you feel. If you develop symptoms such as fever, vomiting, diarrhoea, or muscle aches in the days following, contact your GP or midwife and let them know you may have consumed unpasteurised milk. They can assess you and advise on next steps.
 
-### Common question
+### Can I drink raw milk if it has been boiled at home?
 
-(
-
-### Common question
-
-u
-
-### Common question
-
-n
-
-### Common question
-
-p
-
-### Common question
-
-a
-
-### Common question
-
-s
-
-### Common question
-
-t
-
-### Common question
-
-e
-
-### Common question
-
-u
-
-### Common question
-
-r
-
-### Common question
-
-i
-
-### Common question
-
-s
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
-)
-
-### Common question
-
- 
-
-### Common question
-
-m
-
-### Common question
-
-i
-
-### Common question
-
-l
-
-### Common question
-
-k
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-h
-
-### Common question
-
-o
-
-### Common question
-
-u
-
-### Common question
-
-l
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-v
-
-### Common question
-
-o
-
-### Common question
-
-i
-
-### Common question
-
-d
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-d
-
-### Common question
-
-u
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-o
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-r
-
-### Common question
-
-i
-
-### Common question
-
-s
-
-### Common question
-
-k
-
-### Common question
-
- 
-
-### Common question
-
-o
-
-### Common question
-
-f
-
-### Common question
-
- 
-
-### Common question
-
-l
-
-### Common question
-
-i
-
-### Common question
-
-s
-
-### Common question
-
-t
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-i
-
-### Common question
-
-a
-
-### Common question
-
-,
-
-### Common question
-
- 
-
-### Common question
-
-E
-
-### Common question
-
-.
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-o
-
-### Common question
-
-l
-
-### Common question
-
-i
-
-### Common question
-
-,
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-o
-
-### Common question
-
-t
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-a
-
-### Common question
-
-c
-
-### Common question
-
-t
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-i
-
-### Common question
-
-a
-
-### Common question
-
-.
-
-
+Boiling raw milk at home does kill most bacteria and is safer than drinking it cold and raw, but home boiling is not as controlled or reliable as industrial pasteurisation. NHS guidance is simply to avoid raw milk altogether during pregnancy rather than attempting to make it safe at home.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*This article is for informational purposes only and does not constitute medical advice. Always consult your midwife, GP, or a registered dietitian for personalised guidance during pregnancy.*
 
 **Related articles:**
 - [First Trimester Guide](/week-by-week/first-trimester-guide)

@@ -13,461 +13,51 @@ faq_schema: true
 breadcrumb_schema: true
 ---
 
-# Orgasms Early Pregnancy Safe
+# Are Orgasms Safe in Early Pregnancy?
 
-Here's what you need to know.
+For most people with a low-risk pregnancy, orgasms are completely safe. It is very common to have questions — especially in the first trimester when many people feel anxious about anything that might affect their baby. The reassuring answer is that, in the vast majority of cases, sexual activity and orgasm carry no risk to a developing baby.
 
-## Overview
+## What Happens in Your Body During Orgasm in Pregnancy
 
-Are orgasms safe in early pregnancy? What you need to know about climaxing during pregnancy.
+An orgasm causes the uterus to contract rhythmically. These contractions are a normal physiological response and are quite different from labour contractions. They tend to be brief, mild, and do not trigger premature labour in a healthy pregnancy. You may notice them more strongly as pregnancy progresses simply because the uterus has grown, but they are not harmful.
 
-## FAQ
+After orgasm, especially in the first trimester, you might notice your bump feeling temporarily hard or tight, and mild cramping that fades within a minute or two. This is entirely normal. Some people also notice light spotting after sex during pregnancy — this is usually due to the increased blood supply to the cervix, not a sign that anything is wrong. However, if spotting is more than very light, or if it is accompanied by pain, contact your midwife.
 
-### Common question
+Your baby is protected by the amniotic sac and a mucus plug that seals the cervix throughout pregnancy, so there is no direct physical contact during sex or orgasm.
 
-O
+## When Orgasms May Need to Be Discussed with Your Midwife
 
-### Common question
+In most low-risk pregnancies, there is no restriction on sexual activity or orgasm. However, your midwife may advise you to avoid sex and orgasm if you have been told you have:
 
-r
+- **Placenta praevia** — where the placenta lies low and covers or partially covers the cervix
+- **A short or weakened cervix** — including if you have had a cervical stitch (cerclage)
+- **Unexplained vaginal bleeding** during the pregnancy
+- **A history of premature labour** in a previous pregnancy, particularly if you are at increased risk again
+- **Your waters have broken** — in which case any penetrative sex or orgasm should be avoided to reduce infection risk
 
-### Common question
+If you are unsure whether any of these apply to you, or you have been told your pregnancy is higher risk for any reason, ask your midwife or obstetrician directly. They will give you clear, personalised guidance.
 
-g
+## What About Libido Changes in Early Pregnancy?
 
-### Common question
+It is worth noting that desire and comfort vary enormously in the first trimester. Nausea, exhaustion, breast tenderness, and anxiety mean many people have little interest in sex at all during these weeks — and that is equally normal. There is no expectation to maintain a sexual relationship throughout pregnancy. Some people find libido increases in the second trimester as symptoms ease and energy returns; others do not. Both experiences are completely fine.
 
-a
+## Frequently Asked Questions
 
-### Common question
+### Can an orgasm cause a miscarriage?
 
-s
+No. In a normal healthy pregnancy, orgasm does not cause miscarriage. Miscarriage in the first trimester is almost always the result of chromosomal problems in the developing embryo, not physical activity. This is an extremely common fear, but it is not supported by medical evidence.
 
-### Common question
+### Is it normal to have cramps after orgasm in early pregnancy?
 
-m
+Mild cramping or a tightening sensation after orgasm is common and normal. The uterus contracts during orgasm, and these contractions are harmless. If cramping is severe, prolonged, or accompanied by bleeding, contact your midwife to be checked over.
 
-### Common question
+### What if sex or orgasm is uncomfortable in the first trimester?
 
-s
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-a
-
-### Common question
-
-f
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
- 
-
-### Common question
-
-n
-
-### Common question
-
-o
-
-### Common question
-
-r
-
-### Common question
-
-m
-
-### Common question
-
-a
-
-### Common question
-
-l
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
-.
-
-### Common question
-
- 
-
-### Common question
-
-T
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-m
-
-### Common question
-
-a
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-a
-
-### Common question
-
-u
-
-### Common question
-
-s
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-m
-
-### Common question
-
-i
-
-### Common question
-
-l
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-r
-
-### Common question
-
-a
-
-### Common question
-
-m
-
-### Common question
-
-p
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-g
-
-### Common question
-
-,
-
-### Common question
-
- 
-
-### Common question
-
-w
-
-### Common question
-
-h
-
-### Common question
-
-i
-
-### Common question
-
-c
-
-### Common question
-
-h
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-u
-
-### Common question
-
-s
-
-### Common question
-
-u
-
-### Common question
-
-a
-
-### Common question
-
-l
-
-### Common question
-
-l
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-n
-
-### Common question
-
-o
-
-### Common question
-
-t
-
-### Common question
-
-h
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-g
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-o
-
-### Common question
-
- 
-
-### Common question
-
-w
-
-### Common question
-
-o
-
-### Common question
-
-r
-
-### Common question
-
-r
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-b
-
-### Common question
-
-o
-
-### Common question
-
-u
-
-### Common question
-
-t
-
-### Common question
-
-.
-
-
+Discomfort is common, particularly because of breast tenderness, bloating, and general sensitivity in early pregnancy. There is no obligation to continue any activity that is uncomfortable. Experiment with positions, use lubrication if needed, and do not feel any pressure. Your midwife can discuss any ongoing discomfort without judgement.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*If you have any concerns about sexual activity during your pregnancy, speak to your midwife or GP — they are there to help without judgement.*
 
 **Related articles:**
 - [First Trimester Guide](/week-by-week/first-trimester-guide)

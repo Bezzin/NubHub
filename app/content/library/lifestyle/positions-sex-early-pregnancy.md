@@ -15,379 +15,60 @@ breadcrumb_schema: true
 
 # Positions Sex Early Pregnancy
 
-Here's what you need to know.
+Sex in early pregnancy is safe for most people and can feel entirely normal — or it can feel completely different to usual. Your body is already changing, your hormone levels are shifting, and it is natural to wonder which positions are comfortable and whether any adjustments are needed.
 
-## Overview
+## Is Sex Safe in Early Pregnancy?
 
-Safe and comfortable sex positions for early pregnancy.
+For the vast majority of pregnancies, sex is completely safe in the first trimester. Your baby is cushioned by the amniotic fluid inside the uterus, and the cervix is sealed with a mucus plug, so penetration cannot reach or harm the baby. Orgasm may cause mild uterine contractions, but these are harmless in a low-risk pregnancy.
 
-## FAQ
+Your midwife or GP may advise you to avoid sex if you have a history of miscarriage, a low-lying placenta, unexplained bleeding, or your waters have broken. If you are unsure, simply ask at your booking appointment — it is a perfectly normal question.
 
-### Common question
+## How Early Pregnancy Changes Comfort
 
-M
+Even before you have a visible bump, early pregnancy can shift how sex feels. Common changes include:
 
-### Common question
+- **Breast tenderness.** Your breasts may feel very sensitive or sore in the first trimester, so positions that put direct pressure on them can be uncomfortable.
+- **Nausea and fatigue.** If morning sickness or exhaustion is hitting hard, you may simply not feel like being active. That is completely valid.
+- **Increased vaginal sensitivity.** Increased blood flow to the pelvic area can make sex feel more intense — sometimes pleasurably so, sometimes uncomfortably so.
+- **Spotting after sex.** Light spotting after penetrative sex is common due to a more sensitive cervix. It is usually nothing to worry about, but mention it to your midwife if it recurs or is heavy.
 
-o
+## Comfortable Positions to Try
 
-### Common question
+As your bump grows, positions that put weight on your abdomen become less comfortable. In early pregnancy this is not usually a concern yet, but it is worth knowing what works so you can adapt gradually:
 
-s
+- **Side-lying (spooning).** Both partners lie on their sides, which avoids pressure on your bump and gives you control over depth and pace. Many people find this the most comfortable position throughout pregnancy.
+- **You on top.** This lets you control depth and angle completely, which can help if your cervix feels more sensitive than usual.
+- **Modified missionary.** Lying on your back is fine in early pregnancy. As the bump grows later in pregnancy, you may want to use a pillow under your hip to avoid lying completely flat for extended periods.
+- **Edge of the bed.** You lie on your back at the edge of the bed with your partner kneeling or standing. This avoids all body weight on you.
 
-### Common question
+Communication with your partner matters more than any specific position. If something is uncomfortable, say so — pregnancy is a good time to get into the habit of checking in with each other during sex.
 
-t
+## When to Pause and Speak to a Midwife
 
-### Common question
+Stop and contact your midwife or GP if you experience:
 
- 
+- Heavy bleeding (more than light spotting)
+- Significant pain during or after sex
+- Your waters breaking at any point
+- Severe cramping that does not settle
 
-### Common question
+Mild cramps immediately after sex can be normal due to the uterine contractions triggered by orgasm, but these should ease within a few minutes.
 
-s
+## Frequently Asked Questions
 
-### Common question
+### Can sex cause a miscarriage in early pregnancy?
 
-e
+No. Sex does not cause miscarriage in a healthy, low-risk pregnancy. Miscarriage in the first trimester is almost always due to chromosomal factors in the developing embryo — not physical activity or sex. If you have been told you are at higher risk of miscarriage, check with your midwife before having sex.
 
-### Common question
+### Is it normal to feel less like having sex in early pregnancy?
 
-x
+Absolutely. Nausea, exhaustion, sore breasts, and the emotional weight of early pregnancy can all reduce desire. This is extremely common and usually improves in the second trimester when energy returns for many people. There is no obligation to have sex at any point during pregnancy.
 
-### Common question
+### Will my partner be able to feel the baby or hurt it during sex?
 
- 
+No. The baby is located inside the uterus, protected by the amniotic sac and fluid. Penetration reaches only into the vagina — not the uterus. Your baby cannot feel or be harmed by sex.
 
-### Common question
-
-p
-
-### Common question
-
-o
-
-### Common question
-
-s
-
-### Common question
-
-i
-
-### Common question
-
-t
-
-### Common question
-
-i
-
-### Common question
-
-o
-
-### Common question
-
-n
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-a
-
-### Common question
-
-f
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-e
-
-### Common question
-
-a
-
-### Common question
-
-r
-
-### Common question
-
-l
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
-.
-
-### Common question
-
- 
-
-### Common question
-
-A
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-y
-
-### Common question
-
-o
-
-### Common question
-
-u
-
-### Common question
-
-r
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-u
-
-### Common question
-
-m
-
-### Common question
-
-p
-
-### Common question
-
- 
-
-### Common question
-
-g
-
-### Common question
-
-r
-
-### Common question
-
-o
-
-### Common question
-
-w
-
-### Common question
-
-s
-
-### Common question
-
-,
-
-### Common question
-
- 
-
-### Common question
-
-y
-
-### Common question
-
-o
-
-### Common question
-
-u
-
-### Common question
-
- 
-
-### Common question
-
-m
-
-### Common question
-
-a
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-n
-
-### Common question
-
-e
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-o
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-d
-
-### Common question
-
-j
-
-### Common question
-
-u
-
-### Common question
-
-s
-
-### Common question
-
-t
-
-### Common question
-
-.
-
-
+If you have any concerns about sex during your pregnancy, your midwife or GP can offer personalised guidance at any appointment.
 
 ---
 

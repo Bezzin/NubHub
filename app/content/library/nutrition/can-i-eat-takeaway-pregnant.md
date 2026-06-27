@@ -15,460 +15,62 @@ breadcrumb_schema: true
 
 # Can I Eat Takeaway Pregnant?
 
-Can I eat/drink can i eat takeaway pregnant when pregnant? Here's the NHS guidance.
+Yes — most takeaways are fine to eat during pregnancy, as long as the food is freshly cooked and served piping hot. The key risks to avoid are undercooked meat, raw shellfish, unpasteurised cheeses, and food that has been left sitting at warm temperatures. Here is a practical guide to the most common takeaway types.
 
-## Overview
+## Is Takeaway Food Generally Safe in Pregnancy?
 
-Can you eat takeaway when pregnant? Safety guide for different types of takeaway food.
+The main food safety concerns during pregnancy are bacteria (such as Listeria, Salmonella, and E. coli) and the parasite Toxoplasma. These thrive in food that is undercooked, handled with poor hygiene, or left at room temperature too long. When a takeaway is freshly cooked to order and served hot — above 63°C throughout — the risk from most of these is very low.
 
-## FAQ
+Registered restaurants and takeaways in the UK are subject to food hygiene inspections and must follow food safety law. Checking the Food Standards Agency (FSA) hygiene rating for your local takeaway is a quick way to judge how well it is managed.
 
-### Common question
+The main practical rule: eat it hot and eat it soon. Do not leave takeaway food sitting out and then reheat it later if you are pregnant, as reheated rice in particular can harbour Bacillus cereus spores that are not destroyed by reheating.
 
-M
+## Common Takeaway Types: What to Look Out For
 
-### Common question
+**Indian takeaway**
+Most Indian takeaway dishes are cooked at high heat and are safe. Curries, dhal, rice, and naan are generally fine. Avoid dishes containing raw egg (some raitas and chutneys may use unpasteurised products). Tikka and tandoori dishes should be piping hot all the way through — if chicken feels lukewarm or pink in the centre, do not eat it.
 
-o
+**Chinese takeaway**
+Dishes such as stir-fries, noodles, fried rice, and soups are usually safe when freshly cooked and hot. Avoid cold sesame noodles or dishes served at room temperature. Be cautious with prawn crackers and cold spring rolls that have been sitting out. Soy sauce and MSG are fine in normal quantities.
 
-### Common question
+**Fish and chips**
+A British classic and generally low-risk. Cooked fish and battered items are safe when hot. Pickled items (gherkins, pickled eggs) are fine. Avoid eating any fish that is visibly undercooked or cold in the middle.
 
-s
+**Pizza**
+Pizza is safe in pregnancy. Check that meat toppings such as pepperoni or salami are fully cooked through and not just warm — a very hot oven usually handles this. Avoid cold-smoked fish toppings such as smoked salmon on pizza (listeria risk from cold-smoked products). Hard and pasteurised soft cheeses used by most pizza chains are safe; mould-ripened cheeses like brie or camembert are best avoided if used as a topping and not fully cooked.
 
-### Common question
+**Sushi and Japanese food**
+Most cooked Japanese dishes — teriyaki, katsu curry, ramen, gyoza — are safe. Raw fish sushi (such as salmon nigiri or tuna rolls) carries a small risk of parasites and some bacteria and is generally not recommended during pregnancy. Cooked sushi rolls (prawn tempura, chicken, vegetable) are fine. If you love sushi, ask for fully cooked options.
 
-t
+**Kebabs**
+Doner and chicken kebabs must be cooked all the way through. Doner meat can sometimes be held at inconsistent temperatures on the spit — ask for freshly sliced meat from a portion that is clearly piping hot. Shish and grilled chicken skewers cooked to order are usually a safer choice.
 
-### Common question
+**Mexican and fast food**
+Burritos, tacos, and burgers are fine as long as meat is cooked through. Avoid pink burger patties — during pregnancy, all minced meat should be cooked until the juices run clear and there is no pink in the centre. Soft serve ice cream from fast food outlets is pasteurised in the UK and is safe.
 
- 
+## Reheating Leftover Takeaway
 
-### Common question
+If you have leftover takeaway, store it in the fridge within two hours of receiving it and eat it the following day. Reheat it until it is steaming hot throughout — not just warm. Rice is the exception: the NHS advises cooling and refrigerating leftover rice quickly, and reheating it only once. When in doubt, it is safer to discard than risk food poisoning, which can be more serious during pregnancy.
 
-t
+## Frequently Asked Questions
 
-### Common question
+### Is Chinese or Indian takeaway safe when pregnant?
 
-a
+Yes, in general. The food needs to be freshly cooked and served hot throughout. Avoid any dishes that include raw or undercooked shellfish or meat, and eat it while it is still hot rather than leaving it to cool and reheating it later.
 
-### Common question
+### Can I eat fast food burgers when pregnant?
 
-k
+Yes, as long as the burger patty is fully cooked through with no pink meat and piping hot. Most UK fast food chains cook to consistent temperatures. Ask for your burger to be well done if you are concerned.
 
-### Common question
+### What takeaway foods should I avoid when pregnant?
 
-e
-
-### Common question
-
-a
-
-### Common question
-
-w
-
-### Common question
-
-a
-
-### Common question
-
-y
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-a
-
-### Common question
-
-f
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-f
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
-y
-
-### Common question
-
-'
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-f
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-s
-
-### Common question
-
-h
-
-### Common question
-
-l
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-o
-
-### Common question
-
-o
-
-### Common question
-
-k
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-v
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-h
-
-### Common question
-
-o
-
-### Common question
-
-t
-
-### Common question
-
-.
-
-### Common question
-
- 
-
-### Common question
-
-A
-
-### Common question
-
-v
-
-### Common question
-
-o
-
-### Common question
-
-i
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-r
-
-### Common question
-
-a
-
-### Common question
-
-w
-
-### Common question
-
- 
-
-### Common question
-
-o
-
-### Common question
-
-r
-
-### Common question
-
- 
-
-### Common question
-
-u
-
-### Common question
-
-n
-
-### Common question
-
-d
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-c
-
-### Common question
-
-o
-
-### Common question
-
-o
-
-### Common question
-
-k
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-t
-
-### Common question
-
-e
-
-### Common question
-
-m
-
-### Common question
-
-s
-
-### Common question
-
-.
-
-
+Avoid raw fish (such as raw sushi), cold-smoked fish, undercooked or pink meat, raw shellfish, unpasteurised cheeses, and any food that has been kept warm rather than freshly cooked. Reheated rice that has been left out should also be avoided.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+Speak to your midwife or GP if you have specific concerns about your diet during pregnancy.
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
-- [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
+- [Food Poisoning in Pregnancy](/nutrition/food-poisoning-pregnancy-complete-guide)
+- [Can I Eat Sushi Pregnant?](/nutrition/can-i-eat-sushi-pregnant)
+- [Can I Eat Prawns Pregnant?](/nutrition/can-i-eat-prawns-pregnant)
