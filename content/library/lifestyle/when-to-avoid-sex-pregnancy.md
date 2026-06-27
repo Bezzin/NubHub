@@ -13,329 +13,67 @@ faq_schema: true
 breadcrumb_schema: true
 ---
 
-# When To Avoid Sex Pregnancy
+# When To Avoid Sex During Pregnancy
 
-Here's what you need to know.
+For the vast majority of pregnancies, sex is completely safe right the way through. Your baby is well cushioned inside the amniotic sac, and the cervix is sealed by a mucus plug. However, there are specific situations where your midwife or doctor may advise you to abstain, either temporarily or for the remainder of your pregnancy. Here is what you need to know.
 
-## Overview
+## Sex in Pregnancy: The General Rule {#overview}
 
-When should you avoid sex during pregnancy? Medical reasons and warning signs.
+Most pregnant women can have sex whenever they feel like it, in positions that are comfortable, without any risk to the baby. Orgasms cause uterine contractions, but these are different in character to labour contractions and do not trigger early labour in a healthy, uncomplicated pregnancy.
 
-## FAQ
+If your pregnancy has been confirmed as low-risk and you have no current complications, you do not need your midwife's permission to have sex. The decision is entirely yours and your partner's, based on how you feel.
 
-### Common question
+## Medical Reasons to Avoid Sex in Pregnancy {#when-to-avoid}
 
-S
+Your midwife or obstetrician may advise you to avoid penetrative sex if you have any of the following conditions:
 
-### Common question
+**Placenta praevia (low-lying placenta)**
+If your placenta partially or completely covers the cervix, penetration can cause bleeding. You will usually find this out at your 20-week anomaly scan, and your care team will advise you accordingly. Some low-lying placentas move up as the uterus grows — a follow-up scan will check this.
 
-e
+**History of preterm labour or cervical weakness**
+If you have previously given birth prematurely or have been diagnosed with cervical incompetence (a short or weakened cervix), your doctor may recommend pelvic rest, particularly in the third trimester. Prostaglandins in semen can soften the cervix, which is not a concern in a standard pregnancy but may be relevant if your cervix is already at risk.
 
-### Common question
+**Unexplained bleeding in this pregnancy**
+Any episode of unexplained vaginal bleeding warrants a conversation with your midwife before resuming sexual activity. Once the cause has been investigated and you have been given the all-clear, it is usually fine to continue.
 
-x
+**Ruptured membranes**
+If your waters break before labour begins (known as preterm pre-labour rupture of membranes, or PPROM), penetrative sex and anything else entering the vagina must be avoided entirely, as there is a risk of infection reaching the baby. This is a medical emergency — call your maternity unit straight away.
 
-### Common question
+**Multiple pregnancy with known complications**
+Twin and triplet pregnancies that involve additional risk factors such as twin-to-twin transfusion syndrome or a very short cervix may prompt advice to avoid sex. Uncomplicated twin pregnancies do not automatically mean sex is off the table, but always check with your care team.
 
- 
+## Warning Signs to Stop and Seek Help {#warning-signs}
 
-### Common question
+Stop and contact your midwife, GP, or maternity triage if you notice any of the following during or after sex:
 
-s
+- Bleeding that is heavier than light spotting
+- Severe abdominal or pelvic pain that does not settle quickly
+- A gush of fluid suggesting your waters may have broken
+- Regular, tightening contractions that do not ease off
 
-### Common question
+Light spotting immediately after penetrative sex can happen in pregnancy due to increased blood supply to the cervix, and is usually harmless — but always mention it to your midwife if you are unsure.
 
-h
+## Emotional and Physical Comfort Matters Too {#comfort}
 
-### Common question
+Even without a medical reason to avoid sex, your feelings about it matter completely. Many women experience reduced libido in the first trimester due to fatigue and nausea, a return of interest in the second trimester, and then mixed feelings again in the third trimester as the bump grows and comfort becomes a challenge. All of this is normal.
 
-o
+Use plenty of pillows, experiment with positions that take pressure off the bump, and communicate openly with your partner. If you feel uncomfortable or simply do not want to, that is a valid reason to abstain — no medical diagnosis required.
 
-### Common question
+## Frequently Asked Questions {#faq}
 
-u
+### Can sex cause a miscarriage?
 
-### Common question
+No. In a healthy pregnancy without complications, sex does not cause miscarriage. Early miscarriages are almost always caused by chromosomal problems with the embryo and are not triggered by physical activity or sex. If you have experienced a previous miscarriage, it is understandable to feel anxious — talk to your midwife about your concerns.
 
-l
+### Is it safe to have sex in the third trimester?
 
-### Common question
+Yes, in most uncomplicated pregnancies. Sex does not trigger labour in a normal pregnancy, even near the due date, despite semen containing prostaglandins. Some couples choose to try sex as a natural method of encouraging labour when they are overdue, but evidence for this is limited. If your pregnancy is uncomplicated, there is no medical reason to stop having sex in the third trimester.
 
-d
+### Should I avoid sex after my 12-week scan?
 
-### Common question
+No — the 12-week scan is not a cut-off for sexual activity. If your scan shows the pregnancy is progressing well and there are no complications, there is no reason to avoid sex at any point in the first trimester or beyond. The decision is always personal and based on how you feel.
 
- 
-
-### Common question
-
-b
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-v
-
-### Common question
-
-o
-
-### Common question
-
-i
-
-### Common question
-
-d
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-t
-
-### Common question
-
-a
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-o
-
-### Common question
-
-n
-
-### Common question
-
-d
-
-### Common question
-
-i
-
-### Common question
-
-t
-
-### Common question
-
-i
-
-### Common question
-
-o
-
-### Common question
-
-n
-
-### Common question
-
-s
-
-### Common question
-
-.
-
-### Common question
-
- 
-
-### Common question
-
-H
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-'
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-w
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-o
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-b
-
-### Common question
-
-s
-
-### Common question
-
-t
-
-### Common question
-
-a
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-.
-
-
+Speak to your midwife or GP if you have specific concerns about sex during your pregnancy — they will give you guidance tailored to your individual circumstances.
 
 ---
 

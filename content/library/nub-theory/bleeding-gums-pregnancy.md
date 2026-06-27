@@ -17,37 +17,52 @@ breadcrumb_schema: true
 
 Bleeding gums are a common pregnancy complaint. Hormones make gum tissue more sensitive and prone to inflammation, a condition known as pregnancy gingivitis. With good oral hygiene it is usually manageable and resolves after birth.
 
-## Table of Contents
-
-1. [Why Gums Bleed in Pregnancy](#why-gums-bleed-in-pregnancy)
-2. [Caring for Your Gums](#caring-for-your-gums)
-3. [FAQ](#faq)
-
 ## Why Gums Bleed in Pregnancy {#why-gums-bleed-in-pregnancy}
 
-Increased oestrogen and progesterone exaggerate the gum response to plaque, causing swelling, redness, and bleeding. Increased blood flow also makes gum tissue more vascular and delicate. This is why even gentle brushing can trigger bleeding.
+Increased oestrogen and progesterone exaggerate the gum response to plaque, causing swelling, redness, and bleeding. Increased blood flow also makes gum tissue more vascular and delicate, which is why even gentle brushing can trigger some bleeding.
 
-## Caring for Your Gums {#caring-for-your-gums}
+This hormonal effect typically becomes noticeable in the first trimester and can continue throughout pregnancy. It does not mean your oral health has suddenly deteriorated — it means your gums are temporarily more reactive than usual. The same plaque that would cause only mild irritation before pregnancy can cause a more pronounced response now.
 
-Brush twice daily with a soft brush, floss gently, and use a mild mouthwash. Keep up regular dental visits, as NHS dental care is free during pregnancy. If bleeding is severe or you notice loose teeth, see your dentist promptly.
+Morning sickness can also affect your oral health. Repeated vomiting exposes your teeth to stomach acid. If you experience morning sickness frequently, rinse your mouth with water or a fluoride mouthwash after vomiting rather than brushing immediately, as brushing softened enamel can increase erosion.
 
-## FAQ {#faq}
+## Caring for Your Gums in Pregnancy {#caring-for-your-gums}
+
+Good oral hygiene is the most effective way to manage pregnancy gingivitis:
+
+- **Brush twice daily** with a fluoride toothpaste, using a soft-bristled toothbrush. A soft brush is gentler on inflamed gum tissue.
+- **Floss gently once a day.** Flossing removes plaque between teeth where brushing cannot reach. If your gums bleed when you floss, continue gently — stopping usually makes the problem worse.
+- **Use a mild, alcohol-free mouthwash.** This can help reduce bacteria in the mouth. Avoid strong antiseptic mouthwashes unless your dentist recommends them.
+- **Attend your dental check-up.** NHS dental care is free throughout pregnancy and for one year after birth in the UK, with a valid maternity exemption certificate (MatEx). Tell your dentist you are pregnant so they can tailor your care and avoid certain treatments.
+- **Watch your diet.** Sugary snacks and drinks — which many women crave in pregnancy — feed the bacteria that cause gum inflammation. Try to limit how frequently you eat sugary foods rather than eliminating them altogether.
+
+## When to See Your Dentist {#when-to-see-dentist}
+
+Most pregnancy gingivitis is mild and manageable at home. However, see your dentist promptly if:
+
+- Bleeding is heavy or does not improve with good hygiene after a week or two.
+- You notice swollen lumps on the gum (these are sometimes called pregnancy epulis — harmless growths that can appear on the gums and usually resolve after birth, but should be checked).
+- You have pain or loose teeth.
+- You notice significant recession (gums pulling away from the teeth).
+
+Severe gum disease (periodontitis) has been associated with a higher risk of preterm labour and low birth weight. This is not a reason to panic, but it is a reason to keep up your dental visits and not ignore persistent problems.
+
+## Frequently Asked Questions {#faq}
 
 ### Is bleeding gums normal in pregnancy?
 
-Yes. Pregnancy gingivitis affects many people and is driven by hormones. It usually resolves after birth with good hygiene.
+Yes. Pregnancy gingivitis affects a large number of pregnant people and is driven entirely by hormonal changes. Some bleeding when you brush or floss is very common, particularly in the first and second trimesters. It usually resolves on its own after birth as hormones normalise. Good oral hygiene throughout pregnancy is the best way to keep it under control.
 
 ### Can gum disease affect my baby?
 
-Severe gum disease has been linked to a higher risk of preterm birth and low birth weight, so dental care matters in pregnancy.
+Severe, untreated gum disease has been linked to a higher risk of preterm birth and low birth weight in some research. This does not mean mild gum sensitivity will harm your baby — most people with pregnancy gingivitis have healthy pregnancies. It does underline why dental care matters: keep up your brushing, flossing, and dentist visits so any problems are caught early.
 
-### Is dental care free in pregnancy?
+### Is dental treatment free when pregnant?
 
-In the UK, NHS dental treatment is free from confirmation of pregnancy until one year after birth, with a maternity exemption certificate.
+Yes. In England, NHS dental treatment is free from the moment your pregnancy is confirmed until your baby's first birthday. You need a valid maternity exemption certificate (MatEx), which your GP or midwife can arrange for you. This covers routine check-ups, fillings, and most other standard treatments. Tell your dentist you are pregnant before any treatment, including X-rays, so they can advise accordingly.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*This article is for informational purposes only. Always speak to your midwife, GP, or dentist for advice tailored to your individual circumstances.*
 
 **Related articles:**
 - [Nosebleeds in Pregnancy](/nub-theory/nosebleeds-pregnancy)

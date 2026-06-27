@@ -15,49 +15,75 @@ breadcrumb_schema: true
 
 # Can I Eat Honey When Pregnant?
 
-Can you eat honey when pregnant? The short answer: **Yes - safe in pregnancy (honey is only dangerous for under-1s)**.
+Yes — honey is safe to eat during pregnancy. This is one of the food questions where the answer is genuinely straightforward: **you can eat honey freely when pregnant**. The warning you may have seen about honey applies to babies under 12 months, not to pregnant women.
 
 ## Quick Answer
 
-**Honey in pregnancy: Yes**
+**Honey in pregnancy: Yes — safe to eat**
 
-Yes - safe in pregnancy (honey is only dangerous for under-1s).
+Honey is safe for pregnant women. The restriction on honey applies to infants under one year old, not to adults or pregnant people.
 
 ## Table of Contents
 
-1. [Is Honey Safe?](#is-it-safe)
+1. [Is Honey Safe in Pregnancy?](#is-it-safe)
 2. [NHS Guidance](#nhs-guidance)
-3. [How to Eat Safely](#how-to-eat-safely)
-4. [FAQ](#faq)
+3. [Why Is Honey Unsafe for Babies but Not Adults?](#why-babies-not-adults)
+4. [How to Include Honey Safely](#how-to-eat-safely)
+5. [FAQ](#faq)
 
 ## Is Honey Safe in Pregnancy? {#is-it-safe}
 
-Honey is a other that is safe to eat during pregnancy when properly prepared and stored.
+Honey can contain spores of a bacterium called *Clostridium botulinum*. In adults and older children, the digestive system is mature enough to prevent these spores from multiplying or producing the toxin that causes botulism. The spores pass through harmlessly.
 
-The main concerns with food in pregnancy are listeria (a bacteria that can cause serious illness), toxoplasmosis (a parasite), salmonella (a bacteria), and vitamin A toxicity.
+In babies under 12 months, the gut is not yet developed enough to handle these spores safely. This is why honey — including on dummies or in food — should never be given to infants under one year old. This is a firm recommendation from the NHS.
 
-## NHS Guidance on Honey {#nhs-guidance}
+However, when you are pregnant, **your** digestive system works normally and you are not at risk from honey. The spores cannot cross the placenta in a way that poses a risk to your baby in the womb. This means you can eat honey on toast, in herbal teas, in baking, in salad dressings, and in any other way you enjoy it.
 
-The NHS advises that yes - safe in pregnancy (honey is only dangerous for under-1s). Always follow NHS food safety guidance during pregnancy.
+## NHS Guidance {#nhs-guidance}
 
-## How to Eat Honey Safely {#how-to-eat-safely}
+The NHS does not list honey as a food to avoid during pregnancy. The NHS list of foods to avoid focuses on unpasteurised cheeses, raw or undercooked meat and eggs, certain types of fish, liver, and high-caffeine foods — honey is not among them.
 
-Honey is safe to eat during pregnancy. Follow general food hygiene: check use-by dates, store at correct temperature, and prepare cleanly.
+The NHS does advise parents not to give honey to babies under 12 months. This is a separate recommendation that applies after birth and is about your baby's diet once they are here, not about your diet during pregnancy.
+
+## Why Is Honey Unsafe for Babies but Not Adults? {#why-babies-not-adults}
+
+The difference comes down to gut maturity. In adults, stomach acid and the established gut microbiome provide an environment where *Clostridium botulinum* spores cannot germinate and produce toxin. The spores simply pass through.
+
+In an infant under 12 months, the gut is not yet colonised with the protective bacteria that prevent this, and stomach acidity is lower. In this environment, spores can germinate, multiply, and produce a toxin that causes infant botulism — a rare but serious condition.
+
+Your unborn baby is not eating through their gut; they receive nutrition via the placenta. The spores from honey do not reach your baby through this route in a way that poses a risk. This is why the restriction applies to what babies are fed after they are born, not to what you eat while pregnant.
+
+## How to Include Honey Safely {#how-to-eat-safely}
+
+There's nothing special you need to do. Honey in pregnancy can be:
+
+- Stirred into hot drinks (including herbal teas, though check the tea itself is pregnancy-safe)
+- Spread on toast or porridge
+- Used in baking and cooking
+- Added to salad dressings or marinades
+- Eaten straight from the jar
+
+All types of honey — runny, set, manuka, raw — are fine for pregnant women. "Raw" honey has simply not been pasteurised or filtered and is safe for adults and pregnant women, though it is one more reason the under-12-months rule is particularly important for infants.
+
+The usual general food hygiene practices apply: keep honey in a clean, sealed container, check the use-by date, and store it appropriately.
 
 ## Frequently Asked Questions {#faq}
 
 ### What if I accidentally ate honey while pregnant?
 
-Don't panic. The risk of infection is low. Watch for symptoms like fever, nausea, vomiting, or diarrhoea. If you feel unwell, contact your GP or call 111.
+There's nothing to worry about. Honey is safe during pregnancy. If you'd heard it was dangerous and avoided it, you can now eat it freely — there's no harm done by having eaten it, and no harm in continuing to eat it. The concern about honey is specifically and only about feeding it to babies under 12 months.
 
-### Is honey safe in the first trimester?
+### Is raw or manuka honey safe in pregnancy?
 
-The same rules apply throughout pregnancy. Yes - safe in pregnancy (honey is only dangerous for under-1s)
+Yes. All varieties of honey — including raw and manuka — are safe for pregnant women to eat. Raw honey has not been heated or filtered, but this doesn't change the safety picture for adults. The advice about infant botulism applies to all honey types equally, which is why infants under 12 months shouldn't be given any honey at all — but for you during pregnancy, all types are fine.
 
+### Can I give my newborn honey after they're born?
+
+No. The NHS is clear that honey should not be given to babies under 12 months in any form — including on a dummy, as a sweetener, or in food. After your baby's first birthday, their gut is mature enough that honey is safe. Until then, keep honey away from them entirely.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*If you have any concerns about your diet during pregnancy, speak to your midwife or GP. This article is for informational purposes only and does not constitute medical advice.*
 
 *Last reviewed: June 2026*
 

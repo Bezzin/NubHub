@@ -15,26 +15,39 @@ breadcrumb_schema: true
 
 # Glucose In Urine Pregnancy
 
-Glucose in urine during pregnancy — what it means and when to get tested for gestational diabetes.
+Finding glucose (sugar) in your urine at an antenatal appointment can feel worrying, but on its own it usually does not mean anything is wrong. At most appointments your midwife dips a test strip into a urine sample, and glucose is one of several things it checks. A trace or one-off reading is common in pregnancy and often clears up by your next visit. It can, however, be one early signpost towards gestational diabetes, so your midwife will keep an eye on it over time rather than acting on a single result.
 
-## Overview
+## Why glucose shows up in your urine
 
-Finding glucose (sugar) in your urine during pregnancy can be a sign of gestational diabetes.
+During pregnancy your kidneys filter more blood than usual, and they do not always reabsorb sugar as efficiently as before. This means small amounts of glucose can spill into your urine even when your blood sugar is perfectly normal. A sugary breakfast or drink shortly before your appointment can also nudge the reading up. Because of this, a single positive dip is rarely a cause for concern by itself.
 
-## FAQ
+What your midwife watches for is a pattern. If glucose appears at more than one appointment, or alongside other risk factors such as a higher BMI, a family history of diabetes, or a previous large baby, you are more likely to be offered further testing.
 
-### Small amounts of glucose can be normal. Persistent glucose may indicate gestational diabetes — a type of diabetes that develops during pregnancy. If glucose is found repeatedly, you'll be offered a glucose tolerance test (GTT) to check.
+## What happens next
 
-Does glucose in urine mean I have gestational diabetes?
+If glucose is found repeatedly, you will usually be offered a glucose tolerance test (GTT). This involves fasting overnight, having a blood test, drinking a sugary glucose drink, and then having a second blood test about two hours later. The GTT is the reliable way to diagnose gestational diabetes, which a urine dip alone cannot do.
 
-### Not necessarily. A one-off finding can be normal. If glucose is found at multiple appointments, you'll be offered a glucose tolerance test to confirm.
+Gestational diabetes is very manageable. Many people control it with changes to diet and activity, and some need medication or insulin for the rest of the pregnancy. It is monitored carefully because, left unmanaged, it can affect your baby's growth and your birth options. Once your baby arrives, gestational diabetes usually resolves.
 
-When is gestational diabetes tested?
+## What is normal and when to seek help
 
-### What should I do next?
+A trace of glucose now and then is normal. You do not need to do anything differently based on a single result. Do mention it to your midwife if you also have strong thirst, are passing much more urine than usual, are very tired, or notice blurred vision, as these can be signs your blood sugar is high. If you ever feel acutely unwell, contact your midwife, GP, or maternity unit, and call NHS 111 if you are unsure and cannot reach them.
 
-Always consult your healthcare provider for personalised advice.
+## Frequently Asked Questions
 
+### Does glucose in urine mean I have gestational diabetes?
+
+Not necessarily. A one-off finding is common and often normal. If glucose appears at several appointments, you will be offered a glucose tolerance test, which is the proper way to confirm or rule out gestational diabetes.
+
+### When is gestational diabetes tested?
+
+A glucose tolerance test is usually offered between around 24 and 28 weeks if you have risk factors, or sooner if glucose keeps appearing in your urine. Your midwife will arrange this and explain the fasting instructions beforehand.
+
+### Should I change my diet because of one positive result?
+
+Eating balanced meals and going easy on sugary drinks is sensible for everyone in pregnancy, but you do not need a special diet based on a single dip. Wait for your midwife's advice and any formal testing before making bigger changes.
+
+Always speak to your midwife or GP for advice tailored to your own pregnancy.
 
 ---
 

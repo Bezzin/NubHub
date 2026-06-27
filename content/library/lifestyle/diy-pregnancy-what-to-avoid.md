@@ -15,415 +15,59 @@ breadcrumb_schema: true
 
 # Diy Pregnancy What To Avoid
 
-Here's what you need to know.
+DIY projects often feel urgent when a baby is on the way — the urge to decorate the nursery, fix the wobbly bannister, or finally sort out the garden is real. Most light household tasks are perfectly fine during pregnancy, but a handful of activities carry genuine risks worth knowing about. Here is a practical guide to what to avoid and what to approach with care.
 
-## Overview
+## Tasks to Avoid Completely
 
-DIY during pregnancy — what's safe and what to avoid. Guide to home improvement when expecting.
+Some DIY activities pose enough risk that it is safest to hand them off to someone else entirely:
 
-## FAQ
+**Paint stripping and older paintwork.** Homes built before the late 1970s may contain lead-based paint. Sanding, scraping, or heat-stripping this paintwork releases lead dust, which can cross the placenta and harm fetal development. If you are unsure whether paint in your home contains lead, do not disturb it yourself. Contact a professional or ask your local council for guidance.
 
-### Common question
+**Solvent-based paints, varnishes, and strong adhesives.** Products that require ventilation warnings carry solvents that may be harmful with prolonged inhalation. If redecorating is unavoidable, use water-based (emulsion) paint in a well-ventilated room and take frequent breaks in fresh air. Avoid spray paints entirely.
 
-M
+**Pesticides and weed killers.** Chemical garden treatments should be avoided during pregnancy. Ask someone else to apply them, and stay out of treated areas until the product has dried and the area is well ventilated according to the product instructions.
 
-### Common question
+**Heavy lifting.** Pregnancy hormones loosen the ligaments supporting your joints, particularly in the pelvis and lower back. Lifting heavy objects — furniture, boxes of tiles, bags of compost — puts significant strain on your back and pelvic floor. Avoid lifting anything you would struggle to carry before pregnancy, and never lift with a bent back.
 
-o
+**Climbing ladders and working at height.** Your centre of gravity shifts as your bump grows, making falls more likely. Even a low fall can be dangerous in pregnancy. Ladder work, loft access, and anything requiring prolonged balancing on unstable surfaces should be delegated entirely.
 
-### Common question
+## Tasks to Approach with Care
 
-s
+Some lighter tasks are generally manageable but worth modifying:
 
-### Common question
+**Painting walls.** Water-based emulsion paint is widely considered low risk in well-ventilated rooms. Open windows, take breaks outside, and do not sleep in a freshly painted room. Avoid kneeling or crouching for long periods, which adds pressure to the pelvis.
 
-t
+**Gardening.** Light gardening — weeding, planting, watering — is good gentle exercise in pregnancy. Wear gloves to protect against soil-borne bacteria including Toxoplasma gondii, which can be present in garden soil and cat faeces and is harmful in pregnancy. Wash your hands thoroughly after gardening. Avoid heavy digging.
 
-### Common question
+**Flat-pack assembly.** Putting together furniture is fine in principle, but avoid anything that requires lifting heavy panels alone or working on the floor for extended periods. Sit on a stool rather than kneeling, and ask for help with heavy or awkward pieces.
 
- 
+## Ventilation and Chemical Safety
 
-### Common question
+Good ventilation is the single most important precaution when doing any indoor DIY. Open windows and doors, use fans to move air through the space, and leave the area if you notice headaches, dizziness, or nausea — these can be signs of fume build-up. If in doubt about a product's safety, check the label for pregnancy warnings or contact NHS 111 for guidance.
 
-D
+## When to Seek Help
 
-### Common question
+If you experience any of the following after DIY activity, contact your midwife or GP:
 
-I
+- Dizziness, headaches, or visual disturbances that do not resolve with rest and fresh air
+- Pelvic or back pain that is new or significantly worsened
+- Any fall, even a minor one — your midwife will want to assess you and your baby
 
-### Common question
+## Frequently Asked Questions
 
-Y
+### Is it safe to decorate the nursery while pregnant?
 
-### Common question
+Painting with water-based emulsion in a well-ventilated room is generally considered low risk. Choose paint with no or low volatile organic compounds (VOCs), open windows throughout, and do not do the work alone in case you feel unwell. Avoid solvent-based gloss, spray paint, or any stripping of old paintwork. If the room has old paint that might contain lead, wait until after the baby is born or have it assessed by a professional first.
 
- 
+### Can I use bleach or household cleaning products while pregnant?
 
-### Common question
+Routine use of standard household cleaners — including bleach used briefly in a ventilated space — is generally considered safe in pregnancy. Wear gloves, ensure good ventilation, and never mix products (bleach combined with other cleaners can release harmful fumes). Avoid prolonged use or contact with concentrated products. If a task requires strong chemical use over a long period, ask someone else to do it.
 
-i
+### What should I do if I accidentally inhaled paint fumes or chemical products?
 
-### Common question
+Move to fresh air immediately, drink water, and rest. If symptoms such as dizziness, persistent headache, nausea, or shortness of breath do not resolve within an hour in fresh air, contact NHS 111 for advice. Always mention your pregnancy so they can assess you appropriately.
 
-s
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-a
-
-### Common question
-
-f
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
-,
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-u
-
-### Common question
-
-t
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-v
-
-### Common question
-
-o
-
-### Common question
-
-i
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
-a
-
-### Common question
-
-v
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-l
-
-### Common question
-
-i
-
-### Common question
-
-f
-
-### Common question
-
-t
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-g
-
-### Common question
-
-,
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-l
-
-### Common question
-
-i
-
-### Common question
-
-m
-
-### Common question
-
-b
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-g
-
-### Common question
-
- 
-
-### Common question
-
-l
-
-### Common question
-
-a
-
-### Common question
-
-d
-
-### Common question
-
-d
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-s
-
-### Common question
-
-,
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-e
-
-### Common question
-
-x
-
-### Common question
-
-p
-
-### Common question
-
-o
-
-### Common question
-
-s
-
-### Common question
-
-u
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-o
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
-m
-
-### Common question
-
-i
-
-### Common question
-
-c
-
-### Common question
-
-a
-
-### Common question
-
-l
-
-### Common question
-
-s
-
-### Common question
-
-.
-
-
+If you are unsure about the safety of any specific task during your pregnancy, speak to your midwife or GP — they can give guidance tailored to how far along you are.
 
 ---
 

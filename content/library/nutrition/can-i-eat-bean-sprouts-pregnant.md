@@ -15,331 +15,63 @@ breadcrumb_schema: true
 
 # Can I Eat Bean Sprouts Pregnant?
 
-Can I eat/drink can i eat bean sprouts pregnant when pregnant? Here's the NHS guidance.
+Raw bean sprouts should be avoided during pregnancy. Cooked bean sprouts are safe to eat. This is one of those foods where the preparation method makes all the difference — so it is worth knowing the detail before ordering a stir-fry or a salad.
 
-## Overview
+## The NHS Guidance on Bean Sprouts in Pregnancy
 
-Can you eat bean sprouts when pregnant? Safety guide for raw and cooked sprouts.
+The NHS advises pregnant women to avoid raw bean sprouts. This includes all varieties — mung bean sprouts, alfalfa sprouts, and any other type of raw sprouted seed or legume.
 
-## FAQ
+The reason is that raw sprouts can carry harmful bacteria, including Salmonella and E. coli. Sprouts are grown in warm, moist conditions that are ideal for bacteria to thrive. Washing them does not reliably remove these bacteria. Because pregnancy affects your immune system, making you more vulnerable to foodborne illness, the NHS recommends not taking the risk with raw sprouts.
 
-### Common question
+When bean sprouts are thoroughly cooked — as they would be in a stir-fry, soup, or hot noodle dish — they are safe to eat. The cooking process kills bacteria that could otherwise cause food poisoning.
 
-R
+## What This Means in Practice
 
-### Common question
+**Avoid:**
+- Raw bean sprouts in salads
+- Bean sprouts in cold spring rolls or cold noodle dishes
+- Any dish where sprouts are added uncooked at the end, such as certain Vietnamese pho where sprouts are served on the side to be added raw
 
-a
+**Safe to eat:**
+- Bean sprouts that have been stir-fried until hot throughout
+- Bean sprouts in hot soups where they have been simmered
+- Bean sprouts in any cooked dish where they have reached a high enough temperature to be properly heated
 
-### Common question
+If you are eating out, it is worth checking with the restaurant whether any sprouts in your dish are raw or cooked. Many dishes that typically include raw sprouts — such as pad thai in some restaurants — can be adapted on request.
 
-w
+## What If You Have Accidentally Eaten Raw Bean Sprouts?
 
-### Common question
+Try not to panic. Eating raw bean sprouts once is unlikely to cause serious harm, and many people eat them without any problem. However, if you develop symptoms of food poisoning — such as vomiting, diarrhoea, stomach cramps, or fever — you should contact your GP or call 111 for advice. Dehydration from vomiting and diarrhoea is the main concern in pregnancy and may need treatment.
 
- 
+## Other Foods to Be Aware Of
 
-### Common question
+Bean sprouts fall into a broader category of foods that need care in pregnancy due to the risk of bacterial contamination. Other foods in this group include:
 
-b
+- Raw or undercooked meat and poultry
+- Unpasteurised dairy products
+- Raw shellfish
+- Certain soft cheeses
+- Liver and liver products (due to high vitamin A content rather than bacteria)
 
-### Common question
+The NHS has a full list of foods to avoid or limit in pregnancy, which your midwife can discuss with you at your booking appointment.
 
-e
+## Frequently Asked Questions
 
-### Common question
+### Can I eat bean sprouts in a stir-fry when pregnant?
 
-a
+Yes. As long as the bean sprouts are fully cooked and piping hot throughout, they are safe to eat in pregnancy. Stir-fried sprouts that have been cooked in a hot pan are fine.
 
-### Common question
+### Are all sprouts unsafe in pregnancy?
 
-n
+Raw sprouts of all types — including mung bean, alfalfa, and radish sprouts — should be avoided in pregnancy. The issue is the raw preparation, not the specific type of sprout. Cook them thoroughly and they are safe.
 
-### Common question
+### What should I do if I feel unwell after eating raw sprouts?
 
- 
-
-### Common question
-
-s
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-o
-
-### Common question
-
-u
-
-### Common question
-
-t
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-h
-
-### Common question
-
-o
-
-### Common question
-
-u
-
-### Common question
-
-l
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-v
-
-### Common question
-
-o
-
-### Common question
-
-i
-
-### Common question
-
-d
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-g
-
-### Common question
-
-n
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
-c
-
-### Common question
-
-y
-
-### Common question
-
-.
-
-### Common question
-
- 
-
-### Common question
-
-C
-
-### Common question
-
-o
-
-### Common question
-
-o
-
-### Common question
-
-k
-
-### Common question
-
-e
-
-### Common question
-
-d
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-e
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-p
-
-### Common question
-
-r
-
-### Common question
-
-o
-
-### Common question
-
-u
-
-### Common question
-
-t
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-a
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-s
-
-### Common question
-
-a
-
-### Common question
-
-f
-
-### Common question
-
-e
-
-### Common question
-
-.
-
-
+If you experience vomiting, diarrhoea, stomach cramps, or a fever after eating raw sprouts during pregnancy, contact your GP or call 111. They can advise whether you need to be seen and help manage any dehydration.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*Speak to your midwife or GP for personalised advice about your diet during pregnancy.*
 
 **Related articles:**
 - [First Trimester Guide](/week-by-week/first-trimester-guide)

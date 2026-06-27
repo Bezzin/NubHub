@@ -15,424 +15,89 @@ breadcrumb_schema: true
 
 # Nub Theory How To Post Scan Reading
 
-Here's what you need to know.
+Got your first scan photo and curious whether nub theory can give you an early hint at your baby's sex? This guide walks you through exactly how to share your scan image online for a nub theory reading — and what makes the difference between a useful response and a frustrating "can't tell."
 
-## Overview
+## Table of Contents
 
-How to post your scan photo online for free nub theory readings. Tips for getting the best results.
+1. [What you need before you post](#what-you-need)
+2. [How to find and crop the right image](#how-to-crop)
+3. [Where to post for a nub theory reading](#where-to-post)
+4. [What to include in your post](#what-to-include)
+5. [How to interpret what you're told](#how-to-interpret)
+6. [Frequently Asked Questions](#faq)
 
-## FAQ
+## What you need before you post {#what-you-need}
 
-### Common question
+Nub theory works from ultrasound images taken between 11 and 14 weeks of pregnancy, ideally during your dating scan or a private early reassurance scan. The technique looks at the "nub" — the genital tubercle — which is visible as a small protrusion between the baby's legs at this stage.
 
-P
+Before you post, check that your scan image shows:
 
-### Common question
+- A **clear side-on (sagittal) view** of the baby — this means you can see the baby's profile from the side, with the spine running horizontally across the image
+- A **visible nub** at the base of the baby's bottom, between the legs
+- A reasonably **sharp image** — blurry or dark scans are very hard to read
 
-o
+If your scan image only shows a front-on or top-down view, nub theory cannot be applied from that image. You would need a different frame from your scan.
 
-### Common question
+## How to find and crop the right image {#how-to-crop}
 
-s
+Hospitals and private scan providers give you either a printed photo or a digital image. If you have a printed photo, take a photo of it in good lighting — avoid shadows and glare. If you have a digital file, you can upload it directly.
 
-### Common question
+To help the community or reader focus on the relevant area, crop your image so the baby takes up most of the frame. You do not need to remove anything — just zoom in a little. The nub is located at the very base of the baby's spine, where the legs begin. Once you know where to look, it is usually visible as a tiny angled protrusion.
 
-t
+Do not add filters or over-sharpen the image, as this can distort the fine detail that makes nub theory possible.
 
-### Common question
+## Where to post for a nub theory reading {#where-to-post}
 
-i
+You have a few options in the UK:
 
-### Common question
+**Nub Hub** — you can submit your scan directly on this site for a community or AI-assisted reading. This keeps things straightforward and in one place.
 
-n
+**Facebook groups** — there are several active groups dedicated to nub theory readings. Search for "nub theory" and filter to groups. These are run by enthusiastic volunteers, and the quality of readings varies. Larger groups with more members tend to attract more experienced readers.
 
-### Common question
+**Reddit** — the r/NubTheory and r/pregnant communities both accept scan reading requests. Posts tend to get a range of opinions rather than a single verdict, which can be helpful.
 
-g
+**BabyCentre and Mumsnet forums** — both have active pregnancy communities where scan reading threads appear regularly.
 
-### Common question
+Wherever you post, be aware that you are sharing a medical image publicly or semi-publicly. Most platforms allow you to post without your name attached, but it is worth considering your privacy preferences.
 
- 
+## What to include in your post {#what-to-include}
 
-### Common question
+To get a useful reading, include the following in your post:
 
-y
+- **Gestational age** at the time of the scan (e.g. "11+3" or "12 weeks exactly") — this matters because the nub position changes with gestation
+- **Type of scan** — NHS dating scan or private scan
+- **Any guess you have already seen** — if a sonographer commented on the nub, mention it so readers can compare
+- A clear, well-lit photo of the **sagittal (side-on) view**
 
-### Common question
+You do not need to share your name, due date, or any other personal information.
 
-o
+## How to interpret what you're told {#how-to-interpret}
 
-### Common question
+Nub theory is not a medical test. Even experienced readers are working from a theory that has limited formal evidence behind it — most community-level accuracy estimates are based on anecdotal tracking rather than controlled studies. Treat any prediction as a bit of fun, not a reliable result.
 
-u
+A reading that says "boy" or "girl" is a guess. A reading that says "too early to tell," "can't see the nub," or "ambiguous" is an honest one and should be taken as such.
 
-### Common question
+The only reliable way to confirm your baby's sex before birth is via a non-invasive prenatal test (NIPT) blood test, amniocentesis, or waiting until the 20-week anatomy scan (where the sonographer may be able to tell you).
 
-r
+## Frequently Asked Questions {#faq}
 
-### Common question
+### What angle does the scan need to be to read the nub?
 
- 
+The scan must show a sagittal (side-profile) view of the baby, with the spine running horizontally. A front-on or angled view does not allow the nub to be read accurately.
 
-### Common question
+### How accurate is nub theory from online community readings?
 
-s
+Community-sourced nub theory readings are not scientifically validated. Anecdotal tracking suggests accuracy can be reasonable when the nub is clearly visible and the scan is taken at 12 weeks or later, but results vary widely. Do not rely on it for certainty.
 
-### Common question
+### Can I get a nub theory reading if my scan was at 10 weeks?
 
-c
-
-### Common question
-
-a
-
-### Common question
-
-n
-
-### Common question
-
- 
-
-### Common question
-
-f
-
-### Common question
-
-o
-
-### Common question
-
-r
-
-### Common question
-
- 
-
-### Common question
-
-n
-
-### Common question
-
-u
-
-### Common question
-
-b
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
-o
-
-### Common question
-
-r
-
-### Common question
-
-y
-
-### Common question
-
- 
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-a
-
-### Common question
-
-d
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-g
-
-### Common question
-
-?
-
-### Common question
-
- 
-
-### Common question
-
-H
-
-### Common question
-
-e
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-'
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-h
-
-### Common question
-
-o
-
-### Common question
-
-w
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-o
-
-### Common question
-
- 
-
-### Common question
-
-g
-
-### Common question
-
-e
-
-### Common question
-
-t
-
-### Common question
-
- 
-
-### Common question
-
-t
-
-### Common question
-
-h
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-b
-
-### Common question
-
-e
-
-### Common question
-
-s
-
-### Common question
-
-t
-
-### Common question
-
- 
-
-### Common question
-
-r
-
-### Common question
-
-e
-
-### Common question
-
-s
-
-### Common question
-
-u
-
-### Common question
-
-l
-
-### Common question
-
-t
-
-### Common question
-
-s
-
-### Common question
-
- 
-
-### Common question
-
-f
-
-### Common question
-
-r
-
-### Common question
-
-o
-
-### Common question
-
-m
-
-### Common question
-
- 
-
-### Common question
-
-o
-
-### Common question
-
-n
-
-### Common question
-
-l
-
-### Common question
-
-i
-
-### Common question
-
-n
-
-### Common question
-
-e
-
-### Common question
-
- 
-
-### Common question
-
-c
-
-### Common question
-
-o
-
-### Common question
-
-m
-
-### Common question
-
-m
-
-### Common question
-
-u
-
-### Common question
-
-n
-
-### Common question
-
-i
-
-### Common question
-
-t
-
-### Common question
-
-i
-
-### Common question
-
-e
-
-### Common question
-
-s
-
-### Common question
-
-.
-
-
+Nub theory is generally considered unreliable before 11 weeks, because the nub has not differentiated enough to show a meaningful angle. Most readers will say it is too early if your scan was before 11 weeks.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
-- [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
+- [Nub Theory Explained](/nub-theory/nub-theory-explained)
+- [Nub Theory Accuracy](/nub-theory/nub-theory-accuracy)
+- [No Nub Visible on Scan](/nub-theory/nub-theory-no-nub-visible)

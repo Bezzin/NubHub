@@ -15,43 +15,71 @@ breadcrumb_schema: true
 
 # Dating Scan Complete Guide
 
-Pregnancy brings countless questions, and understanding what each scan and sign means can help you feel more prepared. This guide breaks down the essentials in plain language so you know what to expect and what to ask your care team.
-
-## Table of Contents
-
-1. [What the Dating Scan Is For](#what-its-for)
-2. [How to Prepare and What Happens](#prepare-and-happen)
-3. [FAQ](#faq)
+The dating scan is one of the biggest milestones of early pregnancy. For many parents, it is the first time they see their baby on screen — and the moment they finally receive an estimated due date. If you are approaching your first NHS scan and wondering what to expect, this guide walks you through everything from timing and preparation to what the sonographer actually measures.
 
 ## What the Dating Scan Is For {#what-its-for}
 
-The dating scan is your first routine NHS ultrasound, usually offered between 10 and 14 weeks, with most happening around 12 weeks. Its main purpose is to estimate your due date by measuring the baby, confirm the heartbeat, and check that the pregnancy is developing as expected. It may also be combined with screening tests.
+The dating scan is your first routine NHS ultrasound, usually offered between 10 and 14 weeks, with most happening around 12 weeks. Its main purposes are:
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+- **Estimating your due date** by measuring the baby from crown to rump (CRL). This measurement is more accurate than calculating from your last period, especially if your cycles are irregular.
+- **Confirming a heartbeat** and that the pregnancy is developing inside the uterus.
+- **Checking for a multiple pregnancy** — twins or triplets may be identified at this stage.
+- **Offering combined screening** for chromosomal conditions such as Down's syndrome, if you choose. This involves measuring the fluid at the back of the baby's neck (nuchal translucency) alongside a blood test.
+
+The scan does not check for all conditions, and a normal result does not guarantee there are no problems — but it gives your midwife an essential baseline for the rest of your care.
 
 ## How to Prepare and What Happens {#prepare-and-happen}
 
-You may be asked to attend with a full bladder to lift the uterus for a clearer abdominal scan. The sonographer will apply gel and move a probe across your tummy, measuring the baby and checking the heartbeat. The appointment typically takes 15 to 20 minutes. You can usually bring your partner, and you may be offered a photo to take home.
+**Before you go:** You may be asked to arrive with a full bladder. A full bladder lifts the uterus slightly, which improves the image when using an abdominal probe. Your appointment letter or clinic should tell you how much water to drink and when. If you are very uncomfortable on arrival, let the receptionist know — most clinics will allow you to release a small amount.
 
-Understanding these basics helps you approach each appointment with realistic expectations and clearer questions for your sonographer or midwife.
+**At the appointment:** The sonographer will ask you to lie on a couch and expose your lower tummy. Warm gel is applied and a probe is moved gently across your skin. The whole appointment usually takes around 15 to 20 minutes, though it can run longer if the sonographer needs to check measurements from different angles, or if the baby is in an awkward position.
 
-## FAQ {#faq}
+**If the image is unclear:** In some cases, particularly at the earlier end of the timing window, the sonographer may ask to perform a transvaginal scan instead. A thin probe is inserted gently into the vagina, which gives a clearer view when the baby is still very small. You can decline this and return at a later date if you prefer.
+
+**Bringing someone with you:** You are usually welcome to bring your partner or a support person. Some clinics limit this to one person, so it is worth checking in advance.
+
+**What you receive:** Most NHS trusts provide a scan photo to take home, sometimes included in the appointment fee and sometimes at a small additional cost. You will also receive your updated estimated due date and, if applicable, the results of any combined screening offered.
+
+## What Does the Sonographer Check?
+
+Beyond the headline measurements, the sonographer will look at:
+
+- The gestational sac and its position inside the uterus
+- The fetal heartbeat
+- The number of babies (and, if twins, whether they share a placenta)
+- The location of the placenta (low-lying placentas are monitored later in pregnancy)
+- The amount of amniotic fluid visible
+- The nuchal translucency measurement, if combined screening is being performed
+
+A full report is added to your maternity notes, which your midwife will use throughout your pregnancy.
+
+## What the Dating Scan Cannot Tell You
+
+It is worth managing expectations. The dating scan **cannot** reliably tell you your baby's sex — the anatomy scan at around 20 weeks is the standard point for that. Some parents try nub theory readings from dating scan images, but these are unofficial and not reliable.
+
+The scan also cannot rule out every possible condition. It is a routine check, not a comprehensive diagnostic tool.
+
+## Frequently Asked Questions
 
 ### Is the dating scan free on the NHS?
 
-Yes, it is part of routine maternity care in the UK.
+Yes. The dating scan is part of routine antenatal care in the UK and is offered to all pregnant women free of charge. If you have a private scan at the same stage, you will pay for it directly.
 
 ### Can I find out the sex at the dating scan?
 
-Sex is not routinely confirmed this early. Some try nub theory readings, but these are not reliable.
+Sex is not routinely determined at the dating scan. The genitals are not clearly visible at this stage, and it is not part of what the sonographer is checking. Some private clinics claim to offer gender predictions from nub theory from around 12 weeks, but accuracy is not guaranteed.
 
-### Do I need a full bladder?
+### What if the scan shows a different due date from my last period?
 
-Often yes for an abdominal scan, as it improves the image. Your clinic will advise you.
+This is common. The scan measurement is generally considered more accurate, and your due date will be updated accordingly. This is completely normal and does not indicate a problem.
+
+### Do I have to have the nuchal translucency screening?
+
+No. Combined screening for chromosomal conditions is optional. You can choose to have it, decline entirely, or decide after discussing it with your midwife. There is no pressure either way.
 
 ---
 
-*This article is for informational purposes only and does not constitute medical advice.*
+*Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*
 
 **Related articles:**
 - [When Is Dating Scan Uk](/scans-tests/when-is-dating-scan-uk)
