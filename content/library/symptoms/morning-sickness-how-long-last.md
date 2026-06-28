@@ -59,6 +59,10 @@ A minority of women still have nausea at 16 weeks. It often continues to ease af
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
 - [When Does Morning Sickness Start](/symptoms/morning-sickness-when-start)
 - [When Does Morning Sickness End](/symptoms/morning-sickness-when-end)

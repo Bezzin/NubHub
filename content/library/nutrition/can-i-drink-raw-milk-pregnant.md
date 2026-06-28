@@ -67,5 +67,4 @@ Boiling raw milk at home does kill most bacteria and is safer than drinking it c
 *This article is for informational purposes only and does not constitute medical advice. Always consult your midwife, GP, or a registered dietitian for personalised guidance during pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

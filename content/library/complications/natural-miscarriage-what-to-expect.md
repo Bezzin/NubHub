@@ -49,6 +49,11 @@ Most clinicians advise waiting until you have had one period so dating is easier
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [Missed Miscarriage Complete Guide](/complications/missed-miscarriage-complete-guide)
 - [Signs Of Miscarriage Guide](/complications/signs-of-miscarriage-guide)

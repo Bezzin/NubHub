@@ -103,6 +103,10 @@ A slow heart rate (below 90-100 bpm) at 7 weeks can be concerning, but it's not 
 
 Possibly. Some clinics try abdominal first at 7 weeks, but many still use transvaginal for the clearest image. The sonographer will decide based on what they can see.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

@@ -56,6 +56,10 @@ Yes. You can decline NIPT and diagnostic tests and continue with routine antenat
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:**
 - [Low Risk Screening Result](/scans-tests/low-risk-screening-result)
 - [Down Syndrome Screening Explained](/scans-tests/down-syndrome-screening-explained)

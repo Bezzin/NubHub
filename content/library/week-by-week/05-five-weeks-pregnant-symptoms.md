@@ -96,4 +96,3 @@ Speak to your midwife or GP with any questions — the booking appointment is a 
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

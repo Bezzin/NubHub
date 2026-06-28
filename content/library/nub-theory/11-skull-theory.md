@@ -108,4 +108,4 @@ The most accurate non-invasive method is NIPT (99%+ from 10 weeks). Nub theory a
 - [Nub Theory vs Ramzi Theory](/nub-theory/nub-theory-vs-ramzi)
 - [Nub Theory vs NIPT](/nub-theory/nub-theory-vs-nipt)
 - [How Accurate Is Nub Theory?](/nub-theory/nub-theory-accuracy)
-- [Old Wives' Tales Gender Prediction](/nub-theory/old-wives-tales-gender)
+- [Old Wives' Tales Gender Prediction](/nub-theory/old-wives-tales-gender-complete-list)

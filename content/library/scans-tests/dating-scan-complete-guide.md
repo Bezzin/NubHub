@@ -77,6 +77,10 @@ This is common. The scan measurement is generally considered more accurate, and 
 
 No. Combined screening for chromosomal conditions is optional. You can choose to have it, decline entirely, or decide after discussing it with your midwife. There is no pressure either way.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*

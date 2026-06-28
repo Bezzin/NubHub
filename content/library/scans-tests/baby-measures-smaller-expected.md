@@ -65,6 +65,10 @@ It depends on how significant the difference is. If your baby is only marginally
 
 At 12 weeks, a small measurement most often reflects a later conception date than originally estimated rather than a problem with your baby's development. The 12-week scan is partly designed to establish accurate dates. If the sonographer measures your baby and adjusts your due date by a week or two, that is a normal and common outcome. If there is a more significant concern, they will discuss it with you at the appointment.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *If you have worries about your scan results, speak to your midwife or GP — they can explain what the measurements mean for your individual pregnancy.*

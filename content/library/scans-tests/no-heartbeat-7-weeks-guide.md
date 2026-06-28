@@ -72,6 +72,10 @@ Not necessarily. The absence of a heartbeat at 7 weeks has several possible expl
 
 The embryonic heartbeat typically becomes detectable on a transvaginal ultrasound from around 6 to 6.5 weeks of pregnancy. On an abdominal scan, it may not be visible until 7 weeks or slightly later. If your dates are uncertain, there may be a gap between when you expect to see it and when it actually becomes visible.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about your pregnancy and scan results.*

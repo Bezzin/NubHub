@@ -96,4 +96,8 @@ No. Small, targeted changes are usually more sustainable than a complete overhau
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances, and seek prompt help if you cannot keep fluids down.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-rest-fatigue, morning-sickness-dry-crackers, morning-sickness-avoid-triggers

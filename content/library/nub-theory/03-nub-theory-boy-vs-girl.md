@@ -155,5 +155,5 @@ A nub at 15 degrees falls in the ambiguous zone (10–30 degrees). At this angle
 - [What Is Nub Theory? Complete Guide](/nub-theory/what-is-nub-theory)
 - [How Accurate Is Nub Theory?](/nub-theory/nub-theory-accuracy)
 - [Nub Theory: Boy Examples — Photo Gallery](/nub-theory/nub-theory-boy-examples)
-- [Nub Theory: Girl Examples — Photo Gallery](/nub-theory/nub-theory-girl-examples)
+- [Nub Theory: Girl Examples — Photo Gallery](/nub-theory/nub-theory-photo-gallery-girl)
 - [How to Read a Nub Theory Ultrasound](/nub-theory/how-to-read-nub-theory-ultrasound)

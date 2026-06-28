@@ -76,4 +76,3 @@ Speak to your midwife or GP for advice specific to your pregnancy.
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

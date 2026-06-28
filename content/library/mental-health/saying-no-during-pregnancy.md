@@ -54,3 +54,9 @@ Some people will take a no personally, especially those who are used to you sayi
 If you find it genuinely impossible to decline requests — even when you know you need to, even when you are exhausted — this may be worth exploring with your midwife or GP. Chronic difficulty asserting your own needs can be connected to anxiety, past experiences, or relationships that are not supportive. Perinatal mental health services are available through the NHS and can help you develop the tools to protect yourself and your pregnancy.
 
 Your midwife or GP can provide a referral if you feel that managing boundaries and your own wellbeing during pregnancy is more than you can navigate alone.
+
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+

@@ -89,6 +89,10 @@ You are not alone — plain water is a common trigger for many women with mornin
 
 Contact your GP or midwife promptly if you cannot keep any fluids down for over 12 hours, if you notice dark urine and dizziness, or if you feel very unwell. Do not wait to see if it improves on its own — dehydration in pregnancy can escalate quickly and respond well to treatment when caught early.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP, midwife, or obstetrician before trying new remedies during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*

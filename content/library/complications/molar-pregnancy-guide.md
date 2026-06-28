@@ -59,6 +59,10 @@ In a small number of cases, abnormal cells can persist or return and need furthe
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [blighted-ovum-causes-coping](/complications/blighted-ovum-causes-coping)
-- [early-pregnancy-loss-support](/mental-health/early-pregnancy-loss-support)

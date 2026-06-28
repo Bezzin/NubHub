@@ -155,5 +155,5 @@ No. Liver and liver products contain very high levels of vitamin A (retinol), wh
 **Related articles:**
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)
 - [What to Eat in the First Trimester](/nutrition/what-to-eat-first-trimester)
-- [Listeria in Pregnancy](/nutrition/listeria-pregnancy)
-- [Salmonella in Pregnancy](/nutrition/salmonella-pregnancy)
+- [Listeria in Pregnancy](/nutrition/listeria-pregnancy-symptoms-prevention)
+- [Salmonella in Pregnancy](/nutrition/salmonella-pregnancy-guide)

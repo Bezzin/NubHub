@@ -83,6 +83,10 @@ In moderation — one to two cups per day — chamomile is generally considered 
 
 Raspberry leaf tea is commonly associated with preparing the uterus for labour, but it should only be introduced from around 32 to 34 weeks of pregnancy and only after discussing it with your midwife. Before this point, it may stimulate contractions and is not considered safe. Do not start it without professional guidance.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*

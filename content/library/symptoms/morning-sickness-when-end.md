@@ -59,6 +59,10 @@ A minority of women do. It often continues to improve over the following weeks, 
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
 - [How Long Does Morning Sickness Last](/symptoms/morning-sickness-how-long-last)
 - [When Does Morning Sickness Peak](/symptoms/morning-sickness-when-peak)

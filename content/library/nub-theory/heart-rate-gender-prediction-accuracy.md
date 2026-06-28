@@ -75,5 +75,4 @@ In the UK, the anatomy scan at around 18–21 weeks is the standard NHS route fo
 *For personalised information about your baby's development, speak to your midwife or GP.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

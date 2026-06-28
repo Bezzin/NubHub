@@ -59,6 +59,10 @@ Most simple fruit teas are safe, but always check the ingredient list for added 
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [How Much Water in Pregnancy](/symptoms/how-much-water-pregnancy)
-- [Best Pregnancy Snacks Guide](/symptoms/best-pregnancy-snacks-guide)
+- [Best Pregnancy Snacks Guide](/nutrition/best-pregnancy-snacks-guide)

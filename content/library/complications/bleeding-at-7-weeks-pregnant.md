@@ -26,3 +26,9 @@ There are several straightforward things you can do to look after yourself. Stay
 Some signs always warrant prompt medical attention. Contact your midwife, GP or local maternity unit straight away if you experience heavy bleeding, severe abdominal pain, sudden swelling, visual disturbances, reduced baby movements, or a high temperature. Trust your instincts: if something does not feel right, it is always better to get checked out than to wait. Early reassessment leads to better care and greater reassurance.
 
 At Nub Hub UK we believe every parent deserves accessible, trustworthy information throughout their pregnancy journey. This article is part of our wider library covering nutrition, lifestyle and complications, designed to support you from conception to birth and beyond. Browse related guides for more on bleeding 7 weeks pregnant, and remember that your healthcare team is always your first port of call for personalised medical advice.
+
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+

@@ -162,5 +162,4 @@ No. Normal morning sickness doesn't harm your baby — they take nutrients from 
 **Related articles:**
 - [What to Eat in the First Trimester](/nutrition/what-to-eat-first-trimester)
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)
-- [Pregnancy-Safe Herbal Teas](/nutrition/pregnancy-safe-herbal-teas)
 - [Best Pregnancy Snacks](/nutrition/best-pregnancy-snacks)

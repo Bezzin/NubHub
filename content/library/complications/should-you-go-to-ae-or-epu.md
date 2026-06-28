@@ -85,3 +85,9 @@ The EPU specialises entirely in early pregnancy problems. They have ultrasound e
 A&E staff will assess you and, if appropriate, contact the on-call gynaecology or obstetrics team. In some hospitals, the gynaecology team will come to assess you; in others, you may be moved to a ward or referred for an early morning EPU scan. Going to A&E does not mean you have done the wrong thing — if you were worried enough to go, it was the right call.
 
 Always speak to your midwife or GP if you have concerns about your pregnancy, or call 111 if you are unsure where to turn.
+
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+

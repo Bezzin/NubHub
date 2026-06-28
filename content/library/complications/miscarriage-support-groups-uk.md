@@ -49,6 +49,11 @@ Yes. Support is available after a single loss, not only after recurrent miscarri
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [Recurrent Miscarriage Guide](/complications/recurrent-miscarriage-guide)
 - [Natural Miscarriage What To Expect](/complications/natural-miscarriage-what-to-expect)

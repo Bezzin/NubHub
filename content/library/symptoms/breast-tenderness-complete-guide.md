@@ -88,3 +88,8 @@ Breast tenderness is a sign of the normal hormonal changes of pregnancy, but its
 The sensation is similar for many women — early pregnancy breast tenderness often feels like a more intense version of the pre-menstrual breast soreness that many experience. This is because the hormones involved (oestrogen and progesterone) are the same ones that cause pre-menstrual symptoms. The difference in pregnancy is that the sensation tends to be stronger, last longer, and be accompanied by other visible changes to the breast.
 
 Always speak to your midwife or GP if you have concerns about any physical changes during your pregnancy.
+
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+

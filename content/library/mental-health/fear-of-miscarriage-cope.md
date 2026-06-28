@@ -61,6 +61,11 @@ No. Everyday stress, moderate exercise, lifting, and working do not cause miscar
 
 Professional support through NHS Talking Therapies, grounding techniques, limiting online searches, talking openly to your midwife, and — where available — early reassurance scans can all help reduce persistent fear. If anxiety is severe or debilitating, speak to your GP.
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about your individual pregnancy and mental health.*

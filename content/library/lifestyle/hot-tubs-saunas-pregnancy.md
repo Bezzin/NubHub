@@ -60,5 +60,5 @@ Yes, a warm bath below 38 degrees Celsius is generally safe. Keep it to 10-15 mi
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [exercise-during-pregnancy](/lifestyle/exercise-during-pregnancy)
-- [skin-changes-in-pregnancy](/lifestyle/skin-changes-in-pregnancy)
+- [exercise-during-pregnancy](/lifestyle/exercise-pregnancy)
+- [skin-changes-in-pregnancy](/symptoms/skin-changes-early-pregnancy)

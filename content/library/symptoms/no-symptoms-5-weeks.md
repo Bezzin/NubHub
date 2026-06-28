@@ -142,6 +142,10 @@ Not necessarily. Your hCG could be perfectly normal and rising as it should, but
 
 Yes! If you feel fine, enjoy it. Eat well, rest, and take care of yourself. Symptoms may arrive in the next week or two, or they may never arrive. Either way, you're pregnant and that's wonderful.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

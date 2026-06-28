@@ -56,6 +56,10 @@ Yes. As well as chromosomal conditions, amniocentesis can detect certain genetic
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:**
 - [CVS Chorionic Villus Sampling](/scans-tests/cvs-chorionic-villus-sampling)
 - [High Risk Screening Result Guide](/scans-tests/high-risk-screening-result-guide)

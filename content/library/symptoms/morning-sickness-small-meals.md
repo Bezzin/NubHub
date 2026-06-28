@@ -85,4 +85,8 @@ Yes. Keeping a plain cracker or digestive biscuit beside your bed and eating it 
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances, and seek prompt help if you cannot keep fluids down.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-dry-crackers, morning-sickness-protein-snacks, morning-sickness-plain-foods

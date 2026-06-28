@@ -102,6 +102,10 @@ Not necessarily. A missed miscarriage (where the baby has stopped developing but
 
 No. If the pregnancy is viable, it will continue regardless of what you do. If it isn't, nothing you did caused it. Miscarriage at this stage is almost always due to chromosomal problems that are nobody's fault.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

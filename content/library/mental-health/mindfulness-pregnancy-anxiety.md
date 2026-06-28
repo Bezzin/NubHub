@@ -70,6 +70,11 @@ Mindfulness is a helpful tool for managing mild to moderate anxiety, but it is n
 
 Speak to your midwife or GP if anxiety is affecting your daily life — early support makes a real difference.
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

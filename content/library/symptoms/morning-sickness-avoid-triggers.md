@@ -93,4 +93,8 @@ Not entirely — some will be unavoidable at work or at home. The goal is to red
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP or midwife before trying new remedies during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-fresh-air, morning-sickness-change-routine, morning-sickness-plain-foods

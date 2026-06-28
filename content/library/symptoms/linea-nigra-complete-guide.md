@@ -75,3 +75,8 @@ No. The old wives' tale that the line ending at the belly button indicates a gir
 No. They are different skin changes. Linea nigra is a single dark line down the centre of the abdomen caused by pigmentation. Stretch marks (striae gravidarum) are streaks or lines that appear on the abdomen, thighs, breasts, or hips when the skin stretches rapidly. Both are common and harmless.
 
 *Speak to your midwife or GP if you have any concerns about skin changes during pregnancy, or if you notice any changes that seem unusual or accompanied by other symptoms.*
+
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+

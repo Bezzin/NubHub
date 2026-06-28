@@ -76,4 +76,3 @@ Speak to your midwife if gender disappointment is affecting your mood or wellbei
 
 **Related articles:**
 - [Coping with Gender Disappointment](/nub-theory/cope-gender-disappointment)
-- [Gender Reveal Ideas](/nub-theory/gender-reveal-ideas)

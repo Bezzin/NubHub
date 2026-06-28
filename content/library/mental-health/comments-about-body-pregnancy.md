@@ -67,6 +67,11 @@ Your midwife measures your fundal height at routine appointments and will raise 
 
 Your body is doing something remarkable and demanding. It doesn't exist for commentary. You get to decide what is said about it — and to you. If comments are significantly affecting your wellbeing, speak to your midwife or GP who can connect you with the right support.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

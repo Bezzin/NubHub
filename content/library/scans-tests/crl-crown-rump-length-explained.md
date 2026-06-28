@@ -53,6 +53,10 @@ No. CRL is mainly used in the first trimester, when all babies grow at a similar
 
 For advice tailored to your scan and circumstances, speak to your midwife or sonographer.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

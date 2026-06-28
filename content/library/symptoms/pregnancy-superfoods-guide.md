@@ -59,6 +59,10 @@ Raw or undercooked eggs, unpasteurised dairy, liver and high-mercury fish should
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
-- [Best Pregnancy Snacks Guide](/symptoms/best-pregnancy-snacks-guide)
+- [Best Pregnancy Snacks Guide](/nutrition/best-pregnancy-snacks-guide)
 - [Vegetarian Pregnancy Diet Guide](/symptoms/vegetarian-pregnancy-diet-guide)

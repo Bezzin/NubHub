@@ -90,3 +90,8 @@ At 7 weeks, a transvaginal (internal) scan often gives a clearer image because t
 If no heartbeat is seen at 7 weeks, the most common next step is a repeat scan in 1–2 weeks. This is because gestational age based on the last menstrual period is not always accurate — ovulation may have been later than expected, making the pregnancy slightly earlier than it appears. A single inconclusive scan is rarely enough to draw a firm conclusion. The clinical team will advise you on what happens next and offer support.
 
 Always speak to your midwife or GP if you have concerns after a scan — they can help you understand what the results mean for your individual situation.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

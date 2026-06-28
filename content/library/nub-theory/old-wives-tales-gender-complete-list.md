@@ -77,5 +77,4 @@ Yes — these tests are harmless. Baking soda and red cabbage are everyday food 
 *Always speak to your midwife or GP for personal advice about your pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

@@ -81,6 +81,10 @@ Paracetamol is generally considered safe in pregnancy and can be taken at the re
 
 Cramping alone, without bleeding, is rarely a sign of miscarriage. Many women cramp intermittently throughout the first trimester and go on to have straightforward pregnancies. If you are concerned, your early pregnancy unit can arrange an early scan for reassurance.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

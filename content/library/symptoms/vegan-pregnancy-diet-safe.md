@@ -59,6 +59,10 @@ There is no need to abandon a vegan diet if it is well planned, but some women c
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Vegetarian Pregnancy Diet Guide](/symptoms/vegetarian-pregnancy-diet-guide)
 - [Pregnancy Superfoods Guide](/symptoms/pregnancy-superfoods-guide)

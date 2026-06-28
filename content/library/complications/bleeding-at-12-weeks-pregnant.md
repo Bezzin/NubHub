@@ -73,10 +73,14 @@ A small amount of pink spotting or brown discharge after a transvaginal scan is 
 
 For mild or moderate bleeding without severe pain, the EPU is usually the most appropriate place to be seen. For heavy bleeding, severe pain, dizziness, or feeling very unwell, call 999 or go to A&E without delay.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

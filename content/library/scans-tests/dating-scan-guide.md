@@ -92,6 +92,10 @@ NHS sonographers don't assess gender at the dating scan. At 12 weeks, external g
 
 If your baby is lying in a position that makes measurement difficult, the sonographer may ask you to roll onto your side, cough, or walk around for a few minutes. Sometimes they'll ask you to come back later or on another day.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

@@ -69,10 +69,14 @@ Folic acid (400 micrograms daily) and vitamin D (10 micrograms daily) are the tw
 
 Speak to your midwife or GP for personal advice on looking after yourself during pregnancy.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

@@ -3,8 +3,8 @@ title: "12-Week Scan: Complete Guide to Your Dating Scan | Nub Hub"
 description: "Everything you need to know about your 12-week scan: what happens, how long it takes, what they check, and how to prepare. Plus nub theory tips!"
 slug: "/scans-tests/12-week-scan-guide"
 category: "scans-tests"
-tags: ['12-week-scan:-complete-guide-to-your-dating-scan', 'scans tests', 'pregnancy']
-keywords: ['12-week-scan:-complete-guide-to-your-dating-scan', 'Everything you need to know about your 12-week scan: what ha']
+tags: ["12 week scan", "dating scan", "pregnancy scans", "nub theory"]
+keywords: ["12 week scan", "dating scan", "what to expect at 12 week scan", "nub theory scan tips"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -67,6 +67,10 @@ Most NHS hospitals offer scan photos, sometimes for a small fee (usually £2-5).
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*
 
 *Last reviewed: June 2026*
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
 
 **Related articles:**
 - [Nub Theory at 12 Weeks](/nub-theory/nub-theory-12-weeks)

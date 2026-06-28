@@ -61,6 +61,10 @@ Most women notice symptoms between 6 and 8 weeks. Nausea, fatigue, and breast te
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [No Symptoms at 7 Weeks](/symptoms/no-symptoms-7-weeks-guide)
 - [Pregnancy Symptoms: Complete Guide](/symptoms/pregnancy-symptoms-complete-guide)

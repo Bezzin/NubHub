@@ -55,6 +55,11 @@ Yes. It can start at any point in pregnancy, and the first trimester is a common
 
 You may be referred to a perinatal mental health team for specialist support during pregnancy and after birth. The level of support offered depends on how you are feeling and what your care team thinks you need.
 
+
+**Further reading:**
+- [NHS — Depression](https://www.nhs.uk/mental-health/conditions/depression/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about your mental health during pregnancy.*

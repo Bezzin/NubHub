@@ -47,10 +47,14 @@ Consider it if the same arguments keep repeating, if you feel stuck or disconnec
 
 If relationship stress is affecting your wellbeing, speak to your midwife or GP for advice tailored to your situation.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

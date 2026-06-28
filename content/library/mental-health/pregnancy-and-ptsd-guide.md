@@ -109,3 +109,9 @@ Yes. You have the right to ask for trauma-informed care, and your midwifery team
 Fear of childbirth related to past trauma is recognised and taken seriously by NHS maternity services. This is sometimes called tokophobia (secondary tokophobia if it follows a traumatic birth). Raise it with your midwife as early as possible so that you have enough time to access additional support, put a detailed birth plan in place, and explore your options — including whether a different mode of delivery might be appropriate for you.
 
 Always speak to your midwife or GP for personal advice about managing PTSD during your pregnancy — they can connect you with the right support for your individual circumstances.
+
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+

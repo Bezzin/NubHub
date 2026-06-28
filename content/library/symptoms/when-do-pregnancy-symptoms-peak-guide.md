@@ -73,10 +73,13 @@ Many women do feel significantly better after week 12. The end of the first trim
 
 Yes. Some women experience very few or very mild symptoms throughout the first trimester and go on to have entirely healthy pregnancies. Absence of symptoms is not in itself a sign that something is wrong. If you are concerned, speak to your midwife — they can offer reassurance and, if appropriate, arrange an early scan.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *Always speak to your midwife or GP for personalised advice about your pregnancy symptoms.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

@@ -56,6 +56,10 @@ Yes, privately. Some women choose NIPT for additional reassurance even with a lo
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:**
 - [High Risk Screening Result Guide](/scans-tests/high-risk-screening-result-guide)
 - [Combined Screening Test Guide](/scans-tests/combined-screening-test-guide)

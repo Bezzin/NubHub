@@ -59,6 +59,10 @@ Occasionally is fine, but check labels for salt and added sugars. Home-cooked me
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Vegan Pregnancy Diet Is It Safe](/symptoms/vegan-pregnancy-diet-safe)
 - [Pregnancy Superfoods Guide](/symptoms/pregnancy-superfoods-guide)

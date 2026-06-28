@@ -100,4 +100,3 @@ If the disappointment turns into persistent low mood, anxiety, difficulty eating
 
 **Related articles:**
 - [Gender Disappointment Is Real](/nub-theory/gender-disappointment-real)
-- [Pregnancy Mental Health](/nub-theory/pregnancy-mental-health)

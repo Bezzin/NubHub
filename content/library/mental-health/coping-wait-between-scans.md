@@ -59,6 +59,11 @@ Your midwife may arrange an extra check if there is a clinical reason. If anxiet
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [two-week-wait-anxiety](/mental-health/two-week-wait-anxiety)
 - [pregnancy-forums-helpful-harmful](/mental-health/pregnancy-forums-helpful-harmful)

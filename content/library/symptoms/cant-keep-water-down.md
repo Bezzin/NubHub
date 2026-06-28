@@ -225,6 +225,10 @@ Yes. There are dissolvable tablets, suppositories, and IV options. If you can't 
 
 With proper treatment, most babies are fine. The danger is untreated dehydration, which can affect amniotic fluid and nutrition. Getting treatment protects both you and your baby. Don't delay seeking help.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

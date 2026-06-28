@@ -3,6 +3,11 @@ import { SITE_URL } from '@/lib/site';
 import { allPosts } from '@/content';
 import { getIndexableLibraryPages } from '@/content/library/loader';
 
+const PILLAR_HUBS = [
+  'week-by-week', 'symptoms', 'scans-tests', 'nutrition',
+  'mental-health', 'complications', 'lifestyle', 'relationships', 'baby-prep',
+];
+
 /**
  * Dynamic sitemap. Core static routes + every registered content page, so new
  * posts appear automatically. Private surfaces (/admin, /api, /result) are
@@ -35,5 +40,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticEntries, ...postEntries, ...libraryEntries];
+  const hubEntries: MetadataRoute.Sitemap = PILLAR_HUBS.map((slug) => ({
+    url: `${SITE_URL}/${slug}`,
+    lastModified,
+    changeFrequency: 'weekly',
+    priority: 0.7,
+  }));
+
+  return [...staticEntries, ...postEntries, ...libraryEntries, ...hubEntries];
 }

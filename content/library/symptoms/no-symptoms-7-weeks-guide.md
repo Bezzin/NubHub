@@ -62,6 +62,10 @@ Yes. Some women find their symptoms start later than expected — appearing at 8
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [No Symptoms at 5 Weeks](/symptoms/no-symptoms-5-weeks-guide)
 - [Pregnancy Symptoms: Complete Guide](/symptoms/pregnancy-symptoms-complete-guide)

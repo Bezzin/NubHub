@@ -76,7 +76,7 @@ If you're dairy-free, you can absolutely get enough calcium. Focus on:
 - **Fortified cereals and bread**: UK white flour is fortified with calcium by law.
 - **Sardines and pilchards** (with bones): Mash the soft bones for a calcium boost.
 
-See our full [dairy-free pregnancy diet guide](/nutrition/dairy-free-pregnancy-diet) for more tips.
+See our full [dairy-free pregnancy diet guide](/nutrition/dairy-free-pregnancy-diet-guide) for more tips.
 
 ## How to Boost Calcium Absorption {#boost}
 
@@ -132,7 +132,7 @@ Not necessarily. If you eat plenty of fortified plant milks, tofu, leafy greens,
 *Last reviewed: June 2026*
 
 **Related articles:**
-- [Dairy-Free Pregnancy Diet](/nutrition/dairy-free-pregnancy-diet)
+- [Dairy-Free Pregnancy Diet](/nutrition/dairy-free-pregnancy-diet-guide)
 - [Iron-Rich Foods for Pregnancy](/nutrition/iron-rich-foods-pregnancy)
 - [Foods High in Folic Acid](/nutrition/foods-high-folic-acid)
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)

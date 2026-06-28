@@ -59,6 +59,11 @@ If anxiety is affecting your sleep, mood, or daily life, or if you cannot stop w
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [pregnancy-forums-helpful-harmful](/mental-health/pregnancy-forums-helpful-harmful)
 - [two-week-wait-anxiety](/mental-health/two-week-wait-anxiety)

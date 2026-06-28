@@ -164,6 +164,10 @@ Often, yes. Multiple pregnancies produce more hCG, which can lead to earlier and
 
 Not necessarily. Every pregnancy is different. You may have more, fewer, or different symptoms in subsequent pregnancies.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

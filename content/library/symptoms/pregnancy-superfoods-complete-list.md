@@ -77,10 +77,13 @@ Certain nutrients play a well-established role in brain development. DHA (found 
 
 Not necessarily. If you are already eating a reasonably balanced diet, focusing on the foods above a few times a week — rather than trying to eat all of them every day — is enough for most people. Your prenatal vitamin covers some of the gaps. If you have specific concerns about your diet, your midwife or GP can refer you to a registered dietitian.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *Always speak to your midwife or GP for personalised advice about your diet during pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

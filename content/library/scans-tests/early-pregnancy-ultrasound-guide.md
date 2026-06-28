@@ -80,6 +80,10 @@ For a straightforward pregnancy with no previous complications, an early scan is
 
 For a transvaginal scan, a full bladder is not required. For an abdominal scan, being comfortably full rather than bursting usually gives the best image. Your clinic will advise you when you book.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*

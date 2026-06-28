@@ -86,6 +86,10 @@ Everyday mood swings don't harm your baby. Persistent severe low mood or anxiety
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Crying for No Reason in Pregnancy](/symptoms/crying-no-reason-pregnancy)
 - [Anxiety in Early Pregnancy](/symptoms/anxiety-early-pregnancy-manage)

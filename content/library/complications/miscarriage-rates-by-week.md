@@ -49,6 +49,11 @@ Yes. Women under 35 have lower risk, while those over 35, and especially over 40
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [What Causes Miscarriage First Trimester](/complications/what-causes-miscarriage-first-trimester)
 - [Signs Of Miscarriage Guide](/complications/signs-of-miscarriage-guide)

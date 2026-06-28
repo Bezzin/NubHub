@@ -178,6 +178,10 @@ Worry if all symptoms completely disappear (not just reduce) and don't return fo
 
 Stress can amplify how you perceive symptoms, making you feel worse. It doesn't usually cause symptoms to disappear, but it can make fluctuation harder to handle. Practising relaxation techniques can help.
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

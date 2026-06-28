@@ -80,6 +80,11 @@ Prepare a question or two to ask at the appointment, bring a person you trust, p
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [Pregnancy After Loss Week by Week Coping](/mental-health/pregnancy-after-loss-week-by-week)
 - [Fear of Miscarriage How to Cope](/mental-health/fear-of-miscarriage-cope)

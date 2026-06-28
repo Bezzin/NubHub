@@ -76,5 +76,5 @@ If you enjoy it as a bit of fun, there is no harm in it — as long as you treat
 *This article is for informational purposes only and does not constitute medical advice. Speak to your midwife or GP if you have questions about your scan findings.*
 
 **Related articles:**
-- [Nub Theory Explained](/nub-theory/nub-theory-explained)
+- [Nub Theory Explained](/nub-theory/what-is-nub-theory)
 - [Ramzi Theory Explained](/nub-theory/ramzi-theory-explained)

@@ -153,4 +153,4 @@ No. Only take iron supplements if your levels are low. Too much iron can cause c
 - [Foods High in Folic Acid](/nutrition/foods-high-folic-acid)
 - [Calcium-Rich Foods for Pregnancy](/nutrition/calcium-rich-foods-pregnancy)
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)
-- [Vegetarian Pregnancy Diet](/nutrition/vegetarian-pregnancy-diet)
+- [Vegetarian Pregnancy Diet](/nutrition/vegetarian-pregnancy-diet-complete-guide)

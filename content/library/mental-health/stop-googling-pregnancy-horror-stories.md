@@ -75,6 +75,11 @@ Forums can offer genuine community and comfort, but they can also contain unveri
 
 Write the symptom down and note it to ask your midwife at your next appointment. If you have a symptom that genuinely needs same-day advice — heavy bleeding, severe pain, high fever — call your maternity unit, call 111, or go to A&E. For everything else, waiting and noting is safer than searching.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *If anxiety is significantly affecting your wellbeing, please speak to your midwife or GP — they can help.*

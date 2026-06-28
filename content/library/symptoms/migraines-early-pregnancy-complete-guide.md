@@ -86,3 +86,8 @@ For many women, migraines are more frequent or intense in the first trimester du
 Migraines themselves are not known to harm the baby. However, if migraines are causing significant nausea or vomiting and making it difficult to eat, drink, or take your pregnancy vitamins, speak to your midwife or GP so they can offer additional support. A very severe headache with other symptoms (such as visual changes or swelling) should always be assessed promptly to rule out conditions such as pre-eclampsia.
 
 Speak to your midwife or GP for personalised advice about managing migraines safely during your pregnancy.
+
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+

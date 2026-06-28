@@ -66,5 +66,4 @@ NIPT blood testing (available privately from around 10 weeks) is the most accura
 *Always speak to your midwife or GP for personal advice about your pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

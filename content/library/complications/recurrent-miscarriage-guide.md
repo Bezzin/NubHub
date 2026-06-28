@@ -49,6 +49,11 @@ Even after three losses, the chance of a successful next pregnancy is around 50 
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [Miscarriage Support Groups Uk](/complications/miscarriage-support-groups-uk)
 - [What Causes Miscarriage First Trimester](/complications/what-causes-miscarriage-first-trimester)

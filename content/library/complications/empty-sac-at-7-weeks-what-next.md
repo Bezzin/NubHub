@@ -57,6 +57,11 @@ There is no single best option. Each has different timelines and experiences, an
 
 *This article is for informational purposes only and does not constitute medical advice. Always contact your midwife, GP, or maternity unit if you experience bleeding or pain in pregnancy. In an emergency, call 999.*
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 
   - empty-sac-at-6-weeks-what-next.md

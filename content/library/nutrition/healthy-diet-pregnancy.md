@@ -152,4 +152,3 @@ If you eat a varied diet, you may only need folic acid and vitamin D. If your di
 - [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
 - [What to Eat in the First Trimester](/nutrition/what-to-eat-first-trimester)
 - [Best Foods for Morning Sickness](/nutrition/best-foods-morning-sickness)
-- [Pregnancy Superfoods](/nutrition/pregnancy-superfoods)

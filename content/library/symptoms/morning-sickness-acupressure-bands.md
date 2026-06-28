@@ -71,6 +71,10 @@ Yes, they are safe for continuous wear. Take them off if the skin becomes sore o
 
 They tend to help mild to moderate nausea more than severe vomiting. If you cannot keep fluids down, contact your GP or midwife promptly — this can lead to dehydration and may need treatment.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP, midwife or obstetrician before trying new remedies during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*

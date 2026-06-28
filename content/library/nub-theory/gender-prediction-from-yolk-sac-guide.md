@@ -75,5 +75,4 @@ At very early scans (before six weeks), the yolk sac may not be clearly visible.
 *Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

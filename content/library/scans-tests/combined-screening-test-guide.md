@@ -56,6 +56,10 @@ Yes. Both the blood test and the ultrasound scan are completely non-invasive and
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:**
 - [First Trimester Screening Complete](/scans-tests/first-trimester-screening-complete)
 - [Down Syndrome Screening Explained](/scans-tests/down-syndrome-screening-explained)

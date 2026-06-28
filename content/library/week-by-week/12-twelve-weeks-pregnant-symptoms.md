@@ -84,4 +84,3 @@ Mild cramping or stretching sensations can be normal as your uterus continues to
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

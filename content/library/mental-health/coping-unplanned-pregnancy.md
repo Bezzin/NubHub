@@ -65,6 +65,11 @@ This depends on which option you are considering. For abortion, earlier is gener
 
 NHS antenatal care is available regardless of your circumstances. Financial support may include Sure Start Maternity Grant, Child Benefit, and Universal Credit depending on your situation. Local children's centres and organisations such as Home-Start offer practical and emotional support during the early parenting period.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Speak to your midwife or GP if you need personal guidance — they are there to support you without judgement.*

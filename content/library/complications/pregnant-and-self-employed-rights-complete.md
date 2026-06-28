@@ -96,6 +96,11 @@ Yes — you can continue to work throughout your pregnancy as long as you feel w
 
 If you do not meet the eligibility criteria for the standard Maternity Allowance rate, you may still qualify for a lower rate (currently £27 per week for up to 14 weeks). If you receive Universal Credit or other means-tested benefits, these may increase during your pregnancy and the postnatal period. Contact Citizens Advice or your local Jobcentre for a benefits check — it is free and ensures you are not missing support you are entitled to.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife, GP, or a qualified benefits adviser for personalised advice about your entitlements.*

@@ -129,6 +129,10 @@ It means the sonographer didn't see anything concerning at this scan. It doesn't
 
 Not usually. A difference of up to 5-7 days is normal and may result in your due date being adjusted. Larger differences may need a repeat scan, but the most common reason is simply a dating error.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

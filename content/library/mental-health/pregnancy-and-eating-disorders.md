@@ -69,6 +69,11 @@ With proper medical support and monitoring, many people with eating disorder his
 
 Your medical information is confidential within your healthcare team. Disclosing to your midwife does not mean it will be shared beyond your care team without your consent, except in circumstances where there is a serious concern about safety. Most of the time, telling your midwife simply helps them tailor your care.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Please speak to your midwife or GP if you are struggling — they can connect you with specialist perinatal mental health support.*

@@ -79,6 +79,11 @@ Any bleeding at 11 weeks should be assessed promptly. Contact your GP, midwife, 
 
 For light to moderate bleeding without severe pain, contact your GP, midwife, or EPU for urgent assessment — this is the appropriate pathway for most cases. For heavy bleeding, severe pain, or if you feel very unwell or faint, go to A&E or call 999 immediately. If you are unsure, call 111 at any time of day and they will advise you on the right place to go.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about any bleeding in pregnancy.*
@@ -86,5 +91,4 @@ For light to moderate bleeding without severe pain, contact your GP, midwife, or
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

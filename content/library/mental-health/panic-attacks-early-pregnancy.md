@@ -77,6 +77,11 @@ Yes, particularly in people with a history of anxiety, panic disorder, or previo
 
 If you have chest pain that does not settle, fainting, heavy bleeding, or any symptom that feels different from your usual panic attacks, contact 111 or attend A&E to rule out other causes. It is always better to be checked when in doubt. Once physical causes have been ruled out, your GP or midwife can support you with the anxiety side.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *If you are struggling with panic attacks or anxiety in pregnancy, please speak to your midwife or GP — effective support is available and you do not need to manage this alone.*

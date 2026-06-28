@@ -56,6 +56,10 @@ Yes. A private early scan is for reassurance only and doesn't replace NHS care. 
 
 If anything about your pregnancy worries you, speak to your midwife or GP for personal advice.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

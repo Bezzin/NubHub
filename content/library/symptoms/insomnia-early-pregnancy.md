@@ -89,6 +89,10 @@ Occasional poor sleep doesn't harm your baby. Chronic severe insomnia can affect
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Vivid Dreams in Pregnancy](/symptoms/vivid-dreams-pregnancy-guide)
 - [Anxiety in Early Pregnancy](/symptoms/anxiety-early-pregnancy-manage)

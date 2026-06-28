@@ -3,8 +3,8 @@ title: "What to Do When You Find Out You're Pregnant: Step-by-Step | Nub Hub"
 description: "Just found out you're pregnant? Here's your step-by-step guide on what to do next, from booking your midwife appointment to starting folic acid."
 slug: "/scans-tests/what-to-do-when-you-find-out-pregnant"
 category: "scans-tests"
-tags: ["what-to-do-when-you-find-out-you're-pregnant:-step-by-step", 'scans tests', 'pregnancy']
-keywords: ["what-to-do-when-you-find-out-you're-pregnant:-step-by-step", "Just found out you're pregnant? Here's your step-by-step gui"]
+tags: ["early pregnancy", "first steps pregnant", "pregnancy checklist"]
+keywords: ["what to do when pregnant", "first steps in pregnancy", "early pregnancy checklist"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -78,8 +78,12 @@ Count from the first day of your last menstrual period. If your periods are irre
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:**
-- [Pregnancy Vitamins](/nutrition/pregnancy-vitamins-supplements)
+- [Pregnancy Vitamins](/nutrition/best-pregnancy-vitamins-uk-2025)
 - [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
 - [Your Booking Appointment](/scans-tests/booking-appointment-guide)
 - [Pregnancy Rights at Work](/lifestyle/pregnancy-rights-work-uk)

@@ -139,6 +139,10 @@ If you previously had symptoms (sore breasts, nausea, fatigue) and they've sudde
 
 Contact your GP as soon as you know you're pregnant. They'll refer you to a midwife for your booking appointment, which typically happens between 8 and 12 weeks. The sooner you're in the system, the better your care.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

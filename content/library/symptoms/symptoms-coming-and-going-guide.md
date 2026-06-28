@@ -83,6 +83,10 @@ A single day with fewer symptoms is not a cause for concern. However, if all you
 
 Not usually. Many people experience natural easing of symptoms as their pregnancy progresses, particularly from weeks 10–13, as hCG levels plateau and then slightly reduce. This is a normal part of pregnancy. Miscarriage can occur without any noticeable symptom change at all. Conversely, symptoms can ease even when a pregnancy is entirely healthy. Symptoms alone cannot tell you whether your pregnancy is progressing — only a scan can confirm that.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*

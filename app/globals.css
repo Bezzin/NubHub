@@ -1811,3 +1811,51 @@
 .site-footer__bottom { border-top: 1px solid rgba(255,255,255,0.12); padding: 1.2rem 1.4rem; text-align: center; font-size: 0.8rem; color: #a99fce; }
 @media (max-width: 720px) { .site-footer__inner { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 460px) { .site-footer__inner { grid-template-columns: 1fr; } }
+
+/* ===== Pillar hub index pages ===== */
+.pillar-hub__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.pillar-hub__card {
+  display: block;
+  background: linear-gradient(180deg, var(--clay-card) 0%, var(--clay-card-2) 100%);
+  border-radius: var(--clay-r-md);
+  box-shadow: var(--clay-shadow-sm);
+  padding: 1.3rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.pillar-hub__card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--clay-shadow);
+}
+
+.pillar-hub__card-title {
+  font-family: 'Fredoka', 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--clay-ink);
+  margin: 0 0 0.5rem;
+  line-height: 1.25;
+}
+
+.pillar-hub__card-desc {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--clay-ink-soft);
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 600px) {
+  .pillar-hub__grid { grid-template-columns: 1fr; }
+}

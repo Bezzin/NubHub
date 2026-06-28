@@ -77,7 +77,5 @@ Always speak to your midwife, GP, or perinatal mental health team for personal a
 *Last reviewed: June 2026*
 
 **Related articles:**
-- [Medicines in Pregnancy](/lifestyle/medicines-in-pregnancy)
-- [Pregnancy Vitamins](/nutrition/pregnancy-vitamins-supplements)
+- [Pregnancy Vitamins](/nutrition/best-pregnancy-vitamins-uk-2025)
 - [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

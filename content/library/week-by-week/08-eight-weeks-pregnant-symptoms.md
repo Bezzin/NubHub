@@ -86,4 +86,3 @@ Mild, period-like cramping or occasional stretching sensations are common at 8 w
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

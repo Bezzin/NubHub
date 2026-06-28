@@ -88,7 +88,7 @@ Good combinations:
 
 You don't need to combine proteins at every meal — just eat a variety of protein sources throughout the day and your body will assemble the amino acids it needs.
 
-See our full [vegetarian pregnancy diet](/nutrition/vegetarian-pregnancy-diet) and [vegan pregnancy diet](/nutrition/vegan-pregnancy-diet) guides for more.
+See our full [vegetarian pregnancy diet](/nutrition/vegetarian-pregnancy-diet-complete-guide) and [vegan pregnancy diet](/nutrition/vegan-pregnancy-diet-complete-guide) guides for more.
 
 ## Protein and Morning Sickness {#sickness}
 
@@ -145,6 +145,6 @@ Very high protein diets (like some weight-loss plans) aren't recommended in preg
 
 **Related articles:**
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)
-- [Vegetarian Pregnancy Diet](/nutrition/vegetarian-pregnancy-diet)
-- [Vegan Pregnancy Diet](/nutrition/vegan-pregnancy-diet)
+- [Vegetarian Pregnancy Diet](/nutrition/vegetarian-pregnancy-diet-complete-guide)
+- [Vegan Pregnancy Diet](/nutrition/vegan-pregnancy-diet-complete-guide)
 - [Best Pregnancy Snacks](/nutrition/best-pregnancy-snacks)

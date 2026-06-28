@@ -154,6 +154,10 @@ Symptoms can fluctuate. Having a good day after feeling sick doesn't necessarily
 
 This is a personal decision. Many people wait until after the 12-week scan. Having no symptoms doesn't change this timing - it's more about what feels right for you and your partner.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

@@ -70,10 +70,14 @@ Bring your maternity notes if you have them, a sanitary pad rather than a tampon
 
 Most EPUs aim to see urgent cases the same day or within 24 hours. If you are told there is a wait and your symptoms are getting worse — heavier bleeding, worsening pain, faintness — do not wait. Go to A&E or call 999.
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about your pregnancy and any symptoms you are experiencing.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

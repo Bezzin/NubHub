@@ -78,5 +78,4 @@ Not necessarily. If cramping is mild and brief, there is no medical reason to st
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

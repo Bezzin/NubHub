@@ -86,5 +86,4 @@ No. The NHS recommends that babies sleep in the same room as a parent for at lea
 *Always speak to your midwife or GP if you have questions about keeping yourself safe during pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

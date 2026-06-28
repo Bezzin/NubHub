@@ -3,8 +3,8 @@ title: "Maternity Pay UK: SMP, Maternity Allowance & How to Claim | Nub Hub"
 description: "Maternity pay UK explained: Statutory Maternity Pay, Maternity Allowance, how to claim, and your full rights. Complete financial guide."
 slug: "/lifestyle/maternity-pay-uk"
 category: "lifestyle"
-tags: ['maternity-pay-uk:-smp,-maternity-allowance-&-how-to-claim', 'lifestyle', 'pregnancy']
-keywords: ['maternity-pay-uk:-smp,-maternity-allowance-&-how-to-claim', 'Maternity pay UK explained: Statutory Maternity Pay']
+tags: ["maternity pay", "statutory maternity pay", "maternity allowance"]
+keywords: ["maternity pay UK", "SMP calculator", "maternity allowance how to claim"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -97,5 +97,4 @@ Always speak to your midwife or GP if you are unsure what support you are entitl
 **Related articles:**
 - [Pregnancy Rights at Work](/lifestyle/pregnancy-rights-work-uk)
 - [What to Do When You Find Out Pregnant](/scans-tests/what-to-do-when-you-find-out-pregnant)
-- [Pregnancy Vitamins](/nutrition/pregnancy-vitamins-supplements)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
+- [Pregnancy Vitamins](/nutrition/best-pregnancy-vitamins-uk-2025)

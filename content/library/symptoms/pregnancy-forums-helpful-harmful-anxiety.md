@@ -55,10 +55,13 @@ Yes. Feeling understood and less alone can be genuinely reassuring, particularly
 
 If anxiety is affecting your daily life, speak to your midwife or GP for personal advice and support.
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

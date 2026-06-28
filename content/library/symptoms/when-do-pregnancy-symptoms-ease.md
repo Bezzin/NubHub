@@ -135,6 +135,10 @@ Generally, yes. The easing of symptoms around weeks 10-12 corresponds with the p
 
 Yes, this is common. You might have a good few days followed by a bad day. Hormones fluctuate, and factors like stress, tiredness, and diet can affect how you feel. As long as the overall trend is improvement, this is normal.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

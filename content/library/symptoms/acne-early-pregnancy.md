@@ -91,8 +91,11 @@ For most women, acne improves in the second trimester as hormone levels stabilis
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Skin Changes in Early Pregnancy](/symptoms/skin-changes-early-pregnancy)
 - [Pregnancy Symptoms Complete Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [When Do Pregnancy Symptoms Start?](/symptoms/when-do-pregnancy-symptoms-start)

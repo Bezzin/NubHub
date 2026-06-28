@@ -50,4 +50,8 @@ A balanced diet, regular activity and achieving a healthy weight before concepti
 
 *This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your midwife, GP, or obstetrician about your individual results and care plan.*
 
+
+**Further reading:**
+- [NHS — Gestational diabetes](https://www.nhs.uk/conditions/gestational-diabetes/)
+
 **Related articles:** [Early Pregnancy Blood Tests](/scans-tests/blood-tests-early-pregnancy-what-checked) | [hCG Levels Explained](/scans-tests/hcg-levels-normal-week-by-week) | [Anaemia in Pregnancy](/scans-tests/anaemia-early-pregnancy-guide)

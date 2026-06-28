@@ -49,6 +49,11 @@ In most cases, no. Most first trimester miscarriages are caused by random chromo
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [Miscarriage Rates By Week](/complications/miscarriage-rates-by-week)
 - [Signs Of Miscarriage Guide](/complications/signs-of-miscarriage-guide)

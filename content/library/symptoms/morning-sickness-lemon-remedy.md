@@ -92,4 +92,8 @@ The two most practical approaches are keeping a cut lemon to smell when nausea h
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your midwife or GP if nausea is severe or you cannot keep fluids down.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-ginger-guide, morning-sickness-peppermint-tea, morning-sickness-hydration-tips

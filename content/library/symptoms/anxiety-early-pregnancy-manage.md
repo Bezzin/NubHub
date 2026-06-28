@@ -92,6 +92,10 @@ Day-to-day worry doesn't harm your baby. Untreated severe anxiety can affect you
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+
 **Related articles:**
 - [Mood Swings in Early Pregnancy](/symptoms/mood-swings-early-pregnancy-guide)
 - [Crying for No Reason in Pregnancy](/symptoms/crying-no-reason-pregnancy)

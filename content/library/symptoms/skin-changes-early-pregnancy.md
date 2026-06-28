@@ -97,8 +97,11 @@ Most skin changes, including acne and melasma, fade after birth as hormones sett
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Acne in Early Pregnancy](/symptoms/acne-early-pregnancy)
 - [Pregnancy Symptoms Complete Guide](/symptoms/pregnancy-symptoms-complete-guide)
 - [When Do Pregnancy Symptoms Start?](/symptoms/when-do-pregnancy-symptoms-start)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

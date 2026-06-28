@@ -49,6 +49,11 @@ A second scan reduces the risk of ending a viable pregnancy by mistake. Dating e
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [Missed Miscarriage Complete Guide](/complications/missed-miscarriage-complete-guide)
 - [Signs Of Miscarriage Guide](/complications/signs-of-miscarriage-guide)

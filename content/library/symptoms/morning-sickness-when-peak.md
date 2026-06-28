@@ -59,6 +59,10 @@ There is some evidence linking nausea to healthy hormone levels, but a milder ex
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
 - [When Does Morning Sickness Start](/symptoms/morning-sickness-when-start)
 - [How Long Does Morning Sickness Last](/symptoms/morning-sickness-how-long-last)

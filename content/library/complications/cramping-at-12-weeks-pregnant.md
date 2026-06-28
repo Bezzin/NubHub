@@ -75,10 +75,14 @@ You should seek help promptly if the cramping is severe, constant, or getting wo
 
 For severe pain or heavy bleeding, go to A&E or call 999. For mild or moderate symptoms without heavy bleeding, contact your GP, midwife, or call 111. In many areas you can also contact your EPU directly for assessment.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Speak to your midwife or GP if you have any concerns about cramping or pain during pregnancy — they are always the right first point of contact.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

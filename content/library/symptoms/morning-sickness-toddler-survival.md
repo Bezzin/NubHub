@@ -59,6 +59,10 @@ Not necessarily, unless you want to or there are medical reasons. Continue if it
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
 - [When Does Morning Sickness End](/symptoms/morning-sickness-when-end)
 - [How to Cope with Morning Sickness at Work](/symptoms/morning-sickness-at-work)

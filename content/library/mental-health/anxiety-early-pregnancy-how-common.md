@@ -94,6 +94,11 @@ If anxiety is interfering with your sleep, your appetite, your ability to leave 
 
 *Speak to your midwife or GP for personal advice about anxiety and emotional wellbeing during pregnancy.*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [Mental Health in Early Pregnancy Guide](/mental-health/mental-health-early-pregnancy-guide)
 - [How to Cope with Pregnancy Anxiety](/mental-health/cope-pregnancy-anxiety)

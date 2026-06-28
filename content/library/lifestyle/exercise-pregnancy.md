@@ -3,8 +3,8 @@ title: "Exercise in Pregnancy: What's Safe in the First Trimester | Nub Hub"
 description: "Exercise in pregnancy guide: what's safe, what to avoid, and how to modify workouts in the first trimester. NHS guidelines included."
 slug: "/lifestyle/exercise-pregnancy"
 category: "lifestyle"
-tags: ["exercise-in-pregnancy:-what's-safe-in-the-first-trimester", 'lifestyle', 'pregnancy']
-keywords: ["exercise-in-pregnancy:-what's-safe-in-the-first-trimester", "Exercise in pregnancy guide: what's safe"]
+tags: ["exercise in pregnancy", "pregnancy fitness", "first trimester exercise"]
+keywords: ["safe exercise pregnancy", "pregnancy workout", "NHS exercise guidelines pregnancy"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -118,4 +118,3 @@ Yes, in general. Light-to-moderate resistance training is safe for most pregnant
 - [Pregnancy Rights at Work](/lifestyle/pregnancy-rights-work-uk)
 - [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
 - [Morning Sickness Remedies](/symptoms/morning-sickness-remedies)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

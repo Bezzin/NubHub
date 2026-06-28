@@ -84,6 +84,10 @@ Yes. Your midwife will ask about your mental health at appointments for good rea
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Mood Swings in Early Pregnancy](/symptoms/mood-swings-early-pregnancy-guide)
 - [Anxiety in Early Pregnancy](/symptoms/anxiety-early-pregnancy-manage)

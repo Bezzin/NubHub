@@ -76,4 +76,3 @@ Mild, period-like cramping at 4 weeks is common and is often caused by implantat
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

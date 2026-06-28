@@ -86,6 +86,11 @@ You can self-refer to NHS Talking Therapies in most parts of England without nee
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [Anxiety in Early Pregnancy How Common](/mental-health/anxiety-early-pregnancy-how-common)
 - [Panic Attacks in Early Pregnancy](/mental-health/panic-attacks-early-pregnancy)

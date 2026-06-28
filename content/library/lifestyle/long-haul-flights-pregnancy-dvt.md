@@ -75,5 +75,4 @@ For most uncomplicated singleton pregnancies, flying is considered safe up to ar
 *For personalised advice about flying during your pregnancy, including whether you need additional precautions, speak to your midwife or GP before you travel.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

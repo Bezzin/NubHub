@@ -154,6 +154,10 @@ For most women, symptoms gradually reduce rather than stopping suddenly. You may
 
 Some women experience symptoms beyond the first trimester. If you're still struggling at 12+ weeks, talk to your GP. They can check for dehydration, nutritional deficiencies, or hyperemesis gravidarum.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

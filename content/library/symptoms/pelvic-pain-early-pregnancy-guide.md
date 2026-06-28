@@ -45,10 +45,13 @@ Paracetamol is generally regarded as the first choice when taken as directed, wh
 
 If your pelvic pain is worrying you or does not settle, speak to your midwife or GP for advice tailored to you.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

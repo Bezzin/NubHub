@@ -72,5 +72,5 @@ Speak to your midwife or GP if you have specific concerns about your diet during
 
 **Related articles:**
 - [Food Poisoning in Pregnancy](/nutrition/food-poisoning-pregnancy-complete-guide)
-- [Can I Eat Sushi Pregnant?](/nutrition/can-i-eat-sushi-pregnant)
-- [Can I Eat Prawns Pregnant?](/nutrition/can-i-eat-prawns-pregnant)
+- [Can I Eat Sushi Pregnant?](/nutrition/can-i-eat-sushi-when-pregnant)
+- [Can I Eat Prawns Pregnant?](/nutrition/can-i-eat-prawns-when-pregnant)

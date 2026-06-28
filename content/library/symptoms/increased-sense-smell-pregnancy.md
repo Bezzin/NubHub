@@ -91,6 +91,10 @@ For most women it eases after the first trimester, around weeks 12 to 14. Some w
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Heightened Smell and Nausea](/symptoms/heightened-smell-nausea)
 - [Morning Sickness Complete Guide](/symptoms/morning-sickness-complete-guide)

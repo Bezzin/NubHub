@@ -60,5 +60,4 @@ Discomfort is common, particularly because of breast tenderness, bloating, and g
 *If you have any concerns about sexual activity during your pregnancy, speak to your midwife or GP — they are there to help without judgement.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

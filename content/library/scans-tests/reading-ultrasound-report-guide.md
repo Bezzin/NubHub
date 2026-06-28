@@ -64,3 +64,8 @@ This is good news. It means one baby has been found with a visible heartbeat, an
 A small difference is very common and usually not a concern. Scan measurements are generally more accurate than period dates for establishing gestational age, especially if your cycles are irregular. Your midwife will explain if any significant discrepancy needs further investigation.
 
 *Speak to your midwife or GP if you have questions about your scan report or if any findings have been flagged for follow-up.*
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

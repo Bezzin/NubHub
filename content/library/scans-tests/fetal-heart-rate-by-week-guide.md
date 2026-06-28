@@ -77,6 +77,10 @@ A rate well below the typical range — particularly in early pregnancy — may 
 
 Home dopplers are available but are not recommended by UK midwifery organisations as a substitute for professional checks. They can be difficult to use accurately, and finding (or not finding) a heartbeat at home does not give you the same reassurance as a check performed by a trained clinician. If you have concerns, contact your midwife unit.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Speak to your midwife or GP for personal advice about your pregnancy.*

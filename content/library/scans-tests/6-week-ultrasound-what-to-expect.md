@@ -74,6 +74,10 @@ An empty gestational sac — sometimes called a blighted ovum — can be difficu
 
 A reassuring 6 week scan is a positive sign, but it cannot guarantee the outcome of the pregnancy. Miscarriage risk decreases once a heartbeat is confirmed, but your 12 week dating scan remains the key milestone for overall reassurance.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Always speak to your midwife, GP, or early pregnancy unit with any specific concerns — this article is for general information only.*

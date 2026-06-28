@@ -71,6 +71,10 @@ Typically 7 to 14 days, to allow enough time to confirm whether any development 
 
 Speak to your midwife, GP, or Early Pregnancy Unit if you have received an empty sac finding or have any concerns about your scan results.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

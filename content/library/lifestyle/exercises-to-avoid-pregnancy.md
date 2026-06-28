@@ -90,5 +90,4 @@ Yes. Pelvic floor exercises (Kegel exercises) are recommended throughout pregnan
 *For personalised guidance on exercise during your pregnancy, speak to your midwife or GP — especially if you have any complications or are new to exercise.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

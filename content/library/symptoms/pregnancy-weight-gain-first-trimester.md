@@ -84,8 +84,11 @@ Most weight gain occurs in the second and third trimesters, when your baby, plac
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Weight Loss in First Trimester](/symptoms/weight-loss-first-trimester)
 - [Pregnancy Symptoms Complete Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Morning Sickness Complete Guide](/symptoms/morning-sickness-complete-guide)

@@ -92,4 +92,8 @@ Sit by an open window and breathe slowly. Ventilating the room briefly, using a 
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP or midwife about your symptoms during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-avoid-triggers, morning-sickness-rest-fatigue, morning-sickness-change-routine

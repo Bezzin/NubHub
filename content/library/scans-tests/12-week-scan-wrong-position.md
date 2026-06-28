@@ -86,6 +86,10 @@ No. The sonographer can only use gentle techniques like asking you to roll, coug
 
 Movement is a good sign, but the sonographer will assess your baby's health through several measurements, not just movement. A still baby isn't necessarily a concern — they may just be sleeping.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

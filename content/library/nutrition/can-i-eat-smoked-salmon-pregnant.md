@@ -92,4 +92,3 @@ The smoked salmon element carries the small listeria consideration described abo
 - [Can I Eat Salmon When Pregnant?](/nutrition/can-i-eat-salmon-when-pregnant)
 - [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

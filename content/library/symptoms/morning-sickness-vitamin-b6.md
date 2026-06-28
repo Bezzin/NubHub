@@ -69,6 +69,10 @@ It tends to help nausea more than vomiting. Many women notice nausea eases while
 
 Most women who find it helpful notice some improvement within a few days to a week. If you have been taking it consistently for two weeks with no change, it may not be the right tool for your particular nausea, and it is worth speaking to your GP about other options.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP, midwife, or pharmacist before starting new supplements during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*

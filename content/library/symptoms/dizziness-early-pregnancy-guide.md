@@ -90,6 +90,10 @@ Yes. Lying on your left side improves blood flow back to your heart and brain. I
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Fainting in Pregnancy](/symptoms/fainting-pregnancy)
 - [Dehydration in Early Pregnancy](/symptoms/dehydration-early-pregnancy)

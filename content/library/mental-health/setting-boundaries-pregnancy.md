@@ -70,6 +70,11 @@ A relationship that cannot survive you having a basic need is one that was alrea
 
 Open, specific conversations tend to work better than hoping your partner will guess. Try identifying one or two concrete things that would help — more rest, fewer social commitments, not having birth horror stories shared — and bringing them up at a calm moment rather than in the heat of exhaustion or frustration. If conversations about needs are consistently difficult, a session or two with a couples counsellor can help establish new communication patterns before the baby arrives.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Speak to your midwife or GP if you are struggling with your emotional wellbeing during pregnancy — support is available.*

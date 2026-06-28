@@ -59,6 +59,11 @@ No. Forum posts are personal experiences, not medical advice. If you have a heal
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [pregnancy-doom-scrolling](/mental-health/pregnancy-doom-scrolling)
 - [two-week-wait-anxiety](/mental-health/two-week-wait-anxiety)

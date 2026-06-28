@@ -91,6 +91,10 @@ Yes, if you fully lose consciousness, faint repeatedly, or have chest pain, blee
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Dizziness in Early Pregnancy](/symptoms/dizziness-early-pregnancy-guide)
 - [Dehydration in Early Pregnancy](/symptoms/dehydration-early-pregnancy)

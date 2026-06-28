@@ -75,4 +75,4 @@ Focus on small, frequent meals and easy nutrient-dense snacks, and don't worry a
 **Related articles:**
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)
 - [Iron-Rich Foods in Pregnancy](/nutrition/iron-rich-foods-pregnancy)
-- [Pregnancy Vitamins & Supplements](/nutrition/pregnancy-vitamins-supplements)
+- [Pregnancy Vitamins & Supplements](/nutrition/best-pregnancy-vitamins-uk-2025)

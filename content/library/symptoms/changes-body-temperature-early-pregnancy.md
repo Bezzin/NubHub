@@ -72,3 +72,8 @@ A high fever (38°C or above) in early pregnancy is something to take seriously 
 Keep rooms cool and well-ventilated, wear light and breathable fabrics, stay well hydrated, use a fan at night, and take cool (not cold) showers if needed. Avoid getting overheated in saunas, hot tubs, or very hot baths, as sustained high external heat can raise your core temperature in ways that feeling warm from hormones does not.
 
 Always speak to your midwife or GP if you are concerned about your temperature or any symptoms during pregnancy.
+
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+

@@ -83,6 +83,6 @@ No — they serve completely different purposes. The Shettles Method is used bef
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
 **Related articles:**
-- [Nub Theory Explained](/nub-theory/nub-theory-explained)
-- [Ramzi Theory](/nub-theory/ramzi-theory)
+- [Nub Theory Explained](/nub-theory/what-is-nub-theory)
+- [Ramzi Theory](/nub-theory/ramzi-theory-explained)
 - [Gender Blood Test at 9 Weeks](/nub-theory/nub-theory-gender-blood-test-9-weeks)

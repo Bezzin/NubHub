@@ -72,10 +72,14 @@ Most doctors and midwives advise waiting until after your first period before tr
 
 Speak to your GP, midwife, or the Early Pregnancy Unit team for personal guidance on your options and what is right for your situation.
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
