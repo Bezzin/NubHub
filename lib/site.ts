@@ -5,7 +5,7 @@
  * page stays consistent. Update brand claims here, not in individual pages.
  */
 
-export const SITE_URL = 'https://www.nubhub.baby';
+export const SITE_URL = 'https://nubhub.baby';
 export const SITE_NAME = 'NubHub';
 
 export const SITE_TAGLINE =
