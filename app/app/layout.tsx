@@ -27,10 +27,10 @@ export const metadata: Metadata = {
     title: 'Know Your Baby\'s Gender at 12 Weeks | NubHub',
     description: 'AI-powered gender prediction from your 12-week ultrasound. Results in 2 hours. 100% money-back guarantee.',
     type: 'website',
-    url: 'https://www.nubhub.baby',
+    url: SITE_URL,
     images: [
       {
-        url: 'https://www.nubhub.baby/og-image.jpg',
+        url: `${SITE_URL}/og-image.jpg`,
         width: 1200,
         height: 630,
         alt: 'NubHub - Baby Gender Prediction',
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     description: 'AI-powered gender prediction. Results in 2 hours. 100% money-back guarantee.',
     images: [
       {
-        url: 'https://www.nubhub.baby/og-image.jpg',
+        url: `${SITE_URL}/og-image.jpg`,
         width: 1200,
         height: 630,
         alt: 'NubHub - Baby Gender Prediction',
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: 'https://www.nubhub.baby',
+    canonical: SITE_URL,
   },
   icons: {
     icon: [
