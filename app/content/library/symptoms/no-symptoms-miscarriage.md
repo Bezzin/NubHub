@@ -183,6 +183,10 @@ A missed miscarriage (where the baby has died but the body hasn't recognised it)
 
 A scan showing a heartbeat is the most reliable indicator of pregnancy health. If you're worried, ask your GP for a referral to your early pregnancy unit or book a private reassurance scan.
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

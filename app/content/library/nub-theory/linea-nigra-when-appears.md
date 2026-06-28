@@ -79,4 +79,4 @@ For most people it fades significantly within months of birth. Some people retai
 
 **Related articles:**
 - [Is the Pregnancy Glow Real](/nub-theory/pregnancy-glow-real)
-- [Skin Changes in Pregnancy](/nub-theory/skin-changes-pregnancy)
+- [Skin Changes in Pregnancy](/symptoms/skin-changes-early-pregnancy)

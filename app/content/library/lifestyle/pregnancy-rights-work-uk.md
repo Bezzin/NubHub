@@ -3,8 +3,8 @@ title: "Pregnancy Rights at Work UK: Your Complete Guide | Nub Hub"
 description: "Pregnancy rights at work UK explained: when to tell your employer, risk assessments, maternity pay, sick leave, and anti-discrimination laws."
 slug: "/lifestyle/pregnancy-rights-work-uk"
 category: "lifestyle"
-tags: ['pregnancy-rights-at-work-uk:-your-complete-guide', 'lifestyle', 'pregnancy']
-keywords: ['pregnancy-rights-at-work-uk:-your-complete-guide', 'Pregnancy rights at work UK explained: when to tell your emp']
+tags: ["pregnancy rights", "maternity rights", "employment rights pregnancy"]
+keywords: ["pregnancy rights at work UK", "maternity discrimination", "pregnant employee rights"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"

@@ -59,6 +59,11 @@ Early testing can give ambiguous results that increase anxiety. Waiting until yo
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [chemical-pregnancy-what-is-it](/complications/chemical-pregnancy-what-is-it)
 - [coping-wait-between-scans](/mental-health/coping-wait-between-scans)

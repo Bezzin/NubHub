@@ -64,6 +64,10 @@ Yes, for some women. Peppermint relaxes the valve between the stomach and oesoph
 
 Many women find a cup after meals helpful for the post-eating nausea that is common in early pregnancy. Sipping it slowly when nausea strikes — rather than drinking it quickly — may also be more effective. Warm rather than hot works best for most people. If morning nausea is your main issue, keeping a flask by the bed and sipping before getting up is worth trying.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP, midwife or obstetrician before trying new remedies during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*

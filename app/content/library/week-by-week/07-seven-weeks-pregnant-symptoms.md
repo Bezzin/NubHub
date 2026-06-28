@@ -98,4 +98,3 @@ Mild, period-like cramping or stretching sensations in the lower abdomen are ver
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

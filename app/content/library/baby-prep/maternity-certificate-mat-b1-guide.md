@@ -90,5 +90,4 @@ You need a Mat B1 (or a letter from your midwife or doctor confirming your expec
 *Always speak to your midwife or GP for advice tailored to your individual pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

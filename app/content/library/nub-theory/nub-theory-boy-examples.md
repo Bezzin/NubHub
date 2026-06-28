@@ -152,8 +152,8 @@ Studies suggest nub theory is slightly more accurate for boys than for girls at 
 
 **Related articles:**
 - [Nub Theory: The Complete Guide](/nub-theory/what-is-nub-theory)
-- [Nub Theory Girl Examples: Photo Guide](/nub-theory/nub-theory-girl-examples)
+- [Nub Theory Girl Examples: Photo Guide](/nub-theory/nub-theory-photo-gallery-girl)
 - [Nub Theory: Boy vs Girl](/nub-theory/nub-theory-boy-vs-girl)
-- [What Is the 30 Degree Angle in Nub Theory?](/nub-theory/what-is-angle-of-30-degrees)
-- [Nub Theory: Forked vs Stacked Nub](/nub-theory/nub-theory-forked-vs-stacked)
+- [What Is the 30 Degree Angle in Nub Theory?](/nub-theory/nub-theory-angle-explained)
+- [Nub Theory: Forked vs Stacked Nub](/nub-theory/nub-theory-forked-vs-stacked-detailed)
 

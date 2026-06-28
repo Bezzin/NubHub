@@ -64,7 +64,7 @@ So roughly **half of women** experience nausea in the evening or at night, wheth
 
 Many women find their nausea is actually worse at night than in the morning. The accumulated fatigue, cooking smells, and digestive slowdown all contribute. Some women call this "all-day sickness" - though it often peaks in the evening.
 
-Read our guide to [all-day sickness vs morning sickness](/symptoms/all-day-sickness) for more.
+Read our guide to [all-day sickness vs morning sickness](/symptoms/morning-sickness-complete-guide) for more.
 
 ## Triggers That Make Night Worse {#triggers}
 
@@ -184,6 +184,10 @@ Yes. Severe nausea can make it hard to fall asleep or wake you up. Keeping crack
 
 If vitamins trigger nausea, try taking them in the morning with food instead. If they still cause problems, try at lunch. Some women find taking them before bed helps them sleep through any nausea - experiment to find what works for you.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*
@@ -191,7 +195,6 @@ If vitamins trigger nausea, try taking them in the morning with food instead. If
 *Last reviewed: June 2026*
 
 **Related articles:**
-- [All-Day Sickness vs Morning Sickness](/symptoms/all-day-sickness)
+- [All-Day Sickness vs Morning Sickness](/symptoms/morning-sickness-complete-guide)
 - [Morning Sickness: Complete Guide](/symptoms/morning-sickness-complete-guide)
-- [Morning Sickness Hacks from Real Mums](/symptoms/morning-sickness-hacks)
-- [Heartburn in Early Pregnancy](/symptoms/heartburn-early-pregnancy)
+- [Morning Sickness Hacks from Real Mums](/symptoms/morning-sickness-complete-guide)

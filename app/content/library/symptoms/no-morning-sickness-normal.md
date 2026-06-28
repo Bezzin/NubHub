@@ -137,6 +137,10 @@ Yes. Every pregnancy is different. Some women have severe sickness with one preg
 
 No symptoms at all in early pregnancy is also normal for many women. If you're worried, an early scan can provide reassurance. Read more about [no symptoms at various weeks](/symptoms/no-symptoms-6-weeks).
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

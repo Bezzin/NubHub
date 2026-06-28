@@ -62,5 +62,4 @@ Many people find their skin improves after the first trimester as hormone levels
 *For personalised advice about your skin during pregnancy, speak to your midwife or GP.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

@@ -74,10 +74,13 @@ A missed miscarriage (where the pregnancy stops developing but the body does not
 
 For most women who experience nausea and other first-trimester symptoms, they tend to be at their worst between around 8 and 10 weeks, then gradually ease. Most women notice a significant improvement by around 12 to 14 weeks, though this varies. If your symptoms are mild at 6 weeks, they may still increase over the coming weeks — or they may stay mild throughout.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *Always speak to your midwife or GP for advice tailored to your individual pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

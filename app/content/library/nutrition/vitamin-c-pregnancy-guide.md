@@ -76,5 +76,4 @@ For personalised advice on vitamins or any supplements in pregnancy, speak to yo
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

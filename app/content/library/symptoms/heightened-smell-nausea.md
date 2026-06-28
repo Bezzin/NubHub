@@ -93,6 +93,10 @@ Some oils, like ginger, peppermint and lemon, are generally considered safe in s
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Increased Sense of Smell in Pregnancy](/symptoms/increased-sense-smell-pregnancy)
 - [Morning Sickness Complete Guide](/symptoms/morning-sickness-complete-guide)

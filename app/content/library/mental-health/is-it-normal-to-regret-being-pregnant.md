@@ -62,3 +62,9 @@ For many people, yes — particularly when regret is tied to specific hard phase
 The Samaritans (116 123) are free and available around the clock. Tommy's charity runs a free midwife helpline. PANDAS Foundation supports those experiencing perinatal mental health difficulties. You do not need to be in crisis to reach out.
 
 Mixed or negative feelings in pregnancy do not make you a bad parent. They make you a person undergoing a life-changing event. Honest support is always better than silent shame. Speak to your midwife or GP for personal guidance suited to your situation.
+
+
+**Further reading:**
+- [NHS — Depression](https://www.nhs.uk/mental-health/conditions/depression/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+

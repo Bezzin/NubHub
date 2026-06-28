@@ -59,6 +59,10 @@ Excessive water intake can dilute sodium levels, but this is rare with normal dr
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Pregnancy Safe Herbal Teas Guide](/symptoms/pregnancy-safe-herbal-teas-guide)
-- [Best Pregnancy Snacks Guide](/symptoms/best-pregnancy-snacks-guide)
+- [Best Pregnancy Snacks Guide](/nutrition/best-pregnancy-snacks-guide)

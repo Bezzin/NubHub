@@ -99,4 +99,8 @@ A transvaginal ultrasound uses a probe that sits in the vagina near the cervix. 
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:** [Spotting in Early Pregnancy](/symptoms/spotting-early-pregnancy-complete-guide) | [One-Sided Pain in Early Pregnancy](/symptoms/one-sided-pain-early-pregnancy) | [Coping While Waiting for a Scan](/symptoms/coping-while-waiting-scan-after-bleeding)

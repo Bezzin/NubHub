@@ -59,6 +59,10 @@ A routine scan can often determine sex from around 16 weeks, though it depends o
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
 - [When Does Morning Sickness Peak](/symptoms/morning-sickness-when-peak)
 - [How Long Does Morning Sickness Last](/symptoms/morning-sickness-how-long-last)

@@ -151,6 +151,10 @@ No. Most women with no symptoms at 8 weeks have healthy pregnancies. The only wa
 
 Your 12-week scan (dating scan) is typically scheduled between 11 and 14 weeks. Your midwife will arrange this at your booking appointment. This scan also includes the combined screening test for Down's syndrome, Edwards' syndrome, and Patau's syndrome.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

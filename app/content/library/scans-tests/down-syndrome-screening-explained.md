@@ -56,6 +56,10 @@ Yes. The combined and quadruple tests also screen for Edwards syndrome and Patau
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:**
 - [Combined Screening Test Guide](/scans-tests/combined-screening-test-guide)
 - [High Risk Screening Result Guide](/scans-tests/high-risk-screening-result-guide)

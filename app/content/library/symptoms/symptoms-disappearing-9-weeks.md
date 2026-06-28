@@ -176,6 +176,10 @@ If you're worried, yes. A scan at 9 weeks can detect a heartbeat and provide rea
 
 If you've never had symptoms and feel well with no bleeding or pain, this is likely just how your body handles pregnancy. Around 20% of women have minimal symptoms. A scan at 10-12 weeks (your dating scan) will provide reassurance.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

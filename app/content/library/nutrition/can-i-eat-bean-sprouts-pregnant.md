@@ -74,5 +74,4 @@ If you experience vomiting, diarrhoea, stomach cramps, or a fever after eating r
 *Speak to your midwife or GP for personalised advice about your diet during pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

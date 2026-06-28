@@ -61,4 +61,4 @@ Azelaic acid and glycolic acid are generally considered safe options for pregnan
 
 **Related articles:**
 - [hair-dye-pregnancy-safe](/lifestyle/hair-dye-pregnancy-safe)
-- [skin-changes-in-pregnancy](/lifestyle/skin-changes-in-pregnancy)
+- [skin-changes-in-pregnancy](/symptoms/skin-changes-early-pregnancy)

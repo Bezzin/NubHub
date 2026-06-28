@@ -91,8 +91,12 @@ This is an extremely common experience. After the intensity of fertility treatme
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 **Related articles:**
 - [Pregnancy Anxiety: When to Get Help](/mental-health/pregnancy-anxiety-when-to-get-help)
 - [Fear of Miscarriage: How to Cope](/mental-health/fear-of-miscarriage-cope)
 - [Perinatal Mental Health Services UK](/mental-health/perinatal-mental-health-services-uk)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

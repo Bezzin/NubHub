@@ -101,6 +101,10 @@ Seeing a heartbeat at 7 weeks is very reassuring. The chance of miscarriage drop
 
 Most private clinics include at least one photo, though at 7 weeks the baby is so small that the photo may not look like much. Some clinics offer digital images you can access on your phone.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

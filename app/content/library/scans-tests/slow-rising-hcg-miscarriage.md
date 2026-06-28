@@ -50,4 +50,8 @@ In the UK you can choose expectant management (letting it happen naturally), med
 
 *This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your midwife, GP, or obstetrician about your individual results and care plan.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+
 **Related articles:** [Early Pregnancy Blood Tests](/scans-tests/blood-tests-early-pregnancy-what-checked) | [hCG Levels Explained](/scans-tests/hcg-levels-normal-week-by-week) | [Anaemia in Pregnancy](/scans-tests/anaemia-early-pregnancy-guide)

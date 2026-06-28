@@ -60,3 +60,9 @@ Most pregnancies progress without major problems, and the checks described here 
 ---
 
 *This article is for general information only and is not a substitute for professional medical advice. Always consult your midwife, GP, or obstetrician for guidance specific to your pregnancy.*
+
+
+**Further reading:**
+- [NHS — Appendicitis](https://www.nhs.uk/conditions/appendicitis/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+

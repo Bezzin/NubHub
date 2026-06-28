@@ -123,4 +123,4 @@ The only way to confirm your baby's gender definitively is through NIPT (99%+), 
 - [Nub Theory vs Ramzi Theory](/nub-theory/nub-theory-vs-ramzi)
 - [Nub Theory at 12 Weeks](/nub-theory/nub-theory-12-weeks)
 - [How Accurate Is Nub Theory?](/nub-theory/nub-theory-accuracy)
-- [Old Wives' Tales Gender Prediction](/nub-theory/old-wives-tales-gender)
+- [Old Wives' Tales Gender Prediction](/nub-theory/old-wives-tales-gender-complete-list)

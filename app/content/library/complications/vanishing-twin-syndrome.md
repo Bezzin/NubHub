@@ -59,6 +59,11 @@ Some women have mild bleeding or cramping, but many have no symptoms and the los
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [multiple-pregnancy-what-to-expect](/pregnancy-week-by-week/multiple-pregnancy-what-to-expect)
 - [early-pregnancy-scans](/antenatal-care/early-pregnancy-scans)

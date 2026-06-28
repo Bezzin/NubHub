@@ -56,5 +56,4 @@ For any medical questions about your pregnancy or scans, speak to your midwife o
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

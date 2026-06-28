@@ -64,10 +64,13 @@ No. Most babies born to mothers who carry GBS are completely healthy. The risk o
 
 Speak to your midwife or GP for personalised advice about GBS testing and your care plan.
 
+
+**Further reading:**
+- [NHS — Group B streptococcus](https://www.nhs.uk/conditions/group-b-streptococcus/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

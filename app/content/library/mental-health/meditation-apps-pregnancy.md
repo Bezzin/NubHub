@@ -71,6 +71,11 @@ Insight Timer is free with a large library including pregnancy-specific content.
 
 No. Apps are genuinely helpful for managing mild anxiety and building a daily wellbeing habit, but they are not a substitute for professional treatment of moderate to severe anxiety, depression, or trauma. If you are struggling significantly with your mental health during pregnancy, please speak to your GP or midwife — perinatal mental health support is available on the NHS and your team can refer you.
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about mental health support during pregnancy.*

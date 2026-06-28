@@ -75,10 +75,14 @@ If the strings are not visible or accessible, removal may not be possible withou
 
 Speak to your GP or midwife for advice specific to your situation — every case is different and individual guidance is essential.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

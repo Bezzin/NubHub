@@ -85,5 +85,4 @@ Yes. All routine antenatal appointments are designed to be attended by the pregn
 *Speak to your midwife, GP, or health visitor if you're struggling — there is support available and you don't have to manage everything by yourself. This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

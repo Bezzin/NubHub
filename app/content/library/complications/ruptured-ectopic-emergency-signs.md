@@ -79,10 +79,14 @@ Yes, without prompt emergency treatment a ruptured ectopic pregnancy can be fata
 
 There is no single answer — some ectopic pregnancies are caught before rupture; others rupture with very little warning. The risk of rupture generally increases as the pregnancy grows, typically from around 6–8 weeks, though it can happen earlier or later. This is why one-sided pain or shoulder tip pain in early pregnancy should always be assessed promptly rather than waited on.
 
+
+**Further reading:**
+- [NHS — Ectopic pregnancy](https://www.nhs.uk/conditions/ectopic-pregnancy/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *If you are concerned about any symptoms in pregnancy, contact your midwife, GP, or early pregnancy unit. In an emergency, call 999.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

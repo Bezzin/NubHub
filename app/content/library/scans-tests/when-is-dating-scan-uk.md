@@ -61,6 +61,10 @@ Your midwife will usually book toward the later end of the window and use the sc
 
 You can ask, but earlier slots are usually reserved for clinical concerns such as bleeding or pain. If you have those symptoms, contact your midwife or GP rather than waiting for a routine appointment.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Always speak to your midwife or GP if you have questions about your scan timing or individual pregnancy care.*

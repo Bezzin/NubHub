@@ -91,4 +91,8 @@ Crackers are safe in pregnancy, but relying on them as your primary food for an 
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your midwife or GP if nausea is severe, you cannot keep fluids down, or you are worried about your nutritional intake during pregnancy.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-small-meals, morning-sickness-plain-foods, morning-sickness-ginger-guide

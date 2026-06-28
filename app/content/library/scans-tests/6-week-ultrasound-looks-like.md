@@ -97,6 +97,10 @@ Almost always. At 6 weeks, the baby is deep in the pelvis and too small for an a
 
 Private clinics usually allow partners. If it's an NHS scan (for clinical reasons), check the hospital's policy — it's usually fine.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

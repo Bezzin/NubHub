@@ -69,6 +69,11 @@ Guilt is a very common response, especially for people who tried hard to conceiv
 
 Your midwife will ask about your emotional wellbeing at several points during pregnancy using standard questions. You can also bring it up yourself at any appointment. Simply saying "I've been feeling quite low and I wanted to mention it" is enough to open the conversation. Midwives are trained to respond to this and will not judge you.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Speak to your midwife or GP for personal advice about your emotional wellbeing during pregnancy.*

@@ -70,6 +70,10 @@ Brown spotting alone does not mean miscarriage. Many women with healthy pregnanc
 
 Yes. Your cervix is softer and has more blood flow in pregnancy, so light brown spotting after sex is common and usually harmless. If it happens repeatedly or is accompanied by pain, mention it to your midwife so she can examine the cervix and offer reassurance.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

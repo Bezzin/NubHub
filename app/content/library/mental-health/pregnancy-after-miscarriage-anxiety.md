@@ -76,6 +76,11 @@ Many UK units offer early reassurance scans for those with a history of pregnanc
 
 Many people find that anxiety decreases after each reassuring scan and after passing the gestational age of a previous loss. For some, it eases significantly once the second trimester begins. For others, some level of anxiety persists throughout the pregnancy, and ongoing support can help. You do not have to simply endure it.
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*

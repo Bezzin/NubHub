@@ -59,6 +59,11 @@ No. Chemical pregnancies are almost always caused by chromosomal abnormalities i
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [blighted-ovum-causes-coping](/complications/blighted-ovum-causes-coping)
 - [two-week-wait-anxiety](/mental-health/two-week-wait-anxiety)

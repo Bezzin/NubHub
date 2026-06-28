@@ -83,6 +83,10 @@ Gentle rest is sensible if it helps you feel calmer and more comfortable. Howeve
 
 Not on its own. Ectopic pregnancy typically causes one-sided pelvic pain, shoulder tip pain, and often heavier bleeding. Pink spotting alone is rarely the only sign of an ectopic. However, if spotting comes with any pain — particularly one-sided pain — always seek assessment promptly, as ectopic pregnancy is a serious condition.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

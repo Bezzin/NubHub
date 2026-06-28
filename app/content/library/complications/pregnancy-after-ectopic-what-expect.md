@@ -81,10 +81,14 @@ This depends on how your ectopic pregnancy was treated. After methotrexate (medi
 
 Speak to your midwife or GP for personalised advice about your situation and what monitoring to expect.
 
+
+**Further reading:**
+- [NHS — Ectopic pregnancy](https://www.nhs.uk/conditions/ectopic-pregnancy/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

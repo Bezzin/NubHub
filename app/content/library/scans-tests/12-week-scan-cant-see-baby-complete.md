@@ -60,3 +60,8 @@ Most pregnancies progress without major problems, and the checks described here 
 ---
 
 *This article is for general information only and is not a substitute for professional medical advice. Always consult your midwife, GP, or obstetrician for guidance specific to your pregnancy.*
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

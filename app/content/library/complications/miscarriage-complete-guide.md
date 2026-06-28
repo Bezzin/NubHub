@@ -3,8 +3,8 @@ title: "Miscarriage: A Complete Guide for Early Pregnancy | Nub Hub"
 description: "Miscarriage explained with compassion: signs, causes, what to expect, and how to cope. Plus miscarriage rates by week and support resources."
 slug: "/complications/miscarriage-complete-guide"
 category: "complications"
-tags: ['miscarriage:-a-complete-guide-for-early-pregnancy', 'complications', 'pregnancy']
-keywords: ['miscarriage:-a-complete-guide-for-early-pregnancy', 'Miscarriage explained with compassion: signs']
+tags: ["miscarriage", "early pregnancy loss", "pregnancy complications"]
+keywords: ["miscarriage symptoms", "miscarriage causes", "miscarriage support UK"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"

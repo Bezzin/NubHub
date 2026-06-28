@@ -85,10 +85,13 @@ Yes. Because the round ligaments run from the uterus down into the groin and lab
 
 Speak to your midwife or GP for personal advice about pelvic and abdominal pain during pregnancy.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

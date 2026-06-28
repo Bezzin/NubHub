@@ -105,4 +105,8 @@ Yes, as long as you follow standard pregnancy food safety guidance. Stick to pas
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances, and seek urgent help if you cannot keep fluids down or symptoms become severe.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** [Plain Foods for Morning Sickness](/symptoms/morning-sickness-plain-foods), [Avoiding Nausea Triggers](/symptoms/morning-sickness-avoid-triggers), [Small Meals for Morning Sickness](/symptoms/morning-sickness-small-meals)

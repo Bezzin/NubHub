@@ -93,6 +93,10 @@ A brief, sharp twinge on the right at 7 weeks is most likely round ligament pain
 
 Your midwife or doctor will take a detailed history of your symptoms and examine your abdomen. They will likely arrange an ultrasound scan to check the location of the pregnancy and look for any cysts or collections of fluid. Blood tests, including a pregnancy hormone (hCG) level and a full blood count, help rule out ectopic pregnancy and infection. If appendicitis is suspected, you will be referred to a surgical team.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

@@ -94,6 +94,10 @@ Yes. If nausea is stopping you eating, your GP can prescribe safe options such a
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Morning Sickness Complete Guide](/symptoms/morning-sickness-complete-guide)
 - [Loss of Appetite in Early Pregnancy](/symptoms/loss-of-appetite-early-pregnancy)

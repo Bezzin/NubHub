@@ -119,6 +119,10 @@ Yes, most private clinics will give you a photo that shows a recognisable baby s
 
 Yes, many clinics will try an abdominal scan at 8 weeks. If the view isn't clear, they'll switch to transvaginal. A full bladder can help with the abdominal view.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

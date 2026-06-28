@@ -107,6 +107,10 @@ No. CRL in the first trimester doesn't predict birth weight. Birth weight depend
 
 If your CRL was within 5-7 days of your original dates, your due date stays as it was. The NHS only adjusts the due date if there's a significant difference, because minor variations are normal.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

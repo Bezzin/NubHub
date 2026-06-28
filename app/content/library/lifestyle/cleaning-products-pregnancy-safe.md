@@ -60,5 +60,4 @@ Aerosols can release fine particles into the air. Consider pump sprays instead, 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [safe-food-pregnancy](/lifestyle/safe-food-pregnancy)
-- [exercise-during-pregnancy](/lifestyle/exercise-during-pregnancy)
+- [exercise-during-pregnancy](/lifestyle/exercise-pregnancy)

@@ -54,3 +54,8 @@ You may be asked to arrive with a partially full bladder for an abdominal scan, 
 - If nothing is seen, a rescan in a week or two is normal and not a cause for panic.
 - A confirmed heartbeat at 7 weeks significantly lowers miscarriage risk.
 - Bring someone for support and check the clinic rescan policy.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

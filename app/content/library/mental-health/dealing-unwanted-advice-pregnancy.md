@@ -103,3 +103,9 @@ You are not obliged to respond at all, but if you want to say something, brief a
 Completely normal. Pregnancy often brings out other people's strong opinions and unprocessed anxieties, and when you are already managing physical changes, fatigue, and your own worries, constant input from others can feel like too much. Many pregnant women describe feeling scrutinised in a way they never expected. Acknowledging that it is genuinely hard — rather than telling yourself you should not mind — is a good place to start.
 
 Always speak to your midwife if unsolicited advice or other social pressures are affecting your mental wellbeing during pregnancy. You deserve support, not just tolerance.
+
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+

@@ -1,7 +1,7 @@
 ---
 title: "12-Week Scan: Are Children Allowed? A UK Guide"
 description: "Whether you can bring children to your 12-week scan on the NHS, why policies exist, and private clinic alternatives for siblings."
-keywords: "12 week scan children, bring children to scan, siblings at scan, NHS scan child policy, private scan child-friendly"
+keywords: ["12 week scan children policy", "siblings at ultrasound", "NHS scan visitor rules", "private scan children"]
 category: "scans-tests"
 slug: "12-week-scan-children-allowed"
 author: "Nub Hub UK"
@@ -55,3 +55,8 @@ If you arrive with a child and the hospital does not allow them in, you may have
 - A few trusts may make exceptions if pre-arranged, but this is rare.
 - Private clinics are generally child-friendly and a good alternative.
 - Always confirm the policy in advance and arrange childcare as a backup.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

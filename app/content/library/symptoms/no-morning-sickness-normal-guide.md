@@ -62,6 +62,9 @@ No. The idea that no sickness means a boy is an old wives' tale. Research does n
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

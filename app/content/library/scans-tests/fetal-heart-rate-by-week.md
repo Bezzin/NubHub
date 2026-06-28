@@ -110,6 +110,10 @@ A very slow heart rate (below 80 bpm at 6 weeks, below 100 bpm at 7-8 weeks) inc
 
 Not directly. Your baby's heart rate is controlled by their own developing cardiovascular system. However, severe maternal stress or certain medications can have a small indirect effect.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

@@ -57,6 +57,11 @@ Typically four to six weeks after the miscarriage is complete, though it can var
 
 *This article is for informational purposes only and does not constitute medical advice. Always contact your midwife, GP, or maternity unit if you experience bleeding or pain in pregnancy. In an emergency, call 999.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 
   - empty-sac-at-8-weeks-what-next.md

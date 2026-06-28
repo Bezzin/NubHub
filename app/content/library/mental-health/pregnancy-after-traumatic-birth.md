@@ -80,10 +80,14 @@ If your previous birth caused significant and ongoing distress — flashbacks, n
 
 Not necessarily. Depending on your clinical history and circumstances, you may be able to discuss alternatives including a different hospital, a midwife-led unit, or a home birth. Talk honestly with your midwife and, if needed, a consultant about what environment would feel safest for you. Your preferences matter and should be part of the conversation.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Talk to your midwife or GP about how you're feeling — there is specialist support available and you deserve to be heard. This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

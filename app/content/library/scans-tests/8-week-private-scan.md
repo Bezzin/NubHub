@@ -100,6 +100,10 @@ Possibly. At 8 weeks, babies can move, and some parents see tiny twitches on the
 
 Yes. The CRL measurement at 8 weeks is accurate to about 5 days. This is one of the most reliable times to date a pregnancy.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

@@ -74,3 +74,9 @@ No. Intrusive thoughts — including disturbing thoughts about the baby — are 
 CBT with Exposure and Response Prevention (ERP) is the first-line recommended treatment and is available through NHS Talking Therapies (formerly IAPT) or specialist perinatal mental health services. Some SSRIs are also used in pregnancy when the clinical need is significant. Your GP can discuss what is appropriate for your situation.
 
 Always speak to your midwife or GP for personal advice about managing OCD during pregnancy.
+
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+

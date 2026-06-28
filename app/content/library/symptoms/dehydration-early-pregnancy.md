@@ -227,6 +227,10 @@ Yes, severe dehydration can be dangerous. It can cause electrolyte imbalances, l
 
 Yes, Dioralyte and other oral rehydration salts are safe in pregnancy. They're available from pharmacies without a prescription and can help replace electrolytes lost through vomiting. However, if you can't keep them down, you may need IV fluids.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

@@ -59,6 +59,11 @@ Ask your midwife or doctor. They may advise modifying or pausing exercise until 
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
-- [bleeding-in-early-pregnancy](/complications/bleeding-in-early-pregnancy)
+- [bleeding-in-early-pregnancy](/complications/bleeding-at-12-weeks-pregnant)
 - [early-pregnancy-scans](/antenatal-care/early-pregnancy-scans)

@@ -89,4 +89,3 @@ Mild, period-like cramping can be normal in early pregnancy as your uterus grows
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

@@ -65,6 +65,10 @@ A blighted ovum (anembryonic pregnancy) is a type of early pregnancy loss in whi
 
 Speak to your midwife, GP, or Early Pregnancy Unit for personalised guidance based on your specific scan findings.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

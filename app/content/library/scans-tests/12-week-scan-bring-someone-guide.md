@@ -51,3 +51,8 @@ If the sonographer detects a concern, they will usually ask your partner to step
 - Private clinics are more flexible about visitors.
 - Always confirm your local hospital policy before the day.
 - Having support with you can make the scan a positive shared experience.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

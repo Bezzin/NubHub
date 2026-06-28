@@ -79,4 +79,8 @@ Yes, in some women. Ginger can relax the lower oesophageal sphincter, which may 
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP, midwife or obstetrician before trying new remedies during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-acupressure-bands, morning-sickness-vitamin-b6, morning-sickness-dry-crackers

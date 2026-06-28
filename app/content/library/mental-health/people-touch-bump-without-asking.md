@@ -70,6 +70,11 @@ Repeat offenders — particularly close family — may need a more direct conver
 
 Many women find that bump-touching increases as the pregnancy becomes more visible. Planning your responses in advance — and telling the people you see regularly how you feel — can make it much easier to manage. You may also find that your tolerance varies depending on who is doing it; many women are comfortable with their partner or a close friend touching their bump but not with acquaintances or strangers.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *If unwanted touch or boundary violations during pregnancy are affecting your mental health, speak to your midwife or GP — support is available.*

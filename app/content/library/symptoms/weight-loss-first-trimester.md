@@ -87,6 +87,10 @@ For most women, nausea and appetite improve around weeks 12 to 14, and weight ga
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [How Much Weight Should You Gain in First Trimester?](/symptoms/pregnancy-weight-gain-first-trimester)
 - [Loss of Appetite in Early Pregnancy](/symptoms/loss-of-appetite-early-pregnancy)

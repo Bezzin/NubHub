@@ -101,6 +101,10 @@ Possibly. If the CRL is more than 5-7 days ahead of your dates at the 12-week sc
 
 Not usually in the first trimester. Gestational diabetes typically develops later in pregnancy and is usually diagnosed by a glucose tolerance test at 24-28 weeks. However, if you have risk factors, your midwife may test earlier.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

@@ -92,6 +92,10 @@ Prices vary between clinics and the type of scan. A basic early reassurance scan
 
 Some clinics offer scans from 6 weeks of pregnancy, usually using an internal (transvaginal) scan for clearer images at that stage. A heartbeat is often visible from around 6 to 7 weeks, though not always — this is normal and does not necessarily indicate a problem. A repeat scan a week later can help clarify the situation if no heartbeat is seen at an early scan.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Always speak to your midwife or GP if you have specific questions about your pregnancy or scan results.*

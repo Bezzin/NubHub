@@ -74,6 +74,10 @@ Follow the guidance your EPU or sonographer has given you. Try to rest, stay hyd
 
 Yes. If the NHS waiting time for a repeat scan feels too long to bear, private early pregnancy clinics can often offer appointments within a few days. Make sure to share the results with your NHS care team so they have a full picture.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy and circumstances.*

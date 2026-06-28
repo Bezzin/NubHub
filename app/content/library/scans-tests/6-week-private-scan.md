@@ -108,6 +108,10 @@ Almost always. At 6 weeks, the baby is too small and deep in the pelvis for an a
 
 It doesn't necessarily mean the pregnancy has failed. You may simply be earlier than expected. The sonographer will ask you to return in 7-14 days for a repeat scan.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

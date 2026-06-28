@@ -83,6 +83,11 @@ Distraction, maintaining routine, talking to trusted people, and limiting pregna
 
 Yes. Protective detachment — holding back excitement in order to protect yourself from potential pain — is a common and understandable response after pregnancy loss. It does not mean you will not bond with your baby. Many women find that excitement and attachment grow gradually as the pregnancy progresses and they reach milestones that felt uncertain. Be patient with yourself.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

@@ -98,5 +98,4 @@ The NHS recommends a maximum of 200mg of caffeine per day during pregnancy. This
 
 **Related articles:**
 - [Can I Drink Raw Milk Pregnant?](/nutrition/can-i-drink-raw-milk-pregnant)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

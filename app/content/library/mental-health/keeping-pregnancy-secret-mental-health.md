@@ -67,6 +67,11 @@ There is no rule about this. Medically, you can tell anyone you like at any poin
 
 This is one of the most common reasons people wait to announce, and the fear is entirely understandable. It is worth knowing, though, that most people who have a miscarriage say they were glad to have told someone — having support during that experience matters. You can choose to tell people with the caveat that it is very early, and update them if circumstances change.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP if you are finding the emotional demands of early pregnancy difficult — support is available from the moment you confirm your pregnancy.*

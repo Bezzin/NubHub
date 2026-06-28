@@ -82,8 +82,11 @@ Yes! Implantation bleeding is actually a sign of pregnancy. It occurs when the e
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
 - [When to Call 111 in Pregnancy](/complications/when-to-call-111-pregnancy)
 - [Bleeding in Early Pregnancy](/symptoms/bleeding-early-pregnancy)

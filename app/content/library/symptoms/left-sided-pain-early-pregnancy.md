@@ -70,6 +70,10 @@ Yes. The descending colon runs down the left side of the abdomen, and constipati
 
 If the pain is severe, you have vaginal bleeding, shoulder tip pain, or you feel dizzy or faint, call 999 immediately. These symptoms can indicate a ruptured ectopic pregnancy, which is a medical emergency requiring urgent treatment.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

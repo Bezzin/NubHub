@@ -3,8 +3,8 @@ title: "When to Call 111 in Pregnancy: Warning Signs & Red Flags | Nub Hub"
 description: "When should you call 111 in pregnancy? Complete guide to pregnancy warning signs, red flag symptoms, and when to seek emergency help."
 slug: "/complications/when-to-call-111-pregnancy"
 category: "complications"
-tags: ['when-to-call-111-in-pregnancy:-warning-signs-&-red-flags', 'complications', 'pregnancy']
-keywords: ['when-to-call-111-in-pregnancy:-warning-signs-&-red-flags', 'When should you call 111 in pregnancy? Complete guide to pre']
+tags: ["pregnancy warning signs", "call 111 pregnancy", "pregnancy emergencies"]
+keywords: ["pregnancy red flags", "when to call 111 pregnant", "pregnancy emergency symptoms"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -114,6 +114,11 @@ An EPU is a specialist NHS clinic that assesses women in the first 16 weeks of p
 *This article is for informational purposes only and does not constitute medical advice. Always consult your midwife, GP, or call 111 if you are concerned about any symptoms in pregnancy.*
 
 *Last reviewed: June 2026*
+
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
 
 **Related articles:**
 - [Bleeding in Early Pregnancy](/symptoms/bleeding-early-pregnancy)

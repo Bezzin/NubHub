@@ -86,6 +86,10 @@ Food aversions are common. If one safe food is all you can manage, eat it. Try t
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Can't Eat Properly in First Trimester](/symptoms/cant-eat-first-trimester)
 - [Morning Sickness Complete Guide](/symptoms/morning-sickness-complete-guide)

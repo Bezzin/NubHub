@@ -88,4 +88,3 @@ Speak to your midwife or GP if you have any concerns about your health or your b
 
 **Related articles:**
 - [Pregnancy Symptoms Guide](/symptoms/pregnancy-symptoms-complete-guide)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

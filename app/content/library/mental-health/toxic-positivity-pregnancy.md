@@ -75,6 +75,11 @@ It can feel uncomfortable, but being direct and kind at the same time is possibl
 
 Your midwife is your first point of contact. They can refer you to perinatal mental health services, peer support groups, or NHS Talking Therapies. You can also self-refer to NHS Talking Therapies in most areas. If you are in emotional distress and need to talk to someone urgently, the Samaritans are available 24 hours a day on 116 123.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Speak to your midwife or GP for personal advice about your emotional wellbeing during pregnancy.*

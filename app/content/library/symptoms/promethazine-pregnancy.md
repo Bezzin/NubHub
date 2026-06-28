@@ -210,6 +210,10 @@ If promethazine isn't working after 48-72 hours, your GP can add a second medica
 
 Most women only need anti-sickness medication for the first trimester. However, some women with HG need medication throughout pregnancy. Your GP will review your medication regularly and reduce it when appropriate.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

@@ -59,6 +59,10 @@ You can choose to wait for natural loss, take medication to start the process, o
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [chemical-pregnancy-what-is-it](/complications/chemical-pregnancy-what-is-it)
-- [early-pregnancy-loss-support](/mental-health/early-pregnancy-loss-support)

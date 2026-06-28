@@ -77,3 +77,9 @@ For the first seven days you can self-certify, meaning you simply tell your empl
 No. Under the Equality Act 2010, absence related to pregnancy — including miscarriage — must not be counted against your standard sickness record. If your employer includes it in an attendance review, uses it as grounds for disciplinary action, or treats you less favourably because of it, this may constitute pregnancy discrimination. Seek advice from ACAS or Citizens Advice if this happens.
 
 Speak to your GP or midwife for support after a miscarriage — they can provide fit notes, make referrals, and help you access the care you need during your recovery.
+
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+

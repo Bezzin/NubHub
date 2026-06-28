@@ -187,6 +187,10 @@ Gradual symptom easing around weeks 9-12 is normal. Sudden disappearance of all 
 
 A scan showing a heartbeat is the most reliable sign. At 7-8 weeks, this reduces miscarriage risk to approximately 5%. At 10-12 weeks, it drops to 3%.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

@@ -99,5 +99,4 @@ Absolutely. Names cross borders all the time, and choosing a name from any cultu
 *Speak to your midwife or GP if you have any questions about your pregnancy — and enjoy the journey of choosing your baby's name.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

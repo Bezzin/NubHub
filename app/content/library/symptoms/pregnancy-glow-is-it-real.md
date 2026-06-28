@@ -59,6 +59,10 @@ The extra blood volume and hormone-driven oiliness settle after delivery, so the
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Pregnancy Superfoods Guide](/symptoms/pregnancy-superfoods-guide)
 - [How Much Water in Pregnancy](/symptoms/how-much-water-pregnancy)

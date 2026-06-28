@@ -71,3 +71,8 @@ Yes. Many pregnancies where a slow heartbeat is seen at 6 weeks go on to show a 
 In most cases, the early pregnancy unit (EPU) is the right place to go if you have concerns, rather than A&E. EPUs have specialist staff and equipment for early pregnancy scans. If you are experiencing heavy bleeding, severe pain, or feel very unwell, call 999 or go to A&E immediately. For non-emergency concerns outside of EPU hours, call 111 for guidance.
 
 *Speak to your midwife or GP for personalised advice about your scan results or any concerns during early pregnancy.*
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

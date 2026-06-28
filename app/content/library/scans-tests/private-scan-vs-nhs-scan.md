@@ -115,6 +115,10 @@ No. A private dating scan won't give you the combined screening results unless y
 
 Yes, a diagnostic private scan can detect many issues, but the NHS is responsible for your ongoing care. If a private scan finds a concern, you'll be referred back to the NHS for management.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

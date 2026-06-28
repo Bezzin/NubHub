@@ -90,6 +90,6 @@ Yes, spinach is safe and beneficial in pregnancy. It is a good source of folate 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
 **Related articles:**
-- [Foods to Avoid in Pregnancy](/nutrition/foods-avoid-pregnancy)
+- [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
 - [Can I Eat Pre-Washed Salads Pregnant](/nutrition/can-i-eat-pre-washed-salads-pregnant)
 - [Listeria in Pregnancy](/nutrition/listeria-pregnancy-symptoms-prevention)

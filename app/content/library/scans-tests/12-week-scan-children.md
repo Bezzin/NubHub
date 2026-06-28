@@ -98,6 +98,10 @@ If your child becomes distressed, the sonographer may ask you to pause the scan 
 
 Generally yes. Private clinics tend to have larger rooms, more relaxed policies, and a focus on the experience. Many actively welcome siblings.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

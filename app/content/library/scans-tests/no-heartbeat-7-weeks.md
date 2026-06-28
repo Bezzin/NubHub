@@ -103,6 +103,10 @@ Yes, absolutely — if the reason was a dating error. Many women who are told th
 
 No. Keep taking your folic acid and prenatal vitamins until you know for certain what's happening. Stopping them won't change the outcome, and if the pregnancy is continuing, you still need them.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

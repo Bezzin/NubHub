@@ -87,6 +87,10 @@ Yes, occasionally. If your spotting increases, turns bright red, or you begin pa
 
 Mild period-like cramps alongside light spotting can be normal as your womb grows and adjusts. However, severe or one-sided pain combined with any bleeding needs urgent assessment, as it can be a sign of ectopic pregnancy.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

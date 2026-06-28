@@ -81,10 +81,13 @@ Yes, completely. Many people find a daily nap is the only way to get through the
 
 It is possible. Iron-deficiency anaemia is very common in pregnancy and causes fatigue, breathlessness, and pallor. Your midwife will check your blood count at your booking appointment and later in pregnancy. If you feel your tiredness is extreme or is accompanied by breathlessness or heart palpitations, mention it at your next appointment so your levels can be checked.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about your pregnancy symptoms.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

@@ -200,6 +200,10 @@ Most women only need cyclizine for the first trimester. However, some women with
 
 If cyclizine isn't working after 48-72 hours, your GP can add a second medication (like prochlorperazine or ondansetron), switch you to a different medication, or refer you to a specialist. Don't accept being told there's nothing else - there are several options.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

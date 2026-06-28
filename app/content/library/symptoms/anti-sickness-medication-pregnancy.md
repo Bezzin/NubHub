@@ -208,6 +208,10 @@ Most women only need medication for the first trimester. However, some women wit
 
 If one medication isn't working after 48-72 hours, your GP can prescribe a different one or combine medications. Many women need two or more medications to manage HG. Don't accept being told "there's nothing else" - there are several options.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

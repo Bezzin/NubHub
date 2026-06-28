@@ -86,4 +86,8 @@ Around 5 to 10 grams is plenty. The aim is steady, frequent intake throughout th
 
 *This information is for general educational purposes only and does not replace professional medical advice. Always speak to your GP or midwife before trying new remedies during pregnancy, and seek urgent help if you cannot keep fluids down or symptoms become severe.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** morning-sickness-small-meals, morning-sickness-dry-crackers, morning-sickness-plain-foods

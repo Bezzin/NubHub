@@ -84,5 +84,4 @@ Having no symptoms at 5 weeks is completely normal. Symptoms vary enormously bet
 *For personalised advice about your pregnancy at 5 weeks, speak to your GP or midwife.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

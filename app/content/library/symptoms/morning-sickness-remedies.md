@@ -73,8 +73,11 @@ Studies are mixed, but many women report relief. They're inexpensive and safe to
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
 - [When to Call 111 in Pregnancy](/complications/when-to-call-111-pregnancy)
 - [Bleeding in Early Pregnancy](/symptoms/bleeding-early-pregnancy)

@@ -62,3 +62,9 @@ Physical recovery usually takes one to two weeks, though fatigue and hormonal sy
 Yes, very. Fear of another miscarriage is one of the most common feelings people describe after pregnancy loss. This anxiety is understandable and does not mean something will go wrong again. If anxiety about a future pregnancy feels overwhelming, talking to a counsellor or your GP before you start trying can be helpful.
 
 Speak to your GP or midwife for personalised advice about your physical and emotional recovery after miscarriage — you do not have to manage this alone.
+
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+

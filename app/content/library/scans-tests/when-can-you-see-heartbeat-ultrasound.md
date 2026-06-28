@@ -78,6 +78,10 @@ Many clinics will turn on the audio so you can hear as well as see the heartbeat
 
 Speak to your midwife, GP, or early pregnancy unit for advice specific to your situation and scan findings.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

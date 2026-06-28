@@ -235,6 +235,10 @@ With proper treatment, most babies of mothers with HG are born healthy. However,
 
 Yes. There are several safe anti-sickness medications available on prescription for HG. These include cyclizine, promethazine, prochlorperazine, and ondansetron. Read our guide to [anti-sickness medication in pregnancy](/symptoms/anti-sickness-medication-pregnancy) for details.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

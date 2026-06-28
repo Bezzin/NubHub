@@ -51,3 +51,8 @@ If the image is poor, the sonographer may ask you to drink more water and wait 2
 - You should feel full but not in severe pain.
 - Tell staff if you cannot hold on rather than suffering.
 - If the view is unclear, the sonographer has options including a rescan or transvaginal approach.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

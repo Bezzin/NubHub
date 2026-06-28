@@ -3,8 +3,8 @@ title: "Your Booking Appointment: What to Expect at Your First Midwife Visit | N
 description: "What happens at your booking appointment? Complete guide to your first midwife visit at 8-10 weeks, including tests, questions, and what to bring."
 slug: "/scans-tests/booking-appointment-guide"
 category: "scans-tests"
-tags: ['your-booking-appointment:-what-to-expect-at-your-first-midwife-visit', 'scans tests', 'pregnancy']
-keywords: ['your-booking-appointment:-what-to-expect-at-your-first-midwife-visit', 'What happens at your booking appointment? Complete guide to ']
+tags: ["booking appointment", "first midwife visit", "antenatal care"]
+keywords: ["booking appointment pregnancy", "first midwife appointment", "antenatal appointment 8 weeks"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -84,6 +84,10 @@ Yes. Partners are welcome at all antenatal appointments, though some women prefe
 
 Contact your midwifery service as soon as possible to rebook. It is important to have your booking appointment before 10 weeks if you can, so that your 12-week scan can be arranged in time. Your GP surgery can help if you are unsure who to contact.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*
@@ -93,5 +97,5 @@ Contact your midwifery service as soon as possible to rebook. It is important to
 **Related articles:**
 - [12-Week Scan Guide](/scans-tests/12-week-scan-guide)
 - [NIPT Blood Test Guide](/scans-tests/nipt-blood-test-guide)
-- [Pregnancy Vitamins](/nutrition/pregnancy-vitamins-supplements)
+- [Pregnancy Vitamins](/nutrition/best-pregnancy-vitamins-uk-2025)
 - [What to Do When You Find Out You're Pregnant](/scans-tests/what-to-do-when-you-find-out-pregnant)

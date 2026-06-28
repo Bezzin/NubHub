@@ -69,6 +69,10 @@ If no heartbeat is found at 8 weeks, the sonographer and doctor will discuss the
 
 Speak to your midwife or GP for advice personalised to your pregnancy.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*

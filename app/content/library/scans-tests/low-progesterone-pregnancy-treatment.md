@@ -91,4 +91,8 @@ Yes. Progesterone pessaries, capsules, and injections are prescription-only medi
 
 *This information is for educational purposes only and is not a substitute for professional medical advice. Always consult your midwife, GP, or obstetrician about your individual results and care plan.*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:** [Early Pregnancy Blood Tests](/scans-tests/blood-tests-early-pregnancy-what-checked) | [hCG Levels Explained](/scans-tests/hcg-levels-normal-week-by-week) | [Anaemia in Pregnancy](/scans-tests/anaemia-early-pregnancy-guide)

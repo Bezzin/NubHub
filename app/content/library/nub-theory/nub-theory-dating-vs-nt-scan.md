@@ -95,4 +95,3 @@ Nub theory readings are generally considered most meaningful from around 12 week
 *This article is for informational purposes only and does not constitute medical advice. Nub theory is not a clinical tool and cannot confirm your baby's sex.*
 
 **Related articles:**
-- [When Is Dating Scan Uk](/nub-theory/when-is-dating-scan-uk)

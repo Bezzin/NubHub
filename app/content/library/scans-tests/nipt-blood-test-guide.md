@@ -3,8 +3,8 @@ title: "NIPT Blood Test: Complete Guide to Non-Invasive Prenatal Testing | Nub H
 description: "NIPT blood test explained: what it tests for, how accurate it is, cost in the UK, and whether you need it. Plus how NIPT compares to nub theory."
 slug: "/scans-tests/nipt-blood-test-guide"
 category: "scans-tests"
-tags: ['nipt-blood-test:-complete-guide-to-non-invasive-prenatal-testing', 'scans tests', 'pregnancy']
-keywords: ['nipt-blood-test:-complete-guide-to-non-invasive-prenatal-testing', 'NIPT blood test explained: what it tests for']
+tags: ["NIPT blood test", "prenatal testing", "non-invasive screening"]
+keywords: ["NIPT test UK", "non-invasive prenatal testing", "prenatal screening accuracy"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -97,6 +97,10 @@ Private NIPT results typically take around seven to ten working days from the da
 
 A high-risk NIPT result does not mean your baby definitely has a chromosomal condition. You will be offered a referral to a specialist — usually a fetal medicine unit — to discuss your options. Diagnostic tests such as CVS or amniocentesis can provide a definitive result. Your midwife or genetic counsellor will support you through this process and help you understand your choices.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*
@@ -107,4 +111,4 @@ A high-risk NIPT result does not mean your baby definitely has a chromosomal con
 - [12-Week Scan Guide](/scans-tests/12-week-scan-guide)
 - [Nub Theory vs NIPT](/nub-theory/nub-theory-vs-nipt)
 - [NT Scan Explained](/scans-tests/nt-scan-explained)
-- [Combined Screening Test](/scans-tests/combined-screening-test)
+- [Combined Screening Test](/scans-tests/combined-screening-test-guide)

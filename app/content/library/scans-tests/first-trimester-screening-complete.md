@@ -56,6 +56,10 @@ This is common. The dating scan is more accurate than calculating from your last
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 **Related articles:**
 - [Combined Screening Test Guide](/scans-tests/combined-screening-test-guide)
 - [Down Syndrome Screening Explained](/scans-tests/down-syndrome-screening-explained)

@@ -63,6 +63,9 @@ Any time you have a physical concern — bleeding, pain, reduced movement later 
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

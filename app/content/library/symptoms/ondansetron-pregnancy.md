@@ -209,6 +209,10 @@ Yes, constipation is a common side effect of ondansetron. It slows the digestive
 
 Most women only need anti-sickness medication for the first trimester. However, some women with HG need medication throughout pregnancy. Your GP will review your medication regularly and reduce it when appropriate.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

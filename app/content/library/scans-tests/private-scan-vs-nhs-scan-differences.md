@@ -52,3 +52,8 @@ For clinical screening, anomaly detection, and anything that may require follow-
 - Costs range from around 40 to 150+ for private packages.
 - Always verify sonographer qualifications at private clinics.
 - Many women use a mix of both for reassurance and clinical care.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

@@ -87,6 +87,9 @@ Yes. Some women have very few or no noticeable symptoms in the first trimester a
 
 *Always speak to your midwife or GP for advice that is personal to your pregnancy.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [No Morning Sickness — Is It Normal?](/symptoms/no-morning-sickness-normal-guide)

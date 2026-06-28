@@ -62,3 +62,8 @@ A blighted ovum (also called an anembryonic pregnancy) is when a gestational sac
 Not unless you have symptoms of an ectopic pregnancy — severe one-sided pain, shoulder tip pain, heavy bleeding, or feeling faint. For an empty sac without those symptoms, contact your EPU or midwife and follow their advice on when to return for a repeat scan.
 
 Always speak to your midwife or GP for personal advice about your individual scan findings.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

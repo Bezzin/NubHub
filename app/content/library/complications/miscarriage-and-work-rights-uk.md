@@ -67,6 +67,11 @@ Before 24 weeks, if you take sick leave you may be entitled to Statutory Sick Pa
 
 No. Any sickness absence that is connected to your pregnancy — including a miscarriage — must not be used against you in absence management processes or trigger disciplinary procedures. This is a legal protection under the Equality Act 2010 and the Maternity and Parental Leave Regulations. If you believe your employer has counted a miscarriage-related absence against you, seek advice from ACAS or an employment solicitor.
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *If you are struggling after a miscarriage, please speak to your GP — they can support you with both physical recovery and accessing emotional or bereavement support.*

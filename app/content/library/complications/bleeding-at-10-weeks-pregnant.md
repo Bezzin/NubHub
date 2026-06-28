@@ -76,6 +76,11 @@ Any bleeding at 10 weeks should be assessed by a healthcare professional. Seek s
 
 For mild to moderate bleeding without severe pain, contact your GP, midwife, or EPU for an urgent appointment. For heavy bleeding, severe pain, shoulder tip pain, or if you feel faint or very unwell, go to A&E or call 999. If you are unsure, call 111 for guidance.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about any bleeding in pregnancy.*
@@ -83,5 +88,4 @@ For mild to moderate bleeding without severe pain, contact your GP, midwife, or 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

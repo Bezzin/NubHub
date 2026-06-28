@@ -84,5 +84,4 @@ If anxiety and communication difficulties are creating real tension in your rela
 *Your midwife or GP can refer you to perinatal mental health support — you don't need to be in crisis to ask for help. This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

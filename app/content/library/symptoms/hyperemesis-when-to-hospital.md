@@ -199,6 +199,10 @@ You can refuse treatment, but HG can become dangerous if untreated. Severe dehyd
 
 Some women need one admission and are then stable. Others need multiple admissions during their pregnancy, especially before week 14. This is normal and not a sign of failure - HG is unpredictable.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

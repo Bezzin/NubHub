@@ -57,6 +57,11 @@ Untreated depression can affect your ability to care for yourself, attend appoin
 
 Talking therapies such as CBT are first-line and have no physical risks in pregnancy. Some antidepressants are considered safe and are prescribed when the benefits outweigh the risks. Your GP can advise on options specific to your circumstances and how far along you are.
 
+
+**Further reading:**
+- [NHS — Depression](https://www.nhs.uk/mental-health/conditions/depression/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about mental health during pregnancy.*

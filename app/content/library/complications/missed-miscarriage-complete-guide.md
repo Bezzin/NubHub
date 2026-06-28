@@ -49,6 +49,11 @@ Yes. ERPC is a common, short procedure with low complication rates. It may be re
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 **Related articles:**
 - [How Is Missed Miscarriage Diagnosed](/complications/how-is-missed-miscarriage-diagnosed)
 - [Signs Of Miscarriage Guide](/complications/signs-of-miscarriage-guide)

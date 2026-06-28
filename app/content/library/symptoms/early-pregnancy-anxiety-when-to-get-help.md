@@ -90,10 +90,13 @@ No. Asking for mental health support during pregnancy is a sign of self-awarenes
 
 Speak to your midwife or GP for personalised advice about your emotional wellbeing during pregnancy.
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

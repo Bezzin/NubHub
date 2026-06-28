@@ -92,6 +92,10 @@ They're often most intense in the first and third trimesters. Many women find th
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:**
 - [Insomnia in Early Pregnancy](/symptoms/insomnia-early-pregnancy)
 - [Mood Swings in Early Pregnancy](/symptoms/mood-swings-early-pregnancy-guide)

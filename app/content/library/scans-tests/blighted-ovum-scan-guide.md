@@ -72,6 +72,10 @@ Yes, particularly if your dates are less certain than you think, or if ovulation
 
 A single blighted ovum does not mean it will happen again. Most people who experience one go on to have successful pregnancies. If you have three or more consecutive early pregnancy losses, your GP can refer you for investigations through the NHS recurrent miscarriage pathway.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *For personalised advice about your scan results or your options, speak to your midwife, GP, or early pregnancy unit team.*

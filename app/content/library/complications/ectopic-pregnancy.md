@@ -3,8 +3,8 @@ title: "Ectopic Pregnancy: Symptoms, Treatment & Recovery | Nub Hub"
 description: "Ectopic pregnancy explained: symptoms, pain, diagnosis, treatment options, and future fertility. Plus when it's an emergency."
 slug: "/complications/ectopic-pregnancy"
 category: "complications"
-tags: ['ectopic-pregnancy:-symptoms,-treatment-&-recovery', 'complications', 'pregnancy']
-keywords: ['ectopic-pregnancy:-symptoms,-treatment-&-recovery', 'Ectopic pregnancy explained: symptoms']
+tags: ["ectopic pregnancy", "complications", "pregnancy emergency"]
+keywords: ["ectopic pregnancy symptoms", "ectopic pregnancy treatment", "early pregnancy emergency"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -102,6 +102,11 @@ Yes, many people go on to have successful pregnancies after an ectopic. If one t
 ### Will I always need surgery for an ectopic pregnancy?
 
 Not necessarily. If the ectopic is detected early and your condition is stable, medical management with methotrexate or expectant monitoring may be appropriate. However, a ruptured ectopic always requires emergency surgery. The right treatment for you will be decided by your medical team based on your individual circumstances.
+
+
+**Further reading:**
+- [NHS — Ectopic pregnancy](https://www.nhs.uk/conditions/ectopic-pregnancy/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
 
 ---
 

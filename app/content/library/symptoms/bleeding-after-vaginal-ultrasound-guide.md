@@ -79,6 +79,10 @@ Yes, once any spotting has fully settled — usually after a day or two. It is s
 
 Not for light spotting. Phone your early pregnancy unit or call 111 first. A&E is appropriate if you experience heavy, uncontrolled bleeding or severe pain alongside bleeding.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

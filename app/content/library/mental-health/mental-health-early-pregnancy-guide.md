@@ -77,6 +77,11 @@ Some medications are considered safe in pregnancy and others are not. Never stop
 
 Call NHS 111 for non-emergency urgent advice, contact the Samaritans on 116 123 (free, any time), or speak to your maternity team. If you are in immediate danger, dial 999 or go to your nearest A&E.
 
+
+**Further reading:**
+- [NHS — Depression](https://www.nhs.uk/mental-health/conditions/depression/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about your mental health during pregnancy.*

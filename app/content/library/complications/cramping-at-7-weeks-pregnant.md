@@ -63,10 +63,14 @@ Seek prompt medical advice if your cramping is severe, getting worse over time, 
 
 For mild cramping without bleeding, you do not usually need A&E. Contact your GP, midwife, or Early Pregnancy Unit instead — they can arrange an assessment or scan. For severe pain, heavy bleeding, one-sided pain, or if you feel very unwell, go to A&E or call 999 straight away.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Speak to your midwife or GP for personal advice about any symptoms you are experiencing in pregnancy.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

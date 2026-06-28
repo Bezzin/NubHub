@@ -101,6 +101,10 @@ Loss of pregnancy symptoms (nausea, breast tenderness) can be a sign of miscarri
 
 No. The heart rate is determined by the baby's development, which you can't influence. If the pregnancy is viable, the heart rate will increase on its own. If it isn't, nothing you did caused it.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

@@ -79,6 +79,10 @@ Not usually. A mild pulling sensation that affects both sides, or alternates, is
 
 Rest, slow position changes, warm packs on the lower abdomen, and staying hydrated all help. If the discomfort is more significant, paracetamol is considered safe to take in pregnancy. Mention any persistent or worsening sensation to your midwife at your next appointment, or sooner if you are worried.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*

@@ -87,6 +87,10 @@ Don't panic. Tell the sonographer. They may still be able to get a good view, or
 
 Yes, there are no dietary restrictions before a 12-week scan. Eat normally — being hungry won't help you feel relaxed.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

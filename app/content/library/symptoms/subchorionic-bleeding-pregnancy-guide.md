@@ -68,6 +68,10 @@ Bed rest is not proven to help and is not standard NHS advice. Most midwives adv
 
 There is no specific medical treatment to make a haematoma disappear faster. Your body reabsorbs the blood or expels it as spotting. The focus of care is monitoring — follow-up scans to check the haematoma is shrinking and that the pregnancy is continuing well. Progesterone supplements are sometimes discussed but are not proven to affect haematoma outcomes; speak to your doctor if this is raised.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 Always contact your midwife, GP, or early pregnancy unit if you are concerned about bleeding or pain during pregnancy. In an emergency, call 999.

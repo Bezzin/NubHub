@@ -78,10 +78,14 @@ Secondary tocophobia, rooted in a traumatic previous birth, is very common and v
 
 Please speak to your midwife or GP about how you're feeling — support is available, and you deserve to approach your birth with as much calm and confidence as possible.
 
+
+**Further reading:**
+- [NHS — Mental health in pregnancy](https://www.nhs.uk/mental-health/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

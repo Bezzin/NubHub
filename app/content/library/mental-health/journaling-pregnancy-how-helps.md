@@ -65,10 +65,14 @@ It can take the edge off by getting worries out of your head and onto the page, 
 
 If your mental health is struggling, speak to your midwife or GP for personal advice and support.
 
+
+**Further reading:**
+- [NHS — Anxiety](https://www.nhs.uk/mental-health/conditions/anxiety/)
+- [Tommy's — mental health in pregnancy](https://www.tommys.org/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

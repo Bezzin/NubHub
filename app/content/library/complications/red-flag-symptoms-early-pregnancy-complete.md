@@ -88,6 +88,11 @@ It depends on the severity. Call 999 or go to A&E immediately if bleeding is hea
 
 If you suspect an ectopic pregnancy — particularly if you have severe one-sided lower abdominal pain, shoulder tip pain, or you feel faint alongside any bleeding — call 999 or go to A&E immediately. Do not wait. An ectopic pregnancy that ruptures is life-threatening. Risk factors include a previous ectopic pregnancy, previous pelvic inflammatory disease, IUD in place at time of conception, or previous fallopian tube surgery, but ectopic pregnancy can happen without any known risk factors.
 
+
+**Further reading:**
+- [NHS — Pregnancy complications and conditions](https://www.nhs.uk/pregnancy/related-conditions/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*

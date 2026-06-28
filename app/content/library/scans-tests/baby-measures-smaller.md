@@ -104,6 +104,10 @@ No. A baby that measures small in the first trimester is usually just small for 
 
 Not necessarily. Eating more won't directly make your baby bigger in the first trimester. A balanced, nutrient-rich diet is more important than extra calories. Talk to your midwife about your specific situation.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

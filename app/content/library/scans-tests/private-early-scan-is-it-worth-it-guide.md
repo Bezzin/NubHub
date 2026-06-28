@@ -51,3 +51,8 @@ There is no right or wrong answer. If reassurance will help you sleep at night a
 - Before 7 weeks, results can be inconclusive and a rescan may be needed.
 - Always choose a clinic with qualified, registered sonographers.
 - For low-risk pregnancies, the NHS 12-week scan is usually sufficient.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

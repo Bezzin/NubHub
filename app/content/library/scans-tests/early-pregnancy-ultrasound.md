@@ -92,6 +92,10 @@ Private clinics almost always provide photos or digital images. NHS early pregna
 
 Prices vary across the UK but typically range from £50 to £150 depending on the clinic and what's included. Some packages include a heartbeat recording or a short video.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

@@ -91,6 +91,10 @@ Not necessarily. If a transvaginal scan gives a clear view, the sonographer can 
 
 If you have no bleeding or pain, the chance of a good outcome is higher. Many women who are told the baby can't be seen go on to have perfectly healthy pregnancies — they were simply earlier than expected.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

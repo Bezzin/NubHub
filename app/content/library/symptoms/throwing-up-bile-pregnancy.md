@@ -184,6 +184,10 @@ Go to hospital if you can't keep any water down for 12+ hours, have no urine for
 
 Vomiting bile itself won't harm your baby. The concern is dehydration and malnutrition from not being able to keep food and fluids down. Getting treatment for the underlying nausea and vomiting protects both you and your baby.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

@@ -3,8 +3,8 @@ title: "NT Scan (Nuchal Translucency) Explained: What's Normal? | Nub Hub"
 description: "What is the NT scan and what's a normal nuchal translucency measurement? Complete guide to the 12-week screening test."
 slug: "/scans-tests/nt-scan-explained"
 category: "scans-tests"
-tags: ["nt-scan-(nuchal-translucency)-explained:-what's-normal?", 'scans tests', 'pregnancy']
-keywords: ["nt-scan-(nuchal-translucency)-explained:-what's-normal?", "What is the NT scan and what's a normal nuchal translucency "]
+tags: ["NT scan", "nuchal translucency", "12 week screening"]
+keywords: ["NT scan normal range", "nuchal translucency measurement", "12 week screening test"]
 author: "Nub Hub Team"
 medical_reviewer: "Reviewed by the Nub Hub editorial team"
 last_updated: "2026-06-22"
@@ -79,6 +79,10 @@ Yes. All screening tests in pregnancy are optional. You can decline the NT scan 
 
 The NT measurement itself is available immediately — the sonographer will usually tell you the number during your scan appointment. The combined screening result, which incorporates your blood test, typically takes a few working days. Your maternity team will contact you, so you do not need to chase results unless you have not heard within two weeks.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 Always speak to your midwife or GP if you have questions about your NT scan or screening results — they can explain what the figures mean for your specific situation.
@@ -88,5 +92,5 @@ Always speak to your midwife or GP if you have questions about your NT scan or s
 **Related articles:**
 - [12-Week Scan Guide](/scans-tests/12-week-scan-guide)
 - [NIPT Blood Test Guide](/scans-tests/nipt-blood-test-guide)
-- [Combined Screening Test](/scans-tests/combined-screening-test)
+- [Combined Screening Test](/scans-tests/combined-screening-test-guide)
 - [What to Do When You Find Out Pregnant](/scans-tests/what-to-do-when-you-find-out-pregnant)

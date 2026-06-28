@@ -51,3 +51,8 @@ Drink water so your bladder is moderately full if an abdominal scan is planned. 
 - Transvaginal scans are common but abdominal may work at 8 weeks.
 - If results are unclear, a rescan is normal and not automatically bad news.
 - You will usually leave with photos, a report, and a due date estimate.
+
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+

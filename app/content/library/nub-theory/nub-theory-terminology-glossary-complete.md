@@ -78,5 +78,4 @@ Nub theory is not a medical test. When the nub is clearly visible and measured b
 *Always speak to your midwife or GP for personal advice about pregnancy scans and testing.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

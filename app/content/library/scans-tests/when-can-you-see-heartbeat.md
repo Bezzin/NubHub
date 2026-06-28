@@ -100,6 +100,10 @@ Seeing a heartbeat greatly reduces the risk of miscarriage, but it doesn't elimi
 
 A heart rate below 80-90 bpm at 6 weeks may be considered slow. This can mean the heart has only just started beating. A repeat scan in a week will usually show whether the rate has increased to a normal level.
 
+
+**Further reading:**
+- [NHS — Antenatal care and screening](https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your healthcare provider.*

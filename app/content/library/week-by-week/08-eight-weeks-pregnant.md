@@ -85,8 +85,7 @@ Focus on a balanced diet with plenty of fruit, vegetables, whole grains, lean pr
 *Last reviewed: June 2026*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
 - [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
-- [Pregnancy Vitamins](/nutrition/pregnancy-vitamins-supplements)
+- [Pregnancy Vitamins](/nutrition/best-pregnancy-vitamins-uk-2025)
 - [9 Weeks Pregnant](/week-by-week/nine-weeks-pregnant)

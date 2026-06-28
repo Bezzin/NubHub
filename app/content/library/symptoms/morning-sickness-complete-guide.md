@@ -84,8 +84,11 @@ Yes. Despite the name, morning sickness can happen at any time. Some women feel 
 
 *Last reviewed: June 2026*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
 - [When to Call 111 in Pregnancy](/complications/when-to-call-111-pregnancy)
 - [Bleeding in Early Pregnancy](/symptoms/bleeding-early-pregnancy)

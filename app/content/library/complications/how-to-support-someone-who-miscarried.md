@@ -81,10 +81,14 @@ Don't just check in once. Support tends to arrive in a rush immediately after th
 
 Follow the person's lead. Some people name the baby they have lost and find it comforting when others acknowledge that name. Others prefer not to. If you're unsure, it's fine to ask gently — "Is there anything you'd like me to call the baby, or would you rather I didn't?" — and then do whatever they prefer.
 
+
+**Further reading:**
+- [NHS — Miscarriage](https://www.nhs.uk/conditions/miscarriage/)
+- [Tommy's — pregnancy complications support and research](https://www.tommys.org/)
+
 ---
 
 *Always speak to your midwife or GP for personal advice about your pregnancy and emotional wellbeing.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

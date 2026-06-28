@@ -82,6 +82,5 @@ Many women find plain, cold yoghurt easy to manage when morning sickness is maki
 
 **Related articles:**
 - [Foods to Avoid in Pregnancy](/nutrition/foods-to-avoid-pregnancy)
-- [Pregnancy Vitamins](/nutrition/pregnancy-vitamins-supplements)
+- [Pregnancy Vitamins](/nutrition/best-pregnancy-vitamins-uk-2025)
 - [Healthy Diet in Pregnancy](/nutrition/healthy-diet-pregnancy)
-- [First Trimester Guide](/week-by-week/first-trimester-guide)

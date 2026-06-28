@@ -83,6 +83,10 @@ Cramping that is severe, persistent, or one-sided warrants same-day contact with
 
 Yes. Many women describe early pregnancy cramping as feeling very similar to their usual period pain — a dull, low abdominal ache. This is typically caused by the uterus expanding, hormonal changes, and round ligament stretching. It is one of the most common early pregnancy experiences and is usually nothing to worry about. Mention it at your booking appointment so it can be noted, and contact your midwife sooner if the pain worsens or you develop any other symptoms.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your midwife or GP with any concerns about symptoms in pregnancy.*
@@ -90,7 +94,6 @@ Yes. Many women describe early pregnancy cramping as feeling very similar to the
 *Last reviewed: June 2026*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)
 - [When to Call 111 in Pregnancy](/complications/when-to-call-111-pregnancy)
 - [Bleeding in Early Pregnancy](/symptoms/bleeding-early-pregnancy)

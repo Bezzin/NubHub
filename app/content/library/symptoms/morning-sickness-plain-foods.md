@@ -110,4 +110,8 @@ They are a practical short-term fallback, not a long-term diet. Plain carbohydra
 
 *Always speak to your midwife or GP for advice tailored to your personal circumstances, and seek urgent help if you cannot keep fluids down or symptoms become severe.*
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 **Related articles:** [Dry Crackers for Morning Sickness](/symptoms/morning-sickness-dry-crackers), [Cold Foods for Morning Sickness](/symptoms/morning-sickness-cold-foods), [Small Meals for Morning Sickness](/symptoms/morning-sickness-small-meals)

@@ -98,4 +98,8 @@ Go to A&E immediately — or call 999 — if the pain is severe, if you have any
 
 *This information is for educational purposes only and does not replace professional medical advice. Always contact your midwife, GP, or early pregnancy unit if you are concerned about any symptoms in pregnancy. In an emergency, call 999.*
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 **Related articles:** [Spotting in Early Pregnancy](/symptoms/spotting-early-pregnancy-complete-guide) | [Red Bleeding in Early Pregnancy](/symptoms/red-bleeding-early-pregnancy-when-999) | [Coping While Waiting for a Scan](/symptoms/coping-while-waiting-scan-after-bleeding)

@@ -211,6 +211,10 @@ Yes. Private obstetricians and gastroenterologists can help with HG if you're no
 
 Most women need medication until symptoms ease - typically weeks 14-20. Some women need medication throughout pregnancy. Your medication will be reviewed regularly and reduced when appropriate.
 
+
+**Further reading:**
+- [NHS — Vomiting and morning sickness in pregnancy](https://www.nhs.uk/conditions/vomiting-and-morning-sickness/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult your GP or midwife with any concerns about your pregnancy.*

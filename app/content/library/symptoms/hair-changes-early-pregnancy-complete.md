@@ -72,10 +72,13 @@ Yes, this is expected and is one of the reasons pregnancy hair often feels thick
 
 Speak to your midwife or GP if you have concerns about your hair changes during or after pregnancy.
 
+
+**Further reading:**
+- [NHS — Common pregnancy symptoms](https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/)
+
 ---
 
 *This article is for informational purposes only and does not constitute medical advice.*
 
 **Related articles:**
-- [First Trimester Guide](/week-by-week/first-trimester-guide)
 - [Pregnancy Symptoms](/symptoms/pregnancy-symptoms-complete-guide)

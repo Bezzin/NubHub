@@ -98,6 +98,6 @@ Nub theory is generally considered unreliable before 11 weeks, because the nub h
 *Always speak to your midwife or GP for advice tailored to your personal circumstances.*
 
 **Related articles:**
-- [Nub Theory Explained](/nub-theory/nub-theory-explained)
+- [Nub Theory Explained](/nub-theory/what-is-nub-theory)
 - [Nub Theory Accuracy](/nub-theory/nub-theory-accuracy)
 - [No Nub Visible on Scan](/nub-theory/nub-theory-no-nub-visible)
