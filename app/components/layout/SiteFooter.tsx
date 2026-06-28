@@ -8,6 +8,20 @@ import { SUPPORT_EMAIL } from '@/lib/site';
  */
 const columns = [
   {
+    title: 'Pregnancy topics',
+    links: [
+      { href: '/week-by-week', label: 'Week by week' },
+      { href: '/symptoms', label: 'Symptoms' },
+      { href: '/scans-tests', label: 'Scans & tests' },
+      { href: '/nutrition', label: 'Nutrition' },
+      { href: '/mental-health', label: 'Mental health' },
+      { href: '/complications', label: 'Complications' },
+      { href: '/lifestyle', label: 'Lifestyle' },
+      { href: '/relationships', label: 'Relationships' },
+      { href: '/baby-prep', label: 'Baby prep' },
+    ],
+  },
+  {
     title: 'Guides',
     links: [
       { href: '/nub-theory', label: 'What is nub theory?' },
