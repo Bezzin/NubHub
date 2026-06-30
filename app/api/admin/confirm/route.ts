@@ -1,12 +1,14 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getPredictionById, updatePredictionUnclear, updatePredictionConfirmResult } from '@/lib/db'
 import { requireAdmin, internalAuthHeaders } from '@/lib/admin-auth'
+import { getAppOrigin } from '@/lib/app-url'
 
 export async function POST(request: NextRequest) {
   const denied = requireAdmin(request)
   if (denied) return denied
 
   try {
+    const appUrl = getAppOrigin()
     const { prediction_id, result } = await request.json()
 
     if (!prediction_id || !result) {
@@ -28,7 +30,7 @@ export async function POST(request: NextRequest) {
 
     if (result === 'unclear') {
       // Process refund and send unclear email
-      await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/refund/process`, {
+      await fetch(`${appUrl}/api/refund/process`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -44,7 +46,7 @@ export async function POST(request: NextRequest) {
       await updatePredictionUnclear(prediction_id)
 
       // Send unclear email via Resend MCP
-      await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/email/send-unclear`, {
+      await fetch(`${appUrl}/api/email/send-unclear`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -58,7 +60,7 @@ export async function POST(request: NextRequest) {
       // Send result email (boy or girl)
       const confidence = prediction.ai_confidence || 75
 
-      await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/email/send-result`, {
+      await fetch(`${appUrl}/api/email/send-result`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

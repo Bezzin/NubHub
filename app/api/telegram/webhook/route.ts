@@ -9,6 +9,7 @@ import {
   editTelegramMessageCaption,
 } from '@/lib/telegram'
 import { internalAuthHeaders } from '@/lib/admin-auth'
+import { getAppOrigin } from '@/lib/app-url'
 
 type CallbackQuery = {
   id: string
@@ -80,7 +81,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ ok: true })
     }
 
-    const appUrl = process.env.NEXT_PUBLIC_APP_URL
+    const appUrl = getAppOrigin()
 
     if (result === 'unclear') {
       // Process refund

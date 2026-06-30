@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getStripe } from '@/lib/stripe';
+import { getAppOrigin } from '@/lib/app-url';
 
 const UNIT_AMOUNT = 997; // £9.97 in pence
 const CURRENCY = 'gbp';
@@ -24,9 +25,7 @@ export async function POST(request: NextRequest) {
     // Normalise the base URL so a misconfigured NEXT_PUBLIC_APP_URL (missing
     // scheme, trailing slash, or blank) can't produce an invalid Stripe
     // return_url — which hard-fails checkout with `url_invalid`.
-    let appUrl = (process.env.NEXT_PUBLIC_APP_URL || '').trim().replace(/\/+$/, '');
-    if (!appUrl) appUrl = 'https://nubhub.baby';
-    else if (!/^https?:\/\//i.test(appUrl)) appUrl = `https://${appUrl}`;
+    const appUrl = getAppOrigin();
     const priceId = process.env.STRIPE_PRICE_ID;
     const descriptorSuffix = process.env.STRIPE_STATEMENT_DESCRIPTOR_SUFFIX;
 
