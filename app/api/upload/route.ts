@@ -1,6 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server';
 import Stripe from 'stripe';
-import { createPrediction, getActiveReferralCode, updateReferralCodeUsage } from '@/lib/db';
+import {
+  createPrediction,
+  getActiveReferralCode,
+  updateReferralCodeUsage,
+  getPredictionByStripeSession,
+} from '@/lib/db';
 import { uploadImage, generateUniqueFileName } from '@/lib/r2';
 import { sendTelegramNotification } from '@/lib/telegram';
 
@@ -21,14 +26,27 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Verify Stripe session
+    // Verify Stripe session. Accept a *completed* checkout session as well as
+    // an explicitly `paid` one: for async/redirect methods like Klarna the
+    // payment can still be `processing` for a few seconds after the session is
+    // already `complete`, and a strict `paid` check would reject a legitimate
+    // paying customer's scan. The webhook reconciles the final payment state.
     const session = await stripe.checkout.sessions.retrieve(sessionId);
 
-    if (session.payment_status !== 'paid') {
+    if (session.status !== 'complete' && session.payment_status !== 'paid') {
       return NextResponse.json(
         { error: 'Payment not completed' },
         { status: 400 }
       );
+    }
+
+    // Idempotency: one paid session = one prediction. If this session already
+    // has a record (e.g. the customer re-submitted, or a retry), return the
+    // existing one instead of inserting a duplicate, re-uploading to R2, or
+    // re-incrementing the referral commission counter.
+    const existing = await getPredictionByStripeSession(sessionId);
+    if (existing) {
+      return NextResponse.json({ success: true, prediction_id: existing.id });
     }
 
     const customerEmail = session.customer_details?.email || '';
@@ -83,7 +101,10 @@ export async function POST(request: NextRequest) {
     );
 
     return NextResponse.json({ success: true, prediction_id: prediction.id });
-  } catch {
+  } catch (error) {
+    // Log the real cause — this catch previously swallowed every failure
+    // silently, leaving paid customers stuck with no diagnostic trail.
+    console.error('Upload route error:', error);
     return NextResponse.json(
       { error: 'Internal server error' },
       { status: 500 }

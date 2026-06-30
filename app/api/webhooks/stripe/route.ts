@@ -76,7 +76,28 @@ export async function POST(request: NextRequest) {
 }
 
 async function handleCheckoutCompleted(session: Stripe.Checkout.Session) {
+  // Mark any existing prediction record as payment-confirmed.
   await updatePredictionWebhookConfirmed('stripe_session_id', session.id)
+
+  // Safety-net alert: fire on EVERY completed checkout, even when no prediction
+  // record exists yet (i.e. the customer paid but hasn't uploaded their scan).
+  // This guarantees a paid customer is never invisible — if the upload step is
+  // interrupted (e.g. a Klarna redirect dropping them), we still get pinged and
+  // can follow up before the 2-hour SLA lapses.
+  const email = session.customer_details?.email || session.customer_email || 'unknown'
+  const amount =
+    typeof session.amount_total === 'number'
+      ? `${session.currency === 'gbp' ? '£' : ''}${(session.amount_total / 100).toFixed(2)}`
+      : 'unknown'
+
+  await sendTelegramNotification(
+    `💰 <b>Payment received</b>\n\n` +
+    `Email: ${email}\n` +
+    `Amount: ${amount}\n` +
+    `Session: ${session.id}\n\n` +
+    `If no "scan to review" message follows shortly, the customer has paid but ` +
+    `not yet uploaded their scan — reach out so they can finish.`
+  )
 }
 
 async function handlePaymentSucceeded(paymentIntent: Stripe.PaymentIntent) {
