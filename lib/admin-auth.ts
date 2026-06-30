@@ -22,10 +22,12 @@ export const ADMIN_TOKEN_HEADER = 'x-admin-token'
 // 8 hours — long enough for a review session, short enough to limit exposure.
 export const ADMIN_SESSION_MAX_AGE = 60 * 60 * 8
 
-/** The configured admin secret, or null when it is unset/empty. */
+/** The configured admin secret, or null when it is unset/blank. */
 export function getAdminToken(): string | null {
   const token = process.env.ADMIN_API_TOKEN
-  return token && token.length > 0 ? token : null
+  // Treat a whitespace-only value as unconfigured so it can't become a weak,
+  // accidentally-valid password.
+  return token && token.trim().length > 0 ? token : null
 }
 
 /** Constant-time string comparison; returns false (never throws) on mismatch. */

@@ -44,7 +44,12 @@ export function rateLimit(
   return { ok: true, retryAfterSec: 0 }
 }
 
-/** Best-effort client IP for rate-limit keying (Vercel sets x-forwarded-for). */
+/**
+ * Best-effort client IP for rate-limit keying. Trusts x-forwarded-for, which is
+ * safe on Vercel (the platform sets it at the edge). Behind a different proxy
+ * that forwards a client-supplied XFF, this key becomes spoofable — pin to the
+ * platform's trusted client-IP header in that case.
+ */
 export function clientIp(request: NextRequest): string {
   const fwd = request.headers.get('x-forwarded-for')
   if (fwd) return fwd.split(',')[0].trim()
