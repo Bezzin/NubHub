@@ -3,8 +3,12 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { getPredictionById, updatePredictionAI } from '@/lib/db';
 import { getSignedImageUrl } from '@/lib/r2';
 import { sendTelegramPhotoWithButtons } from '@/lib/telegram';
+import { requireAdmin } from '@/lib/admin-auth';
 
 export async function POST(request: NextRequest) {
+  const denied = requireAdmin(request);
+  if (denied) return denied;
+
   try {
     const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
@@ -25,6 +29,18 @@ export async function POST(request: NextRequest) {
         { error: 'Prediction not found' },
         { status: 404 }
       );
+    }
+
+    // Idempotency: if already analysed, return the stored result instead of
+    // re-calling Gemini (cost) and re-notifying Telegram for manual review.
+    if (prediction.ai_raw_response) {
+      return NextResponse.json({
+        success: true,
+        prediction: (prediction.ai_prediction || 'unclear').toUpperCase(),
+        confidence: prediction.ai_confidence || 0,
+        explanation: prediction.ai_raw_response,
+        cached: true,
+      });
     }
 
     // Generate signed URL from R2 key and fetch the image

@@ -8,6 +8,8 @@ import {
 } from '@/lib/db';
 import { uploadImage, generateUniqueFileName } from '@/lib/r2';
 import { sendTelegramNotification } from '@/lib/telegram';
+import { internalAuthHeaders } from '@/lib/admin-auth';
+import { getAppOrigin } from '@/lib/app-url';
 
 export async function POST(request: NextRequest) {
   try {
@@ -82,11 +84,12 @@ export async function POST(request: NextRequest) {
       }
     }
 
-    // Trigger AI analysis
-    fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/analyze`, {
+    // Trigger AI analysis (server-to-server; /api/analyze is admin-gated)
+    fetch(`${getAppOrigin()}/api/analyze`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        ...internalAuthHeaders(),
       },
       body: JSON.stringify({ prediction_id: prediction.id }),
     }).catch(() => {});
@@ -97,7 +100,7 @@ export async function POST(request: NextRequest) {
       `Email: ${customerEmail}\n` +
       `Prediction ID: ${prediction.id}\n` +
       `${referralCode ? `Referral: ${referralCode}\n` : ''}` +
-      `\n<a href="${process.env.NEXT_PUBLIC_APP_URL}/admin">View in Admin Dashboard</a>`
+      `\n<a href="${getAppOrigin()}/admin">View in Admin Dashboard</a>`
     );
 
     return NextResponse.json({ success: true, prediction_id: prediction.id });
