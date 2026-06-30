@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { timingSafeEqual } from 'crypto'
+import { timingSafeEqual, createHmac } from 'crypto'
 
 /**
  * Server-side authentication for admin and internal API routes.
@@ -44,6 +44,39 @@ export function verifyAdminToken(candidate: string): boolean {
   return safeEqual(candidate, expected)
 }
 
+// --- Session cookie (stateless, signed, expiring) ---
+//
+// The cookie value is "<expiryMs>.<hmac>" rather than the raw ADMIN_API_TOKEN,
+// so the browser never holds the master secret and the session carries its own
+// expiry. The HMAC is keyed on ADMIN_API_TOKEN, so rotating the token instantly
+// invalidates all outstanding sessions.
+
+function signSession(payload: string): string {
+  const secret = getAdminToken()
+  if (!secret) return ''
+  return createHmac('sha256', secret).update(payload).digest('hex')
+}
+
+/** Builds a fresh signed session cookie value. */
+export function createSessionValue(): string {
+  const payload = String(Date.now() + ADMIN_SESSION_MAX_AGE * 1000)
+  return `${payload}.${signSession(payload)}`
+}
+
+/** Validates a session cookie value produced by createSessionValue(). */
+export function verifySessionValue(value: string): boolean {
+  if (!getAdminToken()) return false
+  const dot = value.indexOf('.')
+  if (dot <= 0) return false
+  const payload = value.slice(0, dot)
+  const sig = value.slice(dot + 1)
+  const exp = Number(payload)
+  if (!Number.isFinite(exp) || Date.now() > exp) return false
+  const expected = signSession(payload)
+  if (!expected || !sig) return false
+  return safeEqual(sig, expected)
+}
+
 /**
  * True when the request carries a valid admin credential, via either the
  * httpOnly session cookie (browser) or the x-admin-token header
@@ -57,7 +90,7 @@ export function isAuthorizedAdmin(request: NextRequest): boolean {
   if (header && safeEqual(header, expected)) return true
 
   const cookie = request.cookies.get(ADMIN_COOKIE_NAME)?.value
-  if (cookie && safeEqual(cookie, expected)) return true
+  if (cookie && verifySessionValue(cookie)) return true
 
   return false
 }

@@ -2,9 +2,11 @@ import { NextRequest, NextResponse } from 'next/server'
 import {
   ADMIN_COOKIE_NAME,
   ADMIN_SESSION_MAX_AGE,
+  createSessionValue,
   getAdminToken,
   verifyAdminToken,
 } from '@/lib/admin-auth'
+import { rateLimit, clientIp } from '@/lib/rate-limit'
 
 /**
  * Exchanges the admin password for an httpOnly session cookie. The password is
@@ -21,6 +23,19 @@ export async function POST(request: NextRequest) {
     )
   }
 
+  // Throttle brute-force attempts per client IP. Defence-in-depth: the token's
+  // entropy is the primary control, this caps online guessing rate.
+  const limit = rateLimit(`admin-login:${clientIp(request)}`, {
+    limit: 10,
+    windowMs: 10 * 60 * 1000,
+  })
+  if (!limit.ok) {
+    return NextResponse.json(
+      { error: 'Too many attempts. Try again later.' },
+      { status: 429, headers: { 'Retry-After': String(limit.retryAfterSec) } }
+    )
+  }
+
   let password: unknown
   try {
     const body = await request.json()
@@ -34,7 +49,7 @@ export async function POST(request: NextRequest) {
   }
 
   const response = NextResponse.json({ success: true })
-  response.cookies.set(ADMIN_COOKIE_NAME, token, {
+  response.cookies.set(ADMIN_COOKIE_NAME, createSessionValue(), {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production',
     sameSite: 'strict',
