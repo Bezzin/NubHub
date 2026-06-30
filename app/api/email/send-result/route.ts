@@ -1,7 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
+import { requireAdmin } from '@/lib/admin-auth';
 
 export async function POST(request: NextRequest) {
+  const denied = requireAdmin(request);
+  if (denied) return denied;
+
   try {
     const resend = new Resend(process.env.RESEND_API_KEY);
     const { email, result, confidence, prediction_id } = await request.json();

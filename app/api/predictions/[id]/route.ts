@@ -16,7 +16,14 @@ export async function GET(
       );
     }
 
-    return NextResponse.json({ prediction });
+    // This endpoint is unauthenticated and addressable by prediction id (the
+    // customer's result page polls it). Return ONLY the non-sensitive fields
+    // that page consumes — never the full row, which contains PII
+    // (customer_email, Stripe ids, scan_image_url, etc.).
+    const { final_result, ai_confidence, ai_raw_response } = prediction;
+    return NextResponse.json({
+      prediction: { final_result, ai_confidence, ai_raw_response },
+    });
   } catch {
     return NextResponse.json(
       { error: 'Failed to fetch prediction' },

@@ -8,6 +8,7 @@ import {
   answerCallbackQuery,
   editTelegramMessageCaption,
 } from '@/lib/telegram'
+import { internalAuthHeaders } from '@/lib/admin-auth'
 
 type CallbackQuery = {
   id: string
@@ -85,7 +86,7 @@ export async function POST(request: NextRequest) {
       // Process refund
       const refundRes = await fetch(`${appUrl}/api/refund/process`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', ...internalAuthHeaders() },
         body: JSON.stringify({
           prediction_id: predictionId,
           reason: 'unclear_image',
@@ -101,7 +102,7 @@ export async function POST(request: NextRequest) {
       // Send unclear email
       const emailRes = await fetch(`${appUrl}/api/email/send-unclear`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', ...internalAuthHeaders() },
         body: JSON.stringify({
           email: prediction.customer_email,
         }),
@@ -124,7 +125,7 @@ export async function POST(request: NextRequest) {
       // Send result email (boy or girl)
       const emailRes = await fetch(`${appUrl}/api/email/send-result`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', ...internalAuthHeaders() },
         body: JSON.stringify({
           email: prediction.customer_email,
           result: result.toUpperCase(),

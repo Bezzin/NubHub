@@ -1,7 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getPredictionById, updatePredictionUnclear, updatePredictionConfirmResult } from '@/lib/db'
+import { requireAdmin, internalAuthHeaders } from '@/lib/admin-auth'
 
 export async function POST(request: NextRequest) {
+  const denied = requireAdmin(request)
+  if (denied) return denied
+
   try {
     const { prediction_id, result } = await request.json()
 
@@ -28,6 +32,7 @@ export async function POST(request: NextRequest) {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          ...internalAuthHeaders(),
         },
         body: JSON.stringify({
           prediction_id,
@@ -43,6 +48,7 @@ export async function POST(request: NextRequest) {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          ...internalAuthHeaders(),
         },
         body: JSON.stringify({
           email: prediction.customer_email,
@@ -56,6 +62,7 @@ export async function POST(request: NextRequest) {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          ...internalAuthHeaders(),
         },
         body: JSON.stringify({
           email: prediction.customer_email,

@@ -37,7 +37,8 @@ type Prediction = {
 };
 
 export default function AdminDashboard() {
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  // null = checking session, false = needs login, true = authenticated
+  const [isAuthenticated, setIsAuthenticated] = useState<boolean | null>(null);
   const [password, setPassword] = useState('');
   const [predictions, setPredictions] = useState<Prediction[]>([]);
   const [filteredPredictions, setFilteredPredictions] = useState<Prediction[]>([]);
@@ -47,11 +48,7 @@ export default function AdminDashboard() {
   const [error, setError] = useState('');
 
   useEffect(() => {
-    const authStatus = localStorage.getItem('admin_auth');
-    if (authStatus === 'true') {
-      setIsAuthenticated(true);
-      loadPredictions();
-    }
+    void checkSession();
   }, []);
 
   useEffect(() => {
@@ -62,21 +59,64 @@ export default function AdminDashboard() {
     }
   }, [filter, predictions]);
 
-  const handleLogin = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (password === process.env.NEXT_PUBLIC_ADMIN_PASSWORD || password === 'admin123') {
-      setIsAuthenticated(true);
-      localStorage.setItem('admin_auth', 'true');
-      loadPredictions();
-    } else {
-      setError('Incorrect password');
+  // Probe the httpOnly session cookie by attempting an authenticated fetch.
+  const checkSession = async () => {
+    try {
+      const response = await fetch('/api/admin/predictions');
+      if (response.ok) {
+        const data = await response.json();
+        setPredictions(data.predictions || []);
+        setIsAuthenticated(true);
+      } else {
+        setIsAuthenticated(false);
+      }
+    } catch {
+      setIsAuthenticated(false);
     }
+  };
+
+  const handleLogin = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setError('');
+    setIsLoading(true);
+    try {
+      const response = await fetch('/api/admin/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password }),
+      });
+      if (response.ok) {
+        setPassword('');
+        setIsAuthenticated(true);
+        await loadPredictions();
+      } else {
+        setError('Incorrect password');
+      }
+    } catch {
+      setError('Login failed. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const handleLogout = async () => {
+    try {
+      await fetch('/api/admin/logout', { method: 'POST' });
+    } catch {
+      // Clear local state regardless of network outcome.
+    }
+    setPredictions([]);
+    setIsAuthenticated(false);
   };
 
   const loadPredictions = async () => {
     setIsLoading(true);
     try {
       const response = await fetch('/api/admin/predictions');
+      if (response.status === 401) {
+        setIsAuthenticated(false);
+        return;
+      }
       const data = await response.json();
       setPredictions(data.predictions || []);
     } catch (err) {
@@ -113,6 +153,14 @@ export default function AdminDashboard() {
     }
   };
 
+  if (isAuthenticated === null) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-neutral-50 p-4">
+        <p className="text-neutral-500">Loading…</p>
+      </div>
+    );
+  }
+
   if (!isAuthenticated) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-neutral-50 p-4">
@@ -138,8 +186,8 @@ export default function AdminDashboard() {
                   placeholder="Enter admin password"
                 />
               </div>
-              <Button type="submit" className="w-full">
-                Login
+              <Button type="submit" className="w-full" disabled={isLoading}>
+                {isLoading ? 'Signing in…' : 'Login'}
               </Button>
             </form>
           </CardContent>
@@ -161,13 +209,7 @@ export default function AdminDashboard() {
       <div className="container mx-auto max-w-7xl">
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-3xl font-bold">Admin Dashboard</h1>
-          <Button
-            variant="outline"
-            onClick={() => {
-              localStorage.removeItem('admin_auth');
-              setIsAuthenticated(false);
-            }}
-          >
+          <Button variant="outline" onClick={handleLogout}>
             Logout
           </Button>
         </div>
