@@ -1,10 +1,16 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
+import { requireAdmin } from '@/lib/admin-auth';
+import { getAppOrigin } from '@/lib/app-url';
 
 export async function POST(request: NextRequest) {
+  const denied = requireAdmin(request);
+  if (denied) return denied;
+
   try {
     const resend = new Resend(process.env.RESEND_API_KEY?.trim());
     const { email, result, confidence, prediction_id } = await request.json();
+    const appUrl = getAppOrigin();
 
     const subject = 'Your Baby Gender Prediction Results 👶';
 
@@ -59,7 +65,7 @@ export async function POST(request: NextRequest) {
               </ul>
 
               <p style="text-align: center;">
-                <a href="${process.env.NEXT_PUBLIC_APP_URL}/refund/${prediction_id}" class="button">
+                <a href="${appUrl}/refund/${prediction_id}" class="button">
                   Request Refund (if incorrect)
                 </a>
               </p>
@@ -91,7 +97,7 @@ This prediction is based on nub theory analysis by our AI system and verified by
 What's next?
 - Remember, this is for entertainment only (not medical advice)
 - Your 20-week anatomy scan will confirm the gender
-- If our prediction is wrong, upload your 20-week confirmation scan for a full refund: ${process.env.NEXT_PUBLIC_APP_URL}/refund/${prediction_id}
+- If our prediction is wrong, upload your 20-week confirmation scan for a full refund: ${appUrl}/refund/${prediction_id}
 
 Questions? Just reply to this email.
 

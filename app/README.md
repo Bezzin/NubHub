@@ -155,8 +155,10 @@ GEMINI_API_KEY=AIzaSy...
 TELEGRAM_BOT_TOKEN=...
 TELEGRAM_CHAT_ID=...
 
-# Admin
-ADMIN_PASSWORD=your_secure_password
+# Admin — server-only secret. Used both as the admin dashboard password and as
+# the x-admin-token shared secret for internal API calls. Do NOT prefix with
+# NEXT_PUBLIC_ (that would expose it to the browser). Use a long random value.
+ADMIN_API_TOKEN=your_long_random_secret
 
 # App URL
 NEXT_PUBLIC_APP_URL=http://localhost:3000
