@@ -7,7 +7,7 @@ export async function POST(request: NextRequest) {
   if (denied) return denied;
 
   try {
-    const resend = new Resend(process.env.RESEND_API_KEY);
+    const resend = new Resend(process.env.RESEND_API_KEY?.trim());
     const { email } = await request.json();
 
     const subject = 'Refund Issued - Image Quality Issue';

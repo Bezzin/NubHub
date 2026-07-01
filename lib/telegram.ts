@@ -1,6 +1,8 @@
 function getTelegramConfig() {
-  const botToken = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
+  // Trim to tolerate a stray newline/space in the env var (Vercel flagged these
+  // "Needs Attention"). A bad char in the bot token would corrupt the API URL.
+  const botToken = process.env.TELEGRAM_BOT_TOKEN?.trim();
+  const chatId = process.env.TELEGRAM_CHAT_ID?.trim();
 
   if (!botToken || !chatId) {
     return null;
