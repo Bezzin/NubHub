@@ -2,9 +2,14 @@ import { S3Client, PutObjectCommand, GetObjectCommand } from '@aws-sdk/client-s3
 import { getSignedUrl } from '@aws-sdk/s3-request-presigner'
 
 const getR2Client = () => {
-  const accessKeyId = process.env.CLOUDFLARE_R2_ACCESS_KEY_ID
-  const secretAccessKey = process.env.CLOUDFLARE_R2_SECRET_ACCESS_KEY
-  const endpoint = process.env.CLOUDFLARE_R2_ENDPOINT
+  // Trim credentials defensively. A stray newline or space in an env var (a
+  // common copy-paste / CLI artifact when setting secrets) gets embedded by the
+  // AWS SDK into the SigV4 "Authorization" header, which then throws
+  // "Invalid character in header content" (ERR_INVALID_CHAR) and fails EVERY
+  // upload with a 500. Trimming makes the client resilient to that.
+  const accessKeyId = process.env.CLOUDFLARE_R2_ACCESS_KEY_ID?.trim()
+  const secretAccessKey = process.env.CLOUDFLARE_R2_SECRET_ACCESS_KEY?.trim()
+  const endpoint = process.env.CLOUDFLARE_R2_ENDPOINT?.trim()
 
   if (!accessKeyId || !secretAccessKey || !endpoint) {
     throw new Error('Missing Cloudflare R2 credentials in environment variables')
@@ -20,7 +25,7 @@ const getR2Client = () => {
   })
 }
 
-const BUCKET_NAME = process.env.CLOUDFLARE_R2_BUCKET_NAME || ''
+const BUCKET_NAME = (process.env.CLOUDFLARE_R2_BUCKET_NAME || '').trim()
 
 export async function uploadImage(
   fileBuffer: Buffer,
