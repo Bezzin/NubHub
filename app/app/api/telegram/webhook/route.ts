@@ -32,7 +32,7 @@ const RESULT_LABELS: Record<string, string> = {
 export async function POST(request: NextRequest) {
   try {
     // Verify webhook secret — fail closed if not configured
-    const webhookSecret = process.env.TELEGRAM_WEBHOOK_SECRET
+    const webhookSecret = process.env.TELEGRAM_WEBHOOK_SECRET?.trim()
     if (!webhookSecret) {
       console.error('TELEGRAM_WEBHOOK_SECRET not configured')
       return NextResponse.json({ error: 'Server misconfiguration' }, { status: 500 })

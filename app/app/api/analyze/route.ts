@@ -6,7 +6,7 @@ import { sendTelegramPhotoWithButtons } from '@/lib/telegram';
 
 export async function POST(request: NextRequest) {
   try {
-    const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
+    const genAI = new GoogleGenerativeAI((process.env.GEMINI_API_KEY ?? '').trim());
 
     const { prediction_id } = await request.json();
 
